@@ -1,0 +1,86 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">property</custom-type>
+        <custom-type translate="1">agent</custom-type>
+        <custom-type translate="1">lead</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">membership</custom-type>
+        <custom-type translate="1">invoice</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">property_type</taxonomy>
+        <taxonomy translate="1">property_status</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">property_address</custom-field>
+        <custom-field action="copy">property_lat</custom-field>
+        <custom-field action="copy">property_lng</custom-field>
+        <custom-field action="copy">street_number</custom-field>
+        <custom-field action="translate">route</custom-field>
+        <custom-field action="copy">neighborhood</custom-field>
+        <custom-field action="copy">locality</custom-field>
+        <custom-field action="copy">administrative_area_level_1</custom-field>
+        <custom-field action="copy">postal_code</custom-field>
+        <custom-field action="copy">property_price</custom-field>
+        <custom-field action="translate">property_price_label</custom-field>
+        <custom-field action="copy">property_size</custom-field>
+        <custom-field action="copy">property_beds</custom-field>
+        <custom-field action="copy">property_baths</custom-field>
+        <custom-field action="copy">property_plans</custom-field>
+        <custom-field action="copy">property_agent</custom-field>
+        <custom-field action="copy">property_video</custom-field>
+        <custom-field action="copy">property_gallery</custom-field>
+        <custom-field action="copy">property_calc</custom-field>
+        <custom-field action="copy">property_featured</custom-field>
+        <custom-field action="translate">agent_title</custom-field>
+        <custom-field action="copy">agent_agency</custom-field>
+        <custom-field action="translate">agent_specs</custom-field>
+        <custom-field action="copy">agent_email</custom-field>
+        <custom-field action="copy">agent_phone</custom-field>
+        <custom-field action="copy">agent_skype</custom-field>
+        <custom-field action="copy">agent_facebook</custom-field>
+        <custom-field action="copy">agent_twitter</custom-field>
+        <custom-field action="copy">agent_pinterest</custom-field>
+        <custom-field action="copy">agent_linkedin</custom-field>
+        <custom-field action="copy">agent_instagram</custom-field>
+        <custom-field action="copy">agent_user</custom-field>
+        <custom-field action="copy">agent_avatar</custom-field>
+        <custom-field action="copy">agent_type</custom-field>
+        <custom-field action="copy">agent_featured</custom-field>
+        <custom-field action="copy">agent_payment</custom-field>
+        <custom-field action="copy">lead_email</custom-field>
+        <custom-field action="copy">lead_phone</custom-field>
+        <custom-field action="copy">lead_contacted</custom-field>
+        <custom-field action="copy">lead_score</custom-field>
+        <custom-field action="translate">lead_notes</custom-field>
+        <custom-field action="copy">lead_agent</custom-field>
+        <custom-field action="copy">lead_user</custom-field>
+        <custom-field action="translate">testimonial_text</custom-field>
+        <custom-field action="copy">testimonial_avatar</custom-field>
+        <custom-field action="copy">membership_billing_time_unit</custom-field>
+        <custom-field action="copy">membership_period</custom-field>
+        <custom-field action="copy">membership_submissions_no</custom-field>
+        <custom-field action="copy">membership_unlim_submissions</custom-field>
+        <custom-field action="copy">membership_featured_submissions_no</custom-field>
+        <custom-field action="copy">membership_plan_price</custom-field>
+        <custom-field action="copy">membership_free_plan</custom-field>
+        <custom-field action="copy">membership_plan_popular</custom-field>
+        <custom-field action="translate">membership_plan_popular_label</custom-field>
+        <custom-field action="copy">invoice_item_type</custom-field>
+        <custom-field action="copy">invoice_item_id</custom-field>
+        <custom-field action="copy">invoice_item_price</custom-field>
+        <custom-field action="copy">invoice_agent_id</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="resideo_general_settings">
+            <key name="resideo_beds_label_field"/>
+            <key name="resideo_baths_label_field"/>
+            <key name="resideo_unit_field"/>
+            <key name="resideo_copyright_field"/>
+        </key>
+        <key name="resideo_cities_settings"></key>
+        <key name="resideo_neighborhoods_settings"></key>
+        <key name="resideo_fields_settings"></key>
+        <key name="resideo_amenities_settings"></key>
+    </admin-texts>
+</wpml-config>

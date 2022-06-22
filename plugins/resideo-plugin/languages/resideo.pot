@@ -1,0 +1,7664 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Resideo Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-30 14:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: resideo"
+
+#: admin/libs/import/wordpress-importer.php:637
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: services/contact.php:42 services/contact.php:138 services/contact.php:240
+#: services/contact.php:336 services/save-property.php:192
+#, php-format
+msgid "%s field is mandatory."
+msgstr ""
+
+#: services/users.php:35
+#, php-format
+msgid "%s Team"
+msgstr ""
+
+#: services/contact.php:84 services/contact.php:186 services/contact.php:282
+#: services/contact.php:378
+#, php-format
+msgid "%s | Message from client"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:317
+msgid "- Select -"
+msgstr ""
+
+#: admin/sections/property_layout.php:28
+msgid "1 - Grid Gallery"
+msgstr ""
+
+#: admin/sections/property_layout.php:29
+msgid "2 - Side Gallery Thumbnails"
+msgstr ""
+
+#: admin/sections/property_layout.php:30
+msgid "3 - Full Width Carousel"
+msgstr ""
+
+#: admin/sections/property_layout.php:31
+msgid "4 - Half Map"
+msgstr ""
+
+#: admin/sections/property_layout.php:32
+msgid "5 - Contact Agent Hero"
+msgstr ""
+
+#: admin/sections/property_layout.php:33
+msgid "6 - Boxed Gallery Thumbnails"
+msgstr ""
+
+#: admin/sections/property_layout.php:34
+msgid "7 - Full Width Slider"
+msgstr ""
+
+#: services/paypal.php:355
+#, php-format
+msgid "[%s] Listing Upgraded to Featured"
+msgstr ""
+
+#: services/paypal.php:394
+#, php-format
+msgid "[%s] Membership Plan Activated"
+msgstr ""
+
+#: services/contact-agent.php:49 services/contact-agent.php:176
+#, php-format
+msgid "[%s] Message from client"
+msgstr ""
+
+#: services/paypal.php:358
+#, php-format
+msgid "[%s] New Paid Submission"
+msgstr ""
+
+#: services/users.php:24
+#, php-format
+msgid "[%s] New User Sign Up"
+msgstr ""
+
+#: services/report-property.php:36
+#, php-format
+msgid "[%s] Property Listing Report"
+msgstr ""
+
+#: services/save-property.php:354
+#, php-format
+msgid "[%s] Property Submitted"
+msgstr ""
+
+#: services/save-property.php:364
+#, php-format
+msgid "[%s] Property Updated"
+msgstr ""
+
+#: services/users.php:39
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: services/save-property.php:348
+#, php-format
+msgid "A new property was submitted on %s:"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1121
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: services/save-property.php:358
+#, php-format
+msgid "A property was updated on %s:"
+msgstr ""
+
+#: page-templates/account-settings.php:377
+msgid "About"
+msgstr ""
+
+#: page-templates/account-settings.php:94 views/dashboard-nav.php:29
+msgid "Account Settings"
+msgstr ""
+
+#: page-templates/account-settings.php:250
+msgid "Activate Plan"
+msgstr ""
+
+#: page-templates/account-settings.php:252
+msgid "Activating..."
+msgstr ""
+
+#: page-templates/account-settings.php:205
+msgid "Active"
+msgstr ""
+
+#: shortcodes/shortcodes.php:297 shortcodes/shortcodes.php:366
+#: shortcodes/shortcodes.php:484 shortcodes/shortcodes.php:506
+#: shortcodes/shortcodes.php:520 shortcodes/shortcodes.php:544
+#: post-types/init.php:94 post-types/property.php:693
+msgid "Add"
+msgstr ""
+
+#: post-types/agent.php:17
+msgid "Add Agent/Owner"
+msgstr ""
+
+#: admin/sections/amenities.php:49
+msgid "Add Amenity"
+msgstr ""
+
+#: admin/sections/cities.php:43
+msgid "Add City"
+msgstr ""
+
+#: admin/sections/contact_fields.php:63 admin/sections/custom_fields.php:93
+msgid "Add Field"
+msgstr ""
+
+#: page-templates/submit-property.php:639 post-types/property.php:630
+msgid "Add Floor Plan"
+msgstr ""
+
+#: shortcodes/shortcodes.php:300 shortcodes/shortcodes.php:570
+msgid "Add Icon"
+msgstr ""
+
+#: shortcodes/shortcodes.php:299 shortcodes/shortcodes.php:361
+#: shortcodes/shortcodes.php:517 shortcodes/shortcodes.php:539
+#: shortcodes/shortcodes.php:569
+msgid "Add Image"
+msgstr ""
+
+#: post-types/invoice.php:17
+msgid "Add Invoice"
+msgstr ""
+
+#: page-templates/my-leads.php:391 post-types/lead.php:17
+msgid "Add Lead"
+msgstr ""
+
+#: post-types/membership.php:17
+msgid "Add Membership Plan"
+msgstr ""
+
+#: admin/sections/neighborhoods.php:43
+msgid "Add Neighborhood"
+msgstr ""
+
+#: post-types/agent.php:16
+msgid "Add New Agent/Owner"
+msgstr ""
+
+#: admin/sections/amenities.php:17
+msgid "Add New Amenity"
+msgstr ""
+
+#: shortcodes/shortcodes.php:359
+msgid "Add New Area"
+msgstr ""
+
+#: shortcodes/shortcodes.php:515
+msgid "Add New Award"
+msgstr ""
+
+#: admin/sections/cities.php:19
+msgid "Add New City"
+msgstr ""
+
+#: admin/sections/contact_fields.php:17
+msgid "Add New Contact Field"
+msgstr ""
+
+#: admin/sections/custom_fields.php:18
+msgid "Add New Custom Fields"
+msgstr ""
+
+#: post-types/invoice.php:16
+msgid "Add New Invoice"
+msgstr ""
+
+#: page-templates/my-leads.php:164 post-types/lead.php:16
+msgid "Add New Lead"
+msgstr ""
+
+#: post-types/membership.php:16
+msgid "Add New Membership Plan"
+msgstr ""
+
+#: admin/sections/neighborhoods.php:19
+msgid "Add New Neighborhood"
+msgstr ""
+
+#: shortcodes/shortcodes.php:492
+msgid "Add New Number"
+msgstr ""
+
+#: post-types/page-meta.php:1112
+msgid "Add New Office"
+msgstr ""
+
+#: shortcodes/shortcodes.php:481
+msgid "Add New Photo"
+msgstr ""
+
+#: post-types/property.php:16
+msgid "Add New Property"
+msgstr ""
+
+#: post-types/property.php:73
+msgid "Add New Property Status"
+msgstr ""
+
+#: post-types/property.php:49
+msgid "Add New Property Type"
+msgstr ""
+
+#: shortcodes/shortcodes.php:286
+msgid "Add New Service"
+msgstr ""
+
+#: shortcodes/shortcodes.php:537 post-types/page-meta.php:227
+msgid "Add New Slide"
+msgstr ""
+
+#: post-types/subscriber.php:16
+msgid "Add New Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:16
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-types/page-meta.php:1174
+msgid "Add Office"
+msgstr ""
+
+#: post-types/property.php:76
+msgid "Add or remove property statuses"
+msgstr ""
+
+#: post-types/property.php:52
+msgid "Add or remove property types"
+msgstr ""
+
+#: shortcodes/shortcodes.php:483
+msgid "Add Photo"
+msgstr ""
+
+#: services/upload-scripts.php:37
+msgid "Add Photo Caption"
+msgstr ""
+
+#: services/upload-scripts.php:36
+msgid "Add Photo Title"
+msgstr ""
+
+#: post-types/property.php:550 post-types/page-meta.php:206
+msgid "Add Photos"
+msgstr ""
+
+#: page-templates/submit-property.php:691
+msgid "Add Plan"
+msgstr ""
+
+#: shortcodes/shortcodes.php:381 post-types/property.php:17
+#: post-types/page-meta.php:437
+msgid "Add Property"
+msgstr ""
+
+#: post-types/page-meta.php:269
+msgid "Add Slide"
+msgstr ""
+
+#: post-types/subscriber.php:17
+msgid "Add Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:17
+msgid "Add Testimonial"
+msgstr ""
+
+#: page-templates/my-leads.php:395
+msgid "Adding..."
+msgstr ""
+
+#: shortcodes/shortcodes.php:341 shortcodes/shortcodes.php:419
+#: shortcodes/search_properties.php:81 page-templates/submit-property.php:876
+#: post-types/property.php:142 post-types/page-meta.php:1149
+#: post-types/page-meta.php:1303 views/filter-properties-form-sidebar.php:99
+#: views/filter-properties-form.php:95 widgets/search_properties.php:66
+#: widgets/search_properties.php:397 admin/sections/property_fields.php:12
+#: elementor/widgets/search_properties.php:99
+#: elementor/widgets/search_properties.php:349
+msgid "Address"
+msgstr ""
+
+#: services/save-property.php:134
+msgid "Address field is mandatory."
+msgstr ""
+
+#: admin/sections/address.php:48
+msgid "Address Info"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Afghanistan"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Afrikaans (South Africa)"
+msgstr ""
+
+#: admin/sections/general.php:124
+msgid "After"
+msgstr ""
+
+#: page-templates/account-settings.php:576 post-types/agent.php:237
+#: post-types/agent.php:240 post-types/agent.php:397
+#: post-types/property.php:130 post-types/lead.php:373 post-types/lead.php:489
+msgid "Agent"
+msgstr ""
+
+#: post-types/init.php:78
+msgid "Agent Avatar"
+msgstr ""
+
+#: admin/sections/colors.php:296
+msgid "Agent Card CTA"
+msgstr ""
+
+#: shortcodes/shortcodes.php:470
+msgid "Agent Card CTA Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:324
+msgid "Agent Card CTA text"
+msgstr ""
+
+#: elementor/widgets/featured_agents.php:138
+msgid "Agent Cards CTA Color"
+msgstr ""
+
+#: elementor/widgets/featured_agents.php:127
+msgid "Agent Cards CTA Text"
+msgstr ""
+
+#: page-templates/account-settings.php:368
+msgid "Agent Details"
+msgstr ""
+
+#: post-types/invoice.php:88
+msgid "Agent ID"
+msgstr ""
+
+#: post-types/agent.php:15
+msgid "Agent/Owner"
+msgstr ""
+
+#: services/save-property.php:350 services/save-property.php:360
+#: services/paypal.php:363
+#, php-format
+msgid "Agent: %s"
+msgstr ""
+
+#: admin/sections/appearance.php:17
+msgid "Agents per Page"
+msgstr ""
+
+#: post-types/agent.php:14
+msgid "Agents/Owners"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Albania"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Albanian (Albania)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Algeria"
+msgstr ""
+
+#: shortcodes/shortcodes.php:441 shortcodes/shortcodes.php:578
+#: elementor/widgets/search_properties.php:58
+msgid "Align"
+msgstr ""
+
+#: shortcodes/shortcodes.php:310 shortcodes/search_properties.php:55
+#: shortcodes/search_properties.php:124 shortcodes/search_properties.php:168
+#: shortcodes/search_properties.php:238 shortcodes/search_properties.php:495
+#: views/filter-properties-form-sidebar.php:72
+#: views/filter-properties-form-sidebar.php:119
+#: views/filter-properties-form-sidebar.php:149
+#: views/filter-properties-form-sidebar.php:195
+#: views/filter-properties-form-sidebar.php:376
+#: views/filter-properties-form.php:71 views/filter-properties-form.php:124
+#: views/filter-properties-form.php:156 views/filter-properties-form.php:206
+#: views/filter-properties-form.php:403 widgets/search_properties.php:369
+#: widgets/search_properties.php:419 widgets/search_properties.php:454
+#: widgets/search_properties.php:505 admin/sections/general.php:42
+#: elementor/widgets/search_properties.php:323
+#: elementor/widgets/search_properties.php:392
+#: elementor/widgets/search_properties.php:436
+#: elementor/widgets/search_properties.php:506
+#: elementor/widgets/search_properties.php:763
+#: elementor/widgets/recent_properties.php:45
+#: elementor/widgets/recent_properties.php:50
+#: elementor/widgets/featured_properties.php:45
+#: elementor/widgets/featured_properties.php:50
+msgid "All"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:171
+msgid "All done."
+msgstr ""
+
+#: post-types/property.php:70
+msgid "All Property Statuses"
+msgstr ""
+
+#: post-types/property.php:46
+msgid "All Property Types"
+msgstr ""
+
+#: services/warnings.php:48
+msgid ""
+"All the pages from the list are included in the theme demos. If you choose "
+"to import a demo, ignore this warning."
+msgstr ""
+
+#: admin/sections/authentication.php:37
+msgid "All Users Agents"
+msgstr ""
+
+#: admin/sections/authentication.php:38
+msgid "All Users Owners"
+msgstr ""
+
+#: admin/sections/general.php:23
+msgid "Allow Agents to Set Properties as Featured"
+msgstr ""
+
+#: admin/sections/general.php:22
+msgid "Allow Property Publish Without Admin Approval"
+msgstr ""
+
+#: post-types/agent.php:151
+msgid "Allow the agent to post properties regardless of payment method"
+msgstr ""
+
+#: services/upload-scripts.php:32 services/upload-scripts.php:67
+#: services/upload-scripts.php:80 services/upload-scripts.php:127
+msgid "Allowed Files"
+msgstr ""
+
+#: views/user-modal.php:127
+msgid "Already have an account?"
+msgstr ""
+
+#: admin/settings.php:245 shortcodes/shortcodes.php:352
+#: shortcodes/search_properties.php:556 page-templates/submit-property.php:460
+#: post-types/property.php:123 views/filter-properties-form-sidebar.php:423
+#: views/filter-properties-form.php:452 services/print-property.php:211
+#: admin/sections/property_layout.php:304 admin/sections/property_fields.php:27
+#: admin/sections/amenities.php:9 elementor/widgets/search_properties.php:220
+#: elementor/widgets/search_properties.php:824
+msgid "Amenities"
+msgstr ""
+
+#: admin/sections/amenities.php:51
+msgid "Amenities List"
+msgstr ""
+
+#: admin/sections/amenities.php:35 admin/sections/amenities.php:57
+msgid "Amenity Icon"
+msgstr ""
+
+#: admin/sections/amenities.php:103
+msgid "Amenity icon is mandatory."
+msgstr ""
+
+#: admin/sections/amenities.php:21
+msgid "Amenity ID"
+msgstr ""
+
+#: admin/sections/amenities.php:28 admin/sections/amenities.php:56
+msgid "Amenity Label"
+msgstr ""
+
+#: admin/sections/amenities.php:99
+msgid "Amenity label is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "American Samoa"
+msgstr ""
+
+#: services/users.php:381
+msgid "An email with password reset instructions was sent to you."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Andorra"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Angola"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Anguilla"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Antarctica"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: shortcodes/search_properties.php:266 shortcodes/search_properties.php:291
+#: views/filter-properties-form-sidebar.php:214
+#: views/filter-properties-form-sidebar.php:230
+#: views/filter-properties-form.php:224 views/filter-properties-form.php:243
+#: elementor/widgets/search_properties.php:534
+#: elementor/widgets/search_properties.php:559
+msgid "Any"
+msgstr ""
+
+#: admin/settings.php:200 admin/sections/appearance.php:9
+msgid "Appearance"
+msgstr ""
+
+#: views/filter-properties-form-sidebar.php:445
+#: views/filter-properties-form.php:478
+msgid "Apply filters"
+msgstr ""
+
+#: page-templates/contact-page-office.php:153
+#: page-templates/contact-page.php:169 page-templates/contact-page.php:169
+msgid "Applying"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Bahrain)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Egypt)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Iraq)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Jordan)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Kuwait)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Lebanon)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Libya)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Morocco)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Oman)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Qatar)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Saudi Arabia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Sudan)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Syria)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Tunisia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (United Arab Emirates)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Arabic (Yemen)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:318
+msgid "Are you sure you want to delete the shortcode?"
+msgstr ""
+
+#: services/upload-scripts.php:22 services/upload-scripts.php:57
+#: services/upload-scripts.php:117
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: page-templates/wish-list.php:161 page-templates/saved-searches.php:81
+#: page-templates/submit-property.php:1165 page-templates/my-leads.php:442
+#: page-templates/my-properties.php:327 services/upload-scripts.php:38
+#: services/upload-scripts.php:84 services/upload-scripts.php:131
+msgid "Are you sure?"
+msgstr ""
+
+#: shortcodes/shortcodes.php:469
+msgid "Area CTA Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:371
+msgid "Area Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:357 elementor/widgets/areas.php:13
+#: elementor/widgets/areas.php:170
+msgid "Areas"
+msgstr ""
+
+#: shortcodes/shortcodes.php:358 elementor/widgets/areas.php:256
+msgid "Areas List"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Argentina"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Armenia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Armenian (Armenia)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Aruba"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:306
+msgid "as a new user:"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Assamese (India)"
+msgstr ""
+
+#: post-types/agent.php:187
+msgid "Assign a User"
+msgstr ""
+
+#: post-types/property.php:509
+msgid "Assign an Agent"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:259
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:314
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/sections/gmaps.php:77
+msgid "Aubergine"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Australia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Austria"
+msgstr ""
+
+#: admin/settings.php:255 admin/sections/authentication.php:9
+msgid "Authentication"
+msgstr ""
+
+#: admin/sections/property_fields.php:214
+msgid "Autocomplete"
+msgstr ""
+
+#: shortcodes/shortcodes.php:387
+msgid "Autoslide"
+msgstr ""
+
+#: shortcodes/shortcodes.php:390 post-types/page-meta.php:334
+#: post-types/page-meta.php:443
+msgid "Autoslide Interval"
+msgstr ""
+
+#: elementor/widgets/promo_slider.php:61
+msgid "Autoslide Interval (seconds)"
+msgstr ""
+
+#: page-templates/account-settings.php:230
+msgid "Available Featured Listings"
+msgstr ""
+
+#: page-templates/account-settings.php:224
+#: page-templates/account-settings.php:227
+msgid "Available Listings"
+msgstr ""
+
+#: post-types/agent.php:45 post-types/testimonial.php:45
+msgid "Avatar"
+msgstr ""
+
+#: shortcodes/shortcodes.php:525
+msgid "Award Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:518
+msgid "Award Title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:513 elementor/widgets/awards.php:13
+#: elementor/widgets/awards.php:70
+msgid "Awards"
+msgstr ""
+
+#: shortcodes/shortcodes.php:514 elementor/widgets/awards.php:102
+msgid "Awards List"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Azerbaijan"
+msgstr ""
+
+#: admin/sections/colors.php:26 admin/sections/colors.php:344
+msgid "Background"
+msgstr ""
+
+#: shortcodes/shortcodes.php:331
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:332
+msgid "Background Color Opacity"
+msgstr ""
+
+#: shortcodes/shortcodes.php:326 post-types/init.php:113
+#: post-types/page-meta.php:895 elementor/widgets/subscribe.php:75
+#: elementor/widgets/services.php:75 elementor/widgets/services.php:196
+#: elementor/widgets/numbers.php:60 elementor/widgets/contact.php:75
+#: elementor/widgets/promo.php:49 elementor/widgets/video.php:75
+#: elementor/widgets/testimonials.php:75
+msgid "Background Image"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bahamas"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bahrain"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Bambara (Mali)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bangladesh"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Barbados"
+msgstr ""
+
+#: page-templates/submit-property.php:198
+msgid "Basic Information"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Basque (Spain)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:348 shortcodes/search_properties.php:289
+#: page-templates/submit-property.php:656
+#: page-templates/submit-property.php:829
+#: page-templates/property-search.php:185 post-types/init.php:120
+#: post-types/property.php:321 post-types/property.php:660
+#: post-types/lead.php:247 views/search-properties-form.php:374
+#: views/filter-properties-form-sidebar.php:228
+#: views/filter-properties-form.php:241 services/upload-scripts.php:96
+#: widgets/search_properties.php:213 widgets/search_properties.php:593
+#: admin/sections/property_fields.php:23
+#: elementor/widgets/search_properties.php:176
+#: elementor/widgets/search_properties.php:557
+msgid "Baths"
+msgstr ""
+
+#: services/save-property.php:178
+msgid "Baths field is mandatory."
+msgstr ""
+
+#: page-templates/account-settings.php:567
+msgid "Become Agent"
+msgstr ""
+
+#: page-templates/account-settings.php:568
+msgid "Become Owner"
+msgstr ""
+
+#: shortcodes/shortcodes.php:347 shortcodes/search_properties.php:264
+#: page-templates/submit-property.php:650
+#: page-templates/submit-property.php:810
+#: page-templates/property-search.php:182 post-types/init.php:118
+#: post-types/property.php:315 post-types/property.php:654
+#: post-types/lead.php:244 views/search-properties-form.php:357
+#: views/filter-properties-form-sidebar.php:212
+#: views/filter-properties-form.php:222 services/upload-scripts.php:94
+#: widgets/search_properties.php:192 widgets/search_properties.php:577
+#: admin/sections/property_fields.php:22
+#: elementor/widgets/search_properties.php:165
+#: elementor/widgets/search_properties.php:532
+msgid "Beds"
+msgstr ""
+
+#: services/save-property.php:174
+msgid "Beds field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:123
+msgid "Before"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Belarus"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Belarusian (Belarus)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Belgium"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Belize"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Bengali (Bangladesh)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Bengali (India)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Benin"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bermuda"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bhutan"
+msgstr ""
+
+#: admin/sections/appearance.php:22
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: admin/sections/appearance.php:21
+msgid "Blog Page Title"
+msgstr ""
+
+#: admin/sections/colors.php:315
+msgid "Blog Post Card CTA"
+msgstr ""
+
+#: admin/sections/gmaps.php:85
+msgid "Blue Hues"
+msgstr ""
+
+#: admin/sections/gmaps.php:78
+msgid "Blue Light"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bolivia (Plurinational State of)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Bosnian (Bosnia and Herzegovina)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Botswana"
+msgstr ""
+
+#: post-types/page-meta.php:114 post-types/page-meta.php:558
+#: post-types/page-meta.php:687
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes/shortcodes.php:462 elementor/widgets/promo.php:256
+#: elementor/widgets/promo_slider.php:166
+msgid "Bottom Left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:463 elementor/widgets/promo.php:257
+#: elementor/widgets/promo_slider.php:167
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bouvet Island"
+msgstr ""
+
+#: shortcodes/shortcodes.php:335 shortcodes/shortcodes.php:401
+msgid "Boxed"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Brazil"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: admin/sections/amenities.php:38
+msgid "Browse Icons..."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Bulgaria"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Bulgarian (Bulgaria)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Burkina Faso"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Burmese (Myanmar [Burma])"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Burundi"
+msgstr ""
+
+#: shortcodes/shortcodes.php:415
+msgid "Business Name"
+msgstr ""
+
+#: admin/sections/colors.php:113
+msgid "Button Background"
+msgstr ""
+
+#: admin/sections/colors.php:132
+msgid "Button Text"
+msgstr ""
+
+#: views/work-with-agent-modal.php:50
+msgid "Buy"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cabo Verde"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cambodia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cameroon"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Canada"
+msgstr ""
+
+#: admin/sections/gmaps.php:88
+msgid "Canary"
+msgstr ""
+
+#: shortcodes/shortcodes.php:279 shortcodes/shortcodes.php:298
+#: shortcodes/shortcodes.php:367 shortcodes/shortcodes.php:370
+#: shortcodes/shortcodes.php:485 shortcodes/shortcodes.php:507
+#: shortcodes/shortcodes.php:512 shortcodes/shortcodes.php:521
+#: shortcodes/shortcodes.php:524 shortcodes/shortcodes.php:545
+#: shortcodes/shortcodes.php:548 page-templates/wish-list.php:170
+#: page-templates/saved-searches.php:90 page-templates/submit-property.php:692
+#: page-templates/submit-property.php:1174 page-templates/my-leads.php:407
+#: page-templates/my-leads.php:451 page-templates/my-properties.php:337
+#: post-types/init.php:95 post-types/init.php:128 post-types/property.php:694
+#: services/upload-scripts.php:40 services/upload-scripts.php:86
+#: services/upload-scripts.php:104 services/upload-scripts.php:133
+msgid "Cancel"
+msgstr ""
+
+#: elementor/widgets/promo.php:139
+msgid "Caption"
+msgstr ""
+
+#: shortcodes/shortcodes.php:398
+msgid "Caption Background Opacity"
+msgstr ""
+
+#: post-types/page-meta.php:129 post-types/page-meta.php:346
+#: post-types/page-meta.php:455 post-types/page-meta.php:578
+#: post-types/page-meta.php:716 post-types/page-meta.php:873
+msgid "Caption background opacity"
+msgstr ""
+
+#: post-types/page-meta.php:862
+msgid "Caption CTA Link"
+msgstr ""
+
+#: post-types/page-meta.php:856
+msgid "Caption CTA Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:568 shortcodes/shortcodes.php:571
+msgid "Caption Icon"
+msgstr ""
+
+#: shortcodes/shortcodes.php:573
+msgid "Caption Icon Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:448 post-types/page-meta.php:109
+#: post-types/page-meta.php:553 post-types/page-meta.php:682
+#: elementor/widgets/promo.php:247 elementor/widgets/promo_slider.php:157
+msgid "Caption Position"
+msgstr ""
+
+#: post-types/page-meta.php:97 post-types/page-meta.php:244
+#: post-types/page-meta.php:547 post-types/page-meta.php:704
+#: post-types/page-meta.php:848
+msgid "Caption Subtitle"
+msgstr ""
+
+#: shortcodes/shortcodes.php:576
+msgid "Caption Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:574 post-types/page-meta.php:91
+#: post-types/page-meta.php:240 post-types/page-meta.php:543
+#: post-types/page-meta.php:676 post-types/page-meta.php:842
+msgid "Caption Title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:315
+msgid "Cards Design"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Catalan (Spain)"
+msgstr ""
+
+#: services/save-property.php:186
+msgid "Category field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cayman Islands"
+msgstr ""
+
+#: shortcodes/shortcodes.php:443 shortcodes/shortcodes.php:460
+#: elementor/widgets/search_properties.php:66 elementor/widgets/promo.php:254
+#: elementor/widgets/promo_slider.php:164
+msgid "Center"
+msgstr ""
+
+#: shortcodes/shortcodes.php:459 elementor/widgets/promo.php:253
+#: elementor/widgets/promo_slider.php:163
+msgid "Center Left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:461 elementor/widgets/promo.php:255
+#: elementor/widgets/promo_slider.php:165
+msgid "Center Right"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Central African Republic"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Chad"
+msgstr ""
+
+#: admin/sections/contact_fields.php:39 admin/sections/contact_fields.php:116
+msgid "Checkbox"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Chiga (Uganda)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Chile"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "China"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Chinese (Simplified Han)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Chinese (Traditional Han)"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1137
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: post-types/property.php:77
+msgid "Choose from the most used property statuses"
+msgstr ""
+
+#: post-types/property.php:53
+msgid "Choose from the most used property types"
+msgstr ""
+
+#: elementor/widgets/subscribe.php:83 elementor/widgets/services.php:86
+#: elementor/widgets/numbers.php:68 elementor/widgets/contact.php:83
+#: elementor/widgets/promo.php:60 elementor/widgets/video.php:83
+#: elementor/widgets/testimonials.php:86
+msgid "Choose image"
+msgstr ""
+
+#: shortcodes/membership_plans.php:164
+#: elementor/widgets/membership_plans.php:332
+msgid "Choose Plan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Christmas Island"
+msgstr ""
+
+#: admin/settings.php:220 admin/sections/cities.php:9
+msgid "Cities"
+msgstr ""
+
+#: admin/sections/cities.php:45
+msgid "Cities List"
+msgstr ""
+
+#: shortcodes/shortcodes.php:342 shortcodes/shortcodes.php:364
+#: shortcodes/search_properties.php:119 page-templates/submit-property.php:1010
+#: post-types/property.php:229 views/search-properties-form.php:220
+#: views/search-properties-form.php:232
+#: views/filter-properties-form-sidebar.php:114
+#: views/filter-properties-form.php:119 widgets/search_properties.php:87
+#: admin/sections/address.php:31 admin/sections/property_fields.php:17
+#: elementor/widgets/search_properties.php:110
+#: elementor/widgets/search_properties.php:387 elementor/widgets/areas.php:219
+#: elementor/widgets/areas.php:229
+msgid "City"
+msgstr ""
+
+#: services/save-property.php:154
+msgid "City field is mandatory."
+msgstr ""
+
+#: admin/sections/cities.php:23 admin/sections/cities.php:49
+msgid "City ID"
+msgstr ""
+
+#: admin/sections/cities.php:83
+msgid "City ID is mandatory."
+msgstr ""
+
+#: admin/sections/cities.php:30 admin/sections/cities.php:50
+msgid "City Name"
+msgstr ""
+
+#: admin/sections/cities.php:87
+msgid "City name is mandatory."
+msgstr ""
+
+#: views/filter-properties-form-sidebar.php:87
+#: widgets/search_properties.php:387
+msgid "City/Neighborhood/Address"
+msgstr ""
+
+#: admin/sections/gmaps.php:83
+msgid "Cobalt"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Colombia"
+msgstr ""
+
+#: admin/settings.php:205 admin/sections/colors.php:9
+msgid "Colors"
+msgstr ""
+
+#: shortcodes/shortcodes.php:317
+msgid "Column Type"
+msgstr ""
+
+#: shortcodes/shortcodes.php:413 shortcodes/shortcodes.php:580
+#: elementor/widgets/services.php:328
+msgid "Columns"
+msgstr ""
+
+#: admin/sections/contact_fields.php:126 admin/sections/custom_fields.php:159
+msgid "Comma separated values"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Comoros"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Congo"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Congo (Democratic Republic of the)"
+msgstr ""
+
+#: services/users.php:100
+msgid "Congratulations! You have successfully signed up."
+msgstr ""
+
+#: shortcodes/shortcodes.php:414 elementor/widgets/contact.php:13
+msgid "Contact"
+msgstr ""
+
+#: page-templates/contact-page-office.php:53
+msgid "Contact Details"
+msgstr ""
+
+#: admin/sections/contact_fields.php:65
+msgid "Contact Fields List"
+msgstr ""
+
+#: post-types/page-meta.php:48
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/contact_form.php:9
+msgid "Contact form"
+msgstr ""
+
+#: admin/settings.php:250 admin/sections/contact_fields.php:9
+msgid "Contact Form Fields"
+msgstr ""
+
+#: post-types/page-meta.php:837
+msgid "Contact Form Settings"
+msgstr ""
+
+#: post-types/init.php:107
+msgid "Contact Page Header Image"
+msgstr ""
+
+#: page-templates/my-leads.php:76 page-templates/my-leads.php:180
+#: page-templates/my-leads.php:251 page-templates/my-leads.php:331
+#: post-types/lead.php:77 post-types/lead.php:487
+msgid "Contacted"
+msgstr ""
+
+#: page-templates/my-leads.php:69
+msgid "Contacts"
+msgstr ""
+
+#: admin/sections/colors.php:104 elementor/widgets/featured_agents.php:106
+#: elementor/widgets/promo.php:119 elementor/widgets/recent_properties.php:143
+#: elementor/widgets/featured_properties.php:143
+msgid "Content"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cook Islands"
+msgstr ""
+
+#: admin/sections/property_fields.php:13
+msgid "Coordinates"
+msgstr ""
+
+#: services/save-property.php:138
+msgid "Coordinates fields are mandatory."
+msgstr ""
+
+#. Description of the plugin
+msgid "Core functionality for Resideo WP WordPress Theme."
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Cornish (United Kingdom)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Costa Rica"
+msgstr ""
+
+#: shortcodes/shortcodes.php:344 shortcodes/search_properties.php:204
+#: page-templates/submit-property.php:1046 post-types/property.php:258
+#: views/search-properties-form.php:270
+#: views/filter-properties-form-sidebar.php:172
+#: views/filter-properties-form.php:181 widgets/search_properties.php:129
+#: widgets/search_properties.php:481 admin/sections/property_fields.php:18
+#: elementor/widgets/search_properties.php:132
+#: elementor/widgets/search_properties.php:472
+msgid "County/State"
+msgstr ""
+
+#: views/user-modal.php:47 views/user-modal.php:64
+msgid "Create an account"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Croatia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Croatian (Croatia)"
+msgstr ""
+
+#: elementor/widgets/services.php:99 elementor/widgets/featured_agents.php:60
+#: elementor/widgets/areas.php:124 elementor/widgets/promo.php:73
+#: elementor/widgets/testimonials.php:99
+#: elementor/widgets/single_property.php:74
+#: elementor/widgets/recent_properties.php:97
+#: elementor/widgets/featured_properties.php:97
+msgid "CTA"
+msgstr ""
+
+#: shortcodes/shortcodes.php:468
+msgid "CTA Button Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:322 post-types/page-meta.php:258
+msgid "CTA Button Link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:320 post-types/page-meta.php:254
+msgid "CTA Button Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:535
+msgid "CTA Buttons Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:552 elementor/widgets/services.php:131
+#: elementor/widgets/services.php:249 elementor/widgets/featured_agents.php:89
+#: elementor/widgets/areas.php:153 elementor/widgets/areas.php:241
+#: elementor/widgets/promo.php:91 elementor/widgets/testimonials.php:131
+#: elementor/widgets/featured_posts.php:68
+#: elementor/widgets/single_property.php:82
+#: elementor/widgets/recent_posts.php:68
+#: elementor/widgets/recent_properties.php:126
+#: elementor/widgets/featured_properties.php:126
+msgid "CTA Color"
+msgstr ""
+
+#: elementor/widgets/services.php:120 elementor/widgets/services.php:238
+#: elementor/widgets/featured_agents.php:78 elementor/widgets/areas.php:142
+#: elementor/widgets/promo.php:106 elementor/widgets/testimonials.php:120
+#: elementor/widgets/promo_slider.php:126
+#: elementor/widgets/recent_properties.php:115
+#: elementor/widgets/featured_properties.php:115
+msgid "CTA Label"
+msgstr ""
+
+#: elementor/widgets/services.php:110 elementor/widgets/featured_agents.php:68
+#: elementor/widgets/areas.php:132 elementor/widgets/promo.php:81
+#: elementor/widgets/testimonials.php:110
+#: elementor/widgets/promo_slider.php:116
+#: elementor/widgets/recent_properties.php:105
+#: elementor/widgets/featured_properties.php:105
+msgid "CTA Link"
+msgstr ""
+
+#: elementor/widgets/featured_posts.php:60
+#: elementor/widgets/recent_posts.php:60 elementor/widgets/promo_slider.php:28
+msgid "CTAs"
+msgstr ""
+
+#: elementor/widgets/promo_slider.php:36
+msgid "CTAs Color"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cuba"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Curaçao"
+msgstr ""
+
+#: admin/sections/general.php:14
+msgid "Currency Symbol"
+msgstr ""
+
+#: admin/sections/general.php:15
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: shortcodes/shortcodes.php:353 admin/sections/custom_fields.php:95
+#: elementor/widgets/search_properties.php:233
+msgid "Custom Fields List"
+msgstr ""
+
+#: post-types/testimonial.php:44
+msgid "Customer Location"
+msgstr ""
+
+#: page-templates/contact-page-office.php:152
+#: page-templates/contact-page.php:168 page-templates/contact-page.php:168
+msgid "Customer support / feedback"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Cyprus"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Czech (Czech Republic)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Czech Republic"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Danish (Denmark)"
+msgstr ""
+
+#: admin/sections/appearance.php:37
+msgid "Dark"
+msgstr ""
+
+#: page-templates/my-leads.php:205 admin/sections/contact_fields.php:40
+#: admin/sections/contact_fields.php:122 admin/sections/custom_fields.php:39
+#: admin/sections/custom_fields.php:143
+msgid "Date"
+msgstr ""
+
+#: shortcodes/membership_plans.php:82
+#: elementor/widgets/membership_plans.php:255
+msgid "day"
+msgstr ""
+
+#: post-types/membership.php:74
+msgid "Days"
+msgstr ""
+
+#: shortcodes/membership_plans.php:84 page-templates/account-settings.php:175
+#: elementor/widgets/membership_plans.php:257
+msgid "days"
+msgstr ""
+
+#: admin/sections/gmaps.php:74
+msgid "Default"
+msgstr ""
+
+#: page-templates/property-search.php:176
+msgid "Default Sort"
+msgstr ""
+
+#: elementor/widgets/numbers.php:114
+msgid "Delay"
+msgstr ""
+
+#: page-templates/saved-searches.php:84 page-templates/submit-property.php:1168
+#: page-templates/my-leads.php:445 page-templates/my-properties.php:331
+#: services/upload-scripts.php:39 services/upload-scripts.php:85
+#: services/upload-scripts.php:132
+msgid "Delete"
+msgstr ""
+
+#: page-templates/my-leads.php:410 page-templates/my-leads.php:441
+msgid "Delete Lead"
+msgstr ""
+
+#: page-templates/submit-property.php:1164 page-templates/my-properties.php:326
+msgid "Delete Property"
+msgstr ""
+
+#: page-templates/saved-searches.php:80
+msgid "Delete Search"
+msgstr ""
+
+#: page-templates/saved-searches.php:87 page-templates/submit-property.php:1171
+#: page-templates/my-leads.php:448 page-templates/my-properties.php:334
+msgid "Deleting..."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Denmark"
+msgstr ""
+
+#: page-templates/submit-property.php:670 post-types/init.php:124
+#: post-types/property.php:676 services/upload-scripts.php:100
+msgid "Description"
+msgstr ""
+
+#: post-types/page-meta.php:367 post-types/page-meta.php:476
+msgid "Design"
+msgstr ""
+
+#: post-types/agent.php:43 post-types/invoice.php:43
+#: post-types/property.php:121 post-types/lead.php:43
+msgid "Details"
+msgstr ""
+
+#: widgets/search_properties.php:51 widgets/search_properties.php:72
+#: widgets/search_properties.php:93 widgets/search_properties.php:114
+#: widgets/search_properties.php:135 widgets/search_properties.php:156
+#: widgets/search_properties.php:177 widgets/search_properties.php:198
+#: widgets/search_properties.php:219 widgets/search_properties.php:240
+#: widgets/search_properties.php:261 widgets/search_properties.php:282
+#: admin/sections/property_fields.php:46 admin/sections/property_fields.php:106
+#: admin/sections/property_fields.php:166
+#: admin/sections/property_fields.php:293
+#: admin/sections/property_fields.php:354
+#: admin/sections/property_fields.php:415
+#: admin/sections/property_fields.php:476
+#: admin/sections/property_fields.php:603
+#: admin/sections/property_fields.php:730
+#: admin/sections/property_fields.php:835
+#: admin/sections/property_fields.php:896
+#: admin/sections/property_fields.php:998
+#: admin/sections/property_fields.php:1081
+#: admin/sections/property_fields.php:1186
+#: admin/sections/property_fields.php:1291
+#: admin/sections/property_fields.php:1396
+#: admin/sections/property_fields.php:1595
+#: admin/sections/property_fields.php:1624
+#: admin/sections/property_fields.php:1653
+msgid "Disabled"
+msgstr ""
+
+#: admin/sections/membership.php:42
+msgid "disabled"
+msgstr ""
+
+#: shortcodes/shortcodes.php:316 shortcodes/shortcodes.php:355
+#: shortcodes/shortcodes.php:579 elementor/widgets/services.php:324
+msgid "Display"
+msgstr ""
+
+#: shortcodes/shortcodes.php:428
+msgid "Display Contact Form"
+msgstr ""
+
+#: widgets/contact.php:38
+msgid "Display logo"
+msgstr ""
+
+#: widgets/recent_posts.php:36
+msgid "Display post date?"
+msgstr ""
+
+#: post-types/page-meta.php:1391
+msgid "Display search agents form"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Djibouti"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Dominica"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Dominican Republic"
+msgstr ""
+
+#: views/modal-calculator.php:43
+msgid "Down Payment"
+msgstr ""
+
+#: views/modal-calculator.php:81
+msgid "Down Payment Amount"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:275
+msgid "Download and import file attachments"
+msgstr ""
+
+#: post-types/page-meta.php:166 post-types/page-meta.php:616
+#: post-types/page-meta.php:753
+msgid "Dropdown"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Dutch (Belgium)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Dutch (Netherlands)"
+msgstr ""
+
+#: services/users.php:638
+msgid "E-mail field is mandatory."
+msgstr ""
+
+#: services/users.php:20
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Ecuador"
+msgstr ""
+
+#: shortcodes/shortcodes.php:309 post-types/agent.php:18
+#: post-types/testimonial.php:18 post-types/invoice.php:18
+#: post-types/property.php:18 post-types/membership.php:18
+#: post-types/subscriber.php:18 post-types/lead.php:18
+msgid "Edit"
+msgstr ""
+
+#: post-types/agent.php:19
+msgid "Edit Agent/Owner"
+msgstr ""
+
+#: shortcodes/shortcodes.php:368
+msgid "Edit Area"
+msgstr ""
+
+#: shortcodes/shortcodes.php:522
+msgid "Edit Award"
+msgstr ""
+
+#: post-types/init.php:115 services/upload-scripts.php:91
+msgid "Edit Floor Plan"
+msgstr ""
+
+#: post-types/invoice.php:19
+msgid "Edit Invoice"
+msgstr ""
+
+#: post-types/lead.php:19
+msgid "Edit Lead"
+msgstr ""
+
+#: post-types/membership.php:19
+msgid "Edit Membership Plan"
+msgstr ""
+
+#: shortcodes/shortcodes.php:510
+msgid "Edit Number"
+msgstr ""
+
+#: shortcodes/shortcodes.php:486
+msgid "Edit Photo"
+msgstr ""
+
+#: page-templates/submit-property.php:71 post-types/property.php:19
+msgid "Edit Property"
+msgstr ""
+
+#: post-types/property.php:71
+msgid "Edit Property Status"
+msgstr ""
+
+#: post-types/property.php:47
+msgid "Edit Property Type"
+msgstr ""
+
+#: shortcodes/shortcodes.php:303
+msgid "Edit Service"
+msgstr ""
+
+#: shortcodes/shortcodes.php:546
+msgid "Edit Slide"
+msgstr ""
+
+#: post-types/subscriber.php:19
+msgid "Edit Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:19
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Egypt"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "El Salvador"
+msgstr ""
+
+#: page-templates/my-leads.php:319 page-templates/contact-page-office.php:79
+#: page-templates/contact-page-office.php:145
+#: page-templates/account-settings.php:324 page-templates/contact-page.php:95
+#: page-templates/contact-page.php:161 post-types/agent.php:77
+#: post-types/agent.php:366 post-types/lead.php:65 post-types/lead.php:485
+#: post-types/page-meta.php:1101 post-types/page-meta.php:1169
+#: post-types/page-meta.php:1258 post-types/page-meta.php:1323
+#: views/user-modal.php:27 views/user-modal.php:99 views/user-modal.php:148
+#: views/contact-agent-hero.php:29 views/contact-agent-modal.php:41
+#: views/work-with-agent-modal.php:39 widgets/contact_form.php:29
+#: widgets/contact_form.php:75 widgets/contact_form.php:152
+msgid "Email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:426
+msgid "Email address"
+msgstr ""
+
+#: services/users.php:71
+msgid "Email already exists!"
+msgstr ""
+
+#: services/users.php:378
+msgid "Email failed to be sent for some unknown reason."
+msgstr ""
+
+#: services/contact.php:18 services/contact.php:114 services/contact.php:216
+#: services/contact.php:312
+msgid "Email field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:21
+msgid "Enable Agent/Owner Reviews and Rating"
+msgstr ""
+
+#: page-templates/submit-property.php:1088
+msgid "Enable calculator"
+msgstr ""
+
+#: admin/sections/authentication.php:10
+msgid "Enable User Registration"
+msgstr ""
+
+#: admin/sections/authentication.php:11
+msgid "Enable User Registration as Agent/Owner"
+msgstr ""
+
+#: widgets/search_properties.php:56 widgets/search_properties.php:77
+#: widgets/search_properties.php:98 widgets/search_properties.php:119
+#: widgets/search_properties.php:140 widgets/search_properties.php:161
+#: widgets/search_properties.php:182 widgets/search_properties.php:203
+#: widgets/search_properties.php:224 widgets/search_properties.php:245
+#: widgets/search_properties.php:266 widgets/search_properties.php:287
+#: admin/sections/property_fields.php:47 admin/sections/property_fields.php:107
+#: admin/sections/property_fields.php:167
+#: admin/sections/property_fields.php:294
+#: admin/sections/property_fields.php:355
+#: admin/sections/property_fields.php:416
+#: admin/sections/property_fields.php:477
+#: admin/sections/property_fields.php:604
+#: admin/sections/property_fields.php:731
+#: admin/sections/property_fields.php:836
+#: admin/sections/property_fields.php:897
+#: admin/sections/property_fields.php:999
+#: admin/sections/property_fields.php:1082
+#: admin/sections/property_fields.php:1187
+#: admin/sections/property_fields.php:1292
+#: admin/sections/property_fields.php:1397
+#: admin/sections/property_fields.php:1596
+#: admin/sections/property_fields.php:1625
+#: admin/sections/property_fields.php:1654
+msgid "Enabled"
+msgstr ""
+
+#: page-templates/my-leads.php:111 page-templates/my-leads.php:193
+#: page-templates/my-leads.php:272 page-templates/my-leads.php:345
+#: post-types/lead.php:91 post-types/lead.php:527
+msgid "Engaged"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (American Samoa)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Australia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Belgium)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Belize)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Botswana)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Canada)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Guam)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Hong Kong SAR China)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (India)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Ireland)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Jamaica)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Malta)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Marshall Islands)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Mauritius)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Namibia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (New Zealand)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Northern Mariana Islands)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Pakistan)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Philippines)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Singapore)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (South Africa)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Trinidad and Tobago)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (U.S. Minor Outlying Islands)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (U.S. Virgin Islands)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (United States)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "English (Zimbabwe)"
+msgstr ""
+
+#: page-templates/submit-property.php:435
+#: page-templates/submit-property.php:445
+msgid "Enter"
+msgstr ""
+
+#: shortcodes/shortcodes.php:420 page-templates/submit-property.php:881
+#: post-types/property.php:143
+msgid "Enter address"
+msgstr ""
+
+#: views/search-properties-form.php:197 views/search-properties-form.php:205
+msgid "Enter address..."
+msgstr ""
+
+#: post-types/invoice.php:89
+msgid "Enter Agent ID"
+msgstr ""
+
+#: post-types/agent.php:346
+msgid "Enter agent/owner name here"
+msgstr ""
+
+#: shortcodes/shortcodes.php:519 elementor/widgets/awards.php:95
+msgid "Enter award title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:577 elementor/widgets/promo.php:202
+msgid "Enter caption text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:575 elementor/widgets/promo.php:192
+msgid "Enter caption title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:365 page-templates/submit-property.php:1030
+#: post-types/property.php:250
+msgid "Enter city"
+msgstr ""
+
+#: elementor/widgets/areas.php:233
+msgid "Enter city name"
+msgstr ""
+
+#: shortcodes/shortcodes.php:416
+msgid "Enter company/business name"
+msgstr ""
+
+#: page-templates/submit-property.php:1051 post-types/property.php:259
+msgid "Enter county/state"
+msgstr ""
+
+#: elementor/widgets/services.php:124 elementor/widgets/featured_agents.php:82
+#: elementor/widgets/areas.php:146 elementor/widgets/promo.php:110
+#: elementor/widgets/testimonials.php:124
+#: elementor/widgets/recent_properties.php:119
+#: elementor/widgets/featured_properties.php:119
+msgid "Enter CTA label"
+msgstr ""
+
+#: elementor/widgets/services.php:112 elementor/widgets/featured_agents.php:70
+#: elementor/widgets/areas.php:134 elementor/widgets/promo.php:83
+#: elementor/widgets/testimonials.php:112
+#: elementor/widgets/recent_properties.php:107
+#: elementor/widgets/featured_properties.php:107
+msgid "Enter CTA link"
+msgstr ""
+
+#: post-types/testimonial.php:74
+msgid "Enter customer location"
+msgstr ""
+
+#: post-types/testimonial.php:137
+msgid "Enter customer name here"
+msgstr ""
+
+#: page-templates/submit-property.php:671 services/upload-scripts.php:101
+msgid "Enter description here..."
+msgstr ""
+
+#: views/modal-calculator.php:45 views/modal-calculator.php:65
+msgid "Enter Down Payment"
+msgstr ""
+
+#: page-templates/account-settings.php:325 post-types/agent.php:78
+#: post-types/lead.php:66
+msgid "Enter email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:427
+msgid "Enter email address"
+msgstr ""
+
+#: page-templates/account-settings.php:517 post-types/agent.php:100
+msgid "Enter Facebook profile URL"
+msgstr ""
+
+#: page-templates/account-settings.php:307
+msgid "Enter first name"
+msgstr ""
+
+#: shortcodes/shortcodes.php:563 elementor/widgets/contact.php:130
+msgid "Enter form email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:562 elementor/widgets/contact.php:119
+msgid "Enter form subtitle"
+msgstr ""
+
+#: shortcodes/shortcodes.php:561 elementor/widgets/contact.php:108
+msgid "Enter form title"
+msgstr ""
+
+#: page-templates/submit-property.php:1110 post-types/property.php:307
+msgid "Enter HOA dues"
+msgstr ""
+
+#: page-templates/account-settings.php:541 post-types/agent.php:128
+msgid "Enter Instagram profile URL"
+msgstr ""
+
+#: post-types/invoice.php:73
+msgid "Enter Item ID"
+msgstr ""
+
+#: post-types/invoice.php:83
+msgid "Enter Item Price"
+msgstr ""
+
+#: page-templates/account-settings.php:313
+msgid "Enter last name"
+msgstr ""
+
+#: shortcodes/shortcodes.php:423 page-templates/submit-property.php:903
+msgid "Enter latitude"
+msgstr ""
+
+#: page-templates/my-leads.php:320
+msgid "Enter lead email"
+msgstr ""
+
+#: page-templates/my-leads.php:312
+msgid "Enter lead name"
+msgstr ""
+
+#: post-types/lead.php:468
+msgid "Enter lead name here"
+msgstr ""
+
+#: page-templates/my-leads.php:326
+msgid "Enter lead phone"
+msgstr ""
+
+#: page-templates/account-settings.php:535 post-types/agent.php:120
+msgid "Enter LinkedIn profile URL"
+msgstr ""
+
+#: shortcodes/shortcodes.php:425 page-templates/submit-property.php:914
+msgid "Enter longitude"
+msgstr ""
+
+#: post-types/membership.php:243
+msgid "Enter membership plan title here"
+msgstr ""
+
+#: shortcodes/shortcodes.php:363 page-templates/submit-property.php:996
+#: post-types/property.php:217
+msgid "Enter neighborhood"
+msgstr ""
+
+#: elementor/widgets/areas.php:210
+msgid "Enter neighborhood name"
+msgstr ""
+
+#: page-templates/account-settings.php:331
+msgid "Enter new password"
+msgstr ""
+
+#: page-templates/account-settings.php:319
+msgid "Enter nickname"
+msgstr ""
+
+#: page-templates/submit-property.php:944
+msgid "Enter no"
+msgstr ""
+
+#: post-types/subscriber.php:56
+msgid "Enter notes about subscriber"
+msgstr ""
+
+#: shortcodes/shortcodes.php:495
+msgid "Enter number"
+msgstr ""
+
+#: shortcodes/shortcodes.php:499
+msgid "Enter number delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:501
+msgid "Enter number increment"
+msgstr ""
+
+#: shortcodes/shortcodes.php:408 elementor/widgets/featured_agents.php:120
+msgid "Enter number of agents"
+msgstr ""
+
+#: page-templates/submit-property.php:657 post-types/property.php:322
+#: services/upload-scripts.php:97
+msgid "Enter number of baths"
+msgstr ""
+
+#: page-templates/submit-property.php:651 post-types/property.php:316
+#: services/upload-scripts.php:95
+msgid "Enter number of beds"
+msgstr ""
+
+#: shortcodes/shortcodes.php:404
+msgid "Enter number of posts"
+msgstr ""
+
+#: shortcodes/shortcodes.php:314 elementor/widgets/recent_properties.php:179
+#: elementor/widgets/featured_properties.php:179
+msgid "Enter number of properties"
+msgstr ""
+
+#: post-types/membership.php:65
+msgid "Enter number of..."
+msgstr ""
+
+#: shortcodes/shortcodes.php:497 elementor/widgets/numbers.php:107
+msgid "Enter number sign"
+msgstr ""
+
+#: shortcodes/shortcodes.php:505 elementor/widgets/numbers.php:152
+msgid "Enter number text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:503 elementor/widgets/numbers.php:142
+msgid "Enter number title"
+msgstr ""
+
+#: page-templates/account-settings.php:505 post-types/agent.php:84
+#: post-types/lead.php:72
+msgid "Enter phone"
+msgstr ""
+
+#: shortcodes/shortcodes.php:418
+msgid "Enter phone number"
+msgstr ""
+
+#: page-templates/account-settings.php:529 post-types/agent.php:114
+msgid "Enter Pinterest profile URL"
+msgstr ""
+
+#: post-types/init.php:125 post-types/property.php:677
+msgid "Enter plan description here..."
+msgstr ""
+
+#: post-types/init.php:121 post-types/property.php:661
+msgid "Enter plan number of baths"
+msgstr ""
+
+#: post-types/init.php:119 post-types/property.php:655
+msgid "Enter plan number of beds"
+msgstr ""
+
+#: post-types/init.php:123 post-types/property.php:667
+msgid "Enter plan size"
+msgstr ""
+
+#: page-templates/submit-property.php:645 post-types/init.php:117
+#: post-types/property.php:644 services/upload-scripts.php:93
+msgid "Enter plan title"
+msgstr ""
+
+#: views/modal-calculator.php:34 views/modal-calculator.php:56
+msgid "Enter Price"
+msgstr ""
+
+#: page-templates/submit-property.php:787 post-types/property.php:286
+msgid "Enter price"
+msgstr ""
+
+#: page-templates/submit-property.php:793 post-types/property.php:292
+msgid "Enter price label"
+msgstr ""
+
+#: elementor/widgets/promo.php:130
+msgid "Enter promo text"
+msgstr ""
+
+#: post-types/property.php:301
+msgid "Enter property taxes"
+msgstr ""
+
+#: page-templates/submit-property.php:207
+msgid "Enter property title"
+msgstr ""
+
+#: post-types/property.php:908
+msgid "Enter property title here"
+msgstr ""
+
+#: elementor/widgets/services.php:211
+msgid "Enter serice title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:296 elementor/widgets/services.php:242
+msgid "Enter service CTA lablel"
+msgstr ""
+
+#: shortcodes/shortcodes.php:294 elementor/widgets/services.php:230
+msgid "Enter service link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:291 elementor/widgets/services.php:221
+msgid "Enter service text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:289
+msgid "Enter service title"
+msgstr ""
+
+#: page-templates/submit-property.php:663 post-types/property.php:328
+#: services/upload-scripts.php:99
+msgid "Enter size"
+msgstr ""
+
+#: page-templates/account-settings.php:511 post-types/agent.php:90
+msgid "Enter Skype ID"
+msgstr ""
+
+#: elementor/widgets/promo_slider.php:130
+msgid "Enter slide CTA label"
+msgstr ""
+
+#: elementor/widgets/promo_slider.php:118
+msgid "Enter slide CTA link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:543 elementor/widgets/promo_slider.php:109
+msgid "Enter slide text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:541 elementor/widgets/promo_slider.php:99
+msgid "Enter slide title"
+msgstr ""
+
+#: post-types/agent.php:68
+msgid "Enter specialities"
+msgstr ""
+
+#: page-templates/submit-property.php:963 post-types/property.php:188
+msgid "Enter street name"
+msgstr ""
+
+#: post-types/property.php:182
+msgid "Enter street no"
+msgstr ""
+
+#: post-types/subscriber.php:86
+msgid "Enter subscriber email address here"
+msgstr ""
+
+#: shortcodes/shortcodes.php:284 elementor/widgets/membership_plans.php:51
+#: elementor/widgets/awards.php:51 elementor/widgets/subscribe.php:51
+#: elementor/widgets/search_properties.php:51 elementor/widgets/services.php:51
+#: elementor/widgets/featured_agents.php:51 elementor/widgets/numbers.php:51
+#: elementor/widgets/contact.php:51 elementor/widgets/areas.php:115
+#: elementor/widgets/video.php:51 elementor/widgets/testimonials.php:51
+#: elementor/widgets/featured_posts.php:51
+#: elementor/widgets/recent_posts.php:51
+#: elementor/widgets/recent_properties.php:88
+#: elementor/widgets/featured_properties.php:88
+msgid "Enter subtitle"
+msgstr ""
+
+#: page-templates/submit-property.php:1099
+msgid "Enter taxes"
+msgstr ""
+
+#: shortcodes/shortcodes.php:447 elementor/widgets/awards.php:61
+msgid "Enter text"
+msgstr ""
+
+#: post-types/page-meta.php:863
+msgid "Enter the caption CTA link"
+msgstr ""
+
+#: post-types/page-meta.php:857
+msgid "Enter the caption CTA text"
+msgstr ""
+
+#: post-types/init.php:89 post-types/page-meta.php:98
+#: post-types/page-meta.php:245 post-types/page-meta.php:311
+#: post-types/page-meta.php:548 post-types/page-meta.php:705
+#: post-types/page-meta.php:849
+msgid "Enter the caption subtitle"
+msgstr ""
+
+#: post-types/init.php:88 post-types/page-meta.php:92
+#: post-types/page-meta.php:241 post-types/page-meta.php:308
+#: post-types/page-meta.php:544 post-types/page-meta.php:677
+#: post-types/page-meta.php:843
+msgid "Enter the caption title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:323 post-types/init.php:91
+#: post-types/page-meta.php:259 post-types/page-meta.php:312
+msgid "Enter the CTA button link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:321 post-types/init.php:90
+#: post-types/page-meta.php:255 post-types/page-meta.php:309
+msgid "Enter the CTA button text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:325 elementor/widgets/featured_agents.php:131
+msgid "Enter the CTA text"
+msgstr ""
+
+#: post-types/page-meta.php:931
+msgid "Enter the form email"
+msgstr ""
+
+#: post-types/page-meta.php:925
+msgid "Enter the form subtitle"
+msgstr ""
+
+#: post-types/page-meta.php:919
+msgid "Enter the form title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:337
+msgid "Enter the height"
+msgstr ""
+
+#: post-types/membership.php:154
+msgid "Enter the label text"
+msgstr ""
+
+#: admin/sections/contact_fields.php:43 admin/sections/custom_fields.php:44
+msgid "Enter the list values separated by comma."
+msgstr ""
+
+#: post-types/membership.php:113
+msgid "Enter the number of featured submissions"
+msgstr ""
+
+#: post-types/membership.php:93
+msgid "Enter the number of submissions"
+msgstr ""
+
+#: post-types/membership.php:123
+msgid "Enter the plan price"
+msgstr ""
+
+#: post-types/page-meta.php:958
+msgid "Enter the Slider Revolution alias"
+msgstr ""
+
+#: page-templates/submit-property.php:491 post-types/property.php:452
+msgid "Enter the YouTube video ID"
+msgstr ""
+
+#: shortcodes/shortcodes.php:282 page-templates/account-settings.php:493
+#: post-types/agent.php:62 elementor/widgets/membership_plans.php:40
+#: elementor/widgets/awards.php:40 elementor/widgets/subscribe.php:40
+#: elementor/widgets/search_properties.php:40 elementor/widgets/services.php:40
+#: elementor/widgets/featured_agents.php:40 elementor/widgets/numbers.php:40
+#: elementor/widgets/contact.php:40 elementor/widgets/areas.php:104
+#: elementor/widgets/promo.php:40 elementor/widgets/video.php:40
+#: elementor/widgets/testimonials.php:40
+#: elementor/widgets/featured_posts.php:40
+#: elementor/widgets/recent_posts.php:40
+#: elementor/widgets/recent_properties.php:77
+#: elementor/widgets/featured_properties.php:77
+msgid "Enter title"
+msgstr ""
+
+#: page-templates/account-settings.php:523 post-types/agent.php:106
+msgid "Enter Twitter profile URL"
+msgstr ""
+
+#: post-types/testimonial.php:58
+msgid "Enter what the customer says here"
+msgstr ""
+
+#: shortcodes/subscribe.php:45 elementor/widgets/subscribe.php:141
+msgid "Enter your email..."
+msgstr ""
+
+#: post-types/lead.php:332
+msgid "Enter your notes here..."
+msgstr ""
+
+#: page-templates/submit-property.php:1070
+msgid "Enter zip"
+msgstr ""
+
+#: post-types/property.php:265
+msgid "Enter zip code"
+msgstr ""
+
+#: admin/sections/custom_fields.php:78 admin/sections/custom_fields.php:225
+msgid "Equal"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Eritrea"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Estonia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Estonian (Estonia)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Ethiopia"
+msgstr ""
+
+#: page-templates/account-settings.php:202
+msgid "Expired"
+msgstr ""
+
+#: page-templates/account-settings.php:273
+msgid "Expired on"
+msgstr ""
+
+#: page-templates/account-settings.php:275
+msgid "Expires on"
+msgstr ""
+
+#: shortcodes/areas.php:76 shortcodes/areas.php:200
+#: elementor/widgets/areas.php:377 elementor/widgets/areas.php:498
+msgid "Explore"
+msgstr ""
+
+#: admin/sections/property_layout.php:320
+msgid "Explore the Area"
+msgstr ""
+
+#: page-templates/account-settings.php:516 post-types/agent.php:99
+msgid "Facebook"
+msgstr ""
+
+#: widgets/social.php:38
+msgid "Facebook Link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:397
+msgid "Fade"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:367
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:511
+#: admin/libs/import/wordpress-importer.php:733
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:699
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:600
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:233
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:419
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:462
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Faroe Islands"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Faroese (Faroe Islands)"
+msgstr ""
+
+#: admin/settings.php:47
+msgid "Favicon Image"
+msgstr ""
+
+#: page-templates/property-search.php:302
+#: page-templates/property-search.php:332
+#: page-templates/property-search.php:385
+#: page-templates/property-search.php:526
+#: page-templates/property-search.php:580 page-templates/my-properties.php:143
+#: post-types/agent.php:48 post-types/agent.php:369 post-types/post-meta.php:12
+#: post-types/property.php:129 post-types/property.php:935
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/shortcodes.php:406 elementor/widgets/featured_agents.php:13
+msgid "Featured Agents"
+msgstr ""
+
+#: widgets/featured_agents.php:9
+msgid "Featured agents"
+msgstr ""
+
+#: shortcodes/shortcodes.php:405 elementor/widgets/featured_posts.php:13
+msgid "Featured Blog Posts"
+msgstr ""
+
+#: shortcodes/membership_plans.php:150 page-templates/account-settings.php:240
+#: elementor/widgets/membership_plans.php:321
+msgid "Featured Listings"
+msgstr ""
+
+#: shortcodes/shortcodes.php:476 elementor/widgets/membership_plans.php:143
+msgid "Featured Plan CTA Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:477 elementor/widgets/membership_plans.php:158
+msgid "Featured Plan Label Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:475 elementor/widgets/membership_plans.php:128
+msgid "Featured Plan Price Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:474 elementor/widgets/membership_plans.php:113
+msgid "Featured Plan Title Color"
+msgstr ""
+
+#: admin/sections/colors.php:191
+msgid "Featured Post Label Background"
+msgstr ""
+
+#: admin/sections/colors.php:210
+msgid "Featured Post Label Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:307 elementor/widgets/featured_properties.php:13
+msgid "Featured Properties"
+msgstr ""
+
+#: widgets/featured_properties.php:9
+msgid "Featured properties"
+msgstr ""
+
+#: page-templates/submit-property.php:116
+#: page-templates/submit-property.php:118
+msgid "Featured Property"
+msgstr ""
+
+#: admin/sections/colors.php:152
+msgid "Featured Property Label Background"
+msgstr ""
+
+#: admin/sections/colors.php:171
+msgid "Featured Property Label Text"
+msgstr ""
+
+#: admin/sections/membership.php:13
+msgid "Featured Property Submission Price"
+msgstr ""
+
+#: shortcodes/search_properties.php:583
+#: elementor/widgets/search_properties.php:851
+msgid "Features"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:934
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/sections/amenities.php:95
+msgid "Field ID is mandatory."
+msgstr ""
+
+#: admin/sections/contact_fields.php:27 admin/sections/contact_fields.php:70
+#: admin/sections/custom_fields.php:28 admin/sections/custom_fields.php:100
+msgid "Field Label"
+msgstr ""
+
+#: admin/sections/contact_fields.php:177 admin/sections/custom_fields.php:279
+msgid "Field label is mandatory."
+msgstr ""
+
+#: admin/sections/contact_fields.php:21 admin/sections/contact_fields.php:69
+#: admin/sections/custom_fields.php:22 admin/sections/custom_fields.php:99
+#: admin/sections/amenities.php:55
+msgid "Field Name"
+msgstr ""
+
+#: admin/sections/contact_fields.php:173 admin/sections/custom_fields.php:275
+msgid "Field name is mandatory."
+msgstr ""
+
+#: admin/sections/contact_fields.php:33 admin/sections/contact_fields.php:71
+#: admin/sections/custom_fields.php:34 admin/sections/custom_fields.php:101
+msgid "Field Type"
+msgstr ""
+
+#: admin/sections/contact_fields.php:181 admin/sections/custom_fields.php:283
+msgid "Field type is mandatory."
+msgstr ""
+
+#: elementor/widgets/search_properties.php:270
+msgid "Fields in Main Area"
+msgstr ""
+
+#: shortcodes/shortcodes.php:356
+msgid "fields in main area"
+msgstr ""
+
+#: shortcodes/shortcodes.php:339 elementor/widgets/search_properties.php:80
+msgid "Fields List"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Fiji"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Filipino (Philippines)"
+msgstr ""
+
+#: views/filter-properties-form-sidebar.php:53
+msgid "Filter results"
+msgstr ""
+
+#: page-templates/agents-list.php:50
+msgid "Find an Agent"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Finland"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Finnish (Finland)"
+msgstr ""
+
+#: page-templates/account-settings.php:306 views/user-modal.php:87
+#: views/contact-agent-hero.php:19 views/contact-agent-modal.php:29
+#: views/work-with-agent-modal.php:27
+msgid "First Name"
+msgstr ""
+
+#: services/users.php:630
+msgid "First Name field is mandatory."
+msgstr ""
+
+#: page-templates/my-leads.php:129 page-templates/my-leads.php:191
+#: page-templates/my-leads.php:266 page-templates/my-leads.php:343
+#: post-types/lead.php:89 post-types/lead.php:523
+msgid "Fit"
+msgstr ""
+
+#: resideo-plugin.php:126
+msgid "Fixed Header Logo"
+msgstr ""
+
+#: post-types/init.php:76
+msgid "Floor Plan"
+msgstr ""
+
+#: page-templates/submit-property.php:578 post-types/property.php:127
+#: services/print-property.php:243 admin/sections/property_layout.php:316
+msgid "Floor Plans"
+msgstr ""
+
+#: admin/sections/colors.php:335
+msgid "Footer"
+msgstr ""
+
+#: admin/sections/general.php:26
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/sections/gmaps.php:79
+msgid "Forest"
+msgstr ""
+
+#: views/user-modal.php:144
+msgid "Forgot Password"
+msgstr ""
+
+#: views/user-modal.php:44
+msgid "Forgot password"
+msgstr ""
+
+#: elementor/widgets/contact.php:96
+msgid "Form"
+msgstr ""
+
+#: shortcodes/shortcodes.php:553
+msgid "Form Button Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:560 post-types/page-meta.php:930
+#: elementor/widgets/contact.php:126
+msgid "Form Email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:554 elementor/widgets/contact.php:147
+msgid "Form Position"
+msgstr ""
+
+#: shortcodes/shortcodes.php:559 post-types/page-meta.php:924
+#: elementor/widgets/contact.php:115
+msgid "Form Subtitle"
+msgstr ""
+
+#: shortcodes/shortcodes.php:558 post-types/page-meta.php:918
+#: elementor/widgets/contact.php:104
+msgid "Form Title"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "France"
+msgstr ""
+
+#: shortcodes/membership_plans.php:155 page-templates/submit-property.php:83
+#: page-templates/submit-property.php:84 page-templates/submit-property.php:106
+#: page-templates/account-settings.php:213
+#: elementor/widgets/membership_plans.php:325
+msgid "Free"
+msgstr ""
+
+#: page-templates/submit-property.php:96
+msgid "Free included"
+msgstr ""
+
+#: page-templates/my-properties.php:193 page-templates/my-properties.php:234
+msgid "free left"
+msgstr ""
+
+#: post-types/membership.php:134
+msgid "Free Plan"
+msgstr ""
+
+#: page-templates/submit-property.php:100
+#: page-templates/submit-property.php:120
+msgid "Free submissions left"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Belgium)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Benin)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Burkina Faso)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Burundi)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Cameroon)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Canada)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Central African Republic)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Chad)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Comoros)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Congo - Brazzaville)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Congo - Kinshasa)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Côte d’Ivoire)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Djibouti)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Equatorial Guinea)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (France)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Gabon)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Guadeloupe)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Guinea)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Luxembourg)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Madagascar)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Mali)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Martinique)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Monaco)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Niger)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Rwanda)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Réunion)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Saint Barthélemy)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Saint Martin)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Senegal)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Switzerland)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "French (Togo)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "French Guiana"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "French Polynesia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "French Southern Territories"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Fulah (Senegal)"
+msgstr ""
+
+#: post-types/page-meta.php:518
+msgid "Full"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Gabon"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Galician (Spain)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:479 elementor/widgets/gallery_carousel.php:13
+msgid "Gallery Carousel"
+msgstr ""
+
+#: shortcodes/shortcodes.php:480
+msgid "Gallery Carousel Photos"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Gambia"
+msgstr ""
+
+#: page-templates/contact-page-office.php:157
+#: page-templates/contact-page.php:173 page-templates/contact-page.php:173
+msgid "General questions"
+msgstr ""
+
+#: admin/settings.php:195 admin/sections/general.php:9
+msgid "General Settings"
+msgstr ""
+
+#: shortcodes/shortcodes.php:434 post-types/init.php:73 post-types/init.php:138
+msgid "Geocode was not successful for the following reason"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Georgia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Georgian (Georgia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "German (Austria)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "German (Belgium)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "German (Germany)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "German (Liechtenstein)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "German (Luxembourg)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "German (Switzerland)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Germany"
+msgstr ""
+
+#: views/user-modal.php:155
+msgid "Get New Password"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Ghana"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Gibraltar"
+msgstr ""
+
+#: admin/sections/amenities.php:24
+msgid "Give the amenity an unique ID (start with a letter)"
+msgstr ""
+
+#: admin/sections/cities.php:26
+msgid "Give the city an unique ID (start with a letter)"
+msgstr ""
+
+#: admin/sections/neighborhoods.php:26
+msgid "Give the neighborhood an unique ID (start with a letter)"
+msgstr ""
+
+#: page-templates/submit-property.php:1125
+#: page-templates/submit-property.php:1133
+msgid "Go to your account page"
+msgstr ""
+
+#: admin/settings.php:210 admin/sections/gmaps.php:9
+msgid "Google Maps"
+msgstr ""
+
+#: admin/sections/gmaps.php:10
+msgid "Google Maps API Key"
+msgstr ""
+
+#: admin/sections/gmaps.php:11
+msgid "Google Maps Default Latitude"
+msgstr ""
+
+#: admin/sections/gmaps.php:12
+msgid "Google Maps Default Longitude"
+msgstr ""
+
+#: admin/sections/gmaps.php:13
+msgid "Google Maps Default Zoom Level"
+msgstr ""
+
+#: admin/sections/gmaps.php:30
+msgid "Google Maps JavaScript API requires an API key. You can get it from"
+msgstr ""
+
+#: admin/sections/gmaps.php:14
+msgid "Google Maps Style"
+msgstr ""
+
+#: admin/sections/custom_fields.php:79 admin/sections/custom_fields.php:231
+msgid "Greater"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Greece"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Greek (Cyprus)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Greek (Greece)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Greenland"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Grenada"
+msgstr ""
+
+#: shortcodes/shortcodes.php:581 elementor/widgets/services.php:329
+msgid "Grid"
+msgstr ""
+
+#: post-types/page-meta.php:1052
+msgid "Grid 1"
+msgstr ""
+
+#: post-types/page-meta.php:1053
+msgid "Grid 2"
+msgstr ""
+
+#: post-types/page-meta.php:1054
+msgid "Grid 3"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guadeloupe"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guam"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guatemala"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guernsey"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guinea"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Gujarati (India)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Gusii (Kenya)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Guyana"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Haiti"
+msgstr ""
+
+#: post-types/page-meta.php:519
+msgid "Half"
+msgstr ""
+
+#: post-types/page-meta.php:1017
+msgid "Half map left side"
+msgstr ""
+
+#: post-types/page-meta.php:1018
+msgid "Half map right side"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:171
+msgid "Have fun!"
+msgstr ""
+
+#: post-types/page-meta.php:12 admin/sections/colors.php:17
+msgid "Header"
+msgstr ""
+
+#: admin/sections/appearance.php:11
+msgid "Header Background"
+msgstr ""
+
+#: post-types/init.php:104
+msgid "Header Image"
+msgstr ""
+
+#: post-types/page-meta.php:57
+msgid "Header Type"
+msgstr ""
+
+#: post-types/init.php:109
+msgid "Header Video Cover"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Hebrew (Israel)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:336 post-types/page-meta.php:515
+msgid "Height"
+msgstr ""
+
+#: admin/sections/gmaps.php:30
+msgid "here"
+msgstr ""
+
+#: views/contact-agent-hero.php:35 views/contact-agent-hero.php:36
+#: views/contact-agent-modal.php:50 views/contact-agent-modal.php:51
+#, php-format
+msgid "Hi, %s%sI would like more information about %s."
+msgstr ""
+
+#: shortcodes/search_properties.php:590
+#: elementor/widgets/search_properties.php:858
+msgid "Hide Advanced Search"
+msgstr ""
+
+#: admin/sections/appearance.php:18
+msgid "Hide Agents Phone Number"
+msgstr ""
+
+#: post-types/page-meta.php:985
+msgid "Hide Page Title"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Hindi (India)"
+msgstr ""
+
+#: views/user-modal.php:180
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers, and symbols like ! \" ? "
+"$ % ^ & )."
+msgstr ""
+
+#: page-templates/submit-property.php:1109 post-types/property.php:306
+#: admin/sections/property_fields.php:30
+msgid "HOA Dues"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Holy See"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Honduras"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Hong Kong"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1136
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://pixelprime.co"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Hungarian (Hungary)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Hungary"
+msgstr ""
+
+#: views/user-modal.php:112
+#, php-format
+msgid ""
+"I agree with <a href=\"%s\" class=\"pxp-modal-link\" target=\"_blank\">Terms "
+"and Conditions</a>"
+msgstr ""
+
+#: views/user-modal.php:77
+msgid "I am an agent"
+msgstr ""
+
+#: views/user-modal.php:78
+msgid "I am an owner"
+msgstr ""
+
+#: views/work-with-agent-modal.php:47
+msgid "I am interested in"
+msgstr ""
+
+#: services/contact-agent.php:163
+msgid "I am interested in: "
+msgstr ""
+
+#: views/user-modal.php:76
+msgid "I am searching for properties"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Iceland"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Icelandic (Iceland)"
+msgstr ""
+
+#: post-types/init.php:79 post-types/membership.php:47
+#: elementor/widgets/services.php:158 elementor/widgets/promo.php:150
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/shortcodes.php:305 elementor/widgets/services.php:181
+#: elementor/widgets/promo.php:173
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/services.php:170 elementor/widgets/promo.php:162
+msgid "Icon PNG (optional)"
+msgstr ""
+
+#: widgets/search_properties.php:276 admin/sections/property_fields.php:10
+msgid "ID"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:262
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Igbo (Nigeria)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:452 shortcodes/shortcodes.php:454
+#: shortcodes/shortcodes.php:555 shortcodes/shortcodes.php:556
+#: page-templates/submit-property.php:676 post-types/init.php:126
+#: post-types/property.php:682 post-types/page-meta.php:46
+#: post-types/page-meta.php:638 services/upload-scripts.php:102
+#: elementor/widgets/awards.php:80 elementor/widgets/areas.php:180
+#: elementor/widgets/promo_slider.php:84
+msgid "Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:449 shortcodes/shortcodes.php:530
+#: elementor/widgets/promo.php:268 elementor/widgets/single_property.php:107
+msgid "Image Position"
+msgstr ""
+
+#: post-types/page-meta.php:510
+msgid "Image Settings"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:272
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:292
+msgid "Import author:"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1114
+msgid "Import WordPress"
+msgstr ""
+
+#: services/warnings.php:35
+msgid ""
+"In order for the theme to function properly, it requires a list of pages "
+"having the following templates"
+msgstr ""
+
+#: elementor/widgets/numbers.php:126
+msgid "Increment"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "India"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Indonesia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Indonesian (Indonesia)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:319
+msgid "Info"
+msgstr ""
+
+#: shortcodes/shortcodes.php:327
+msgid "Info Background Image"
+msgstr ""
+
+#: admin/sections/property_fields.php:215
+#: admin/sections/property_fields.php:524
+#: admin/sections/property_fields.php:651
+msgid "Input"
+msgstr ""
+
+#: shortcodes/shortcodes.php:280
+msgid "Insert"
+msgstr ""
+
+#: post-types/init.php:110
+msgid "Insert Cover"
+msgstr ""
+
+#: admin/settings.php:46 admin/settings.php:48 shortcodes/shortcodes.php:302
+#: shortcodes/shortcodes.php:328 shortcodes/shortcodes.php:330
+#: shortcodes/shortcodes.php:372 shortcodes/shortcodes.php:411
+#: shortcodes/shortcodes.php:437 shortcodes/shortcodes.php:453
+#: shortcodes/shortcodes.php:466 shortcodes/shortcodes.php:509
+#: shortcodes/shortcodes.php:526 shortcodes/shortcodes.php:550
+#: shortcodes/shortcodes.php:557 shortcodes/shortcodes.php:566
+#: shortcodes/shortcodes.php:572 post-types/init.php:80 post-types/init.php:103
+#: post-types/init.php:105 post-types/init.php:108 post-types/init.php:114
+msgid "Insert Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:489 post-types/init.php:81 post-types/init.php:85
+msgid "Insert Photo"
+msgstr ""
+
+#: post-types/init.php:75 post-types/init.php:83
+msgid "Insert Photos"
+msgstr ""
+
+#: admin/settings.php:50
+msgid "Insert Picture"
+msgstr ""
+
+#: post-types/init.php:77
+msgid "Insert Plan"
+msgstr ""
+
+#: page-templates/account-settings.php:540 post-types/agent.php:127
+msgid "Instagram"
+msgstr ""
+
+#: widgets/social.php:34
+msgid "Instagram Link"
+msgstr ""
+
+#: admin/sections/custom_fields.php:41 admin/sections/custom_fields.php:155
+msgid "Interval"
+msgstr ""
+
+#: services/users.php:334 services/users.php:344
+msgid "Invalid email address!"
+msgstr ""
+
+#: services/users.php:67
+msgid "Invalid Email!"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:947
+msgid "Invalid file type"
+msgstr ""
+
+#: services/users.php:298 services/users.php:309
+msgid "Invalid username or password!"
+msgstr ""
+
+#: services/users.php:351
+msgid "Invalid username!"
+msgstr ""
+
+#: post-types/invoice.php:15
+msgid "Invoice"
+msgstr ""
+
+#: post-types/invoice.php:56
+msgid "Invoice ID"
+msgstr ""
+
+#: post-types/invoice.php:14
+msgid "Invoices"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Iran (Islamic Republic of)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Iraq"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Ireland"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Irish (Ireland)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Isle of Man"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Israel"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Italian (Italy)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Italian (Switzerland)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Italy"
+msgstr ""
+
+#: post-types/invoice.php:72
+msgid "Item ID"
+msgstr ""
+
+#: post-types/invoice.php:82
+msgid "Item Price"
+msgstr ""
+
+#: post-types/invoice.php:65 post-types/invoice.php:195
+msgid "Item Type"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Jamaica"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Japan"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Japanese (Japan)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Jersey"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Jordan"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Kannada (India)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Kazakhstan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Kenya"
+msgstr ""
+
+#: page-templates/submit-property.php:344 post-types/property.php:122
+#: services/print-property.php:156 admin/sections/property_layout.php:296
+msgid "Key Details"
+msgstr ""
+
+#: shortcodes/shortcodes.php:351 shortcodes/search_properties.php:425
+#: views/filter-properties-form-sidebar.php:331
+#: views/filter-properties-form.php:347 widgets/search_properties.php:255
+#: widgets/search_properties.php:643 admin/sections/property_fields.php:26
+#: elementor/widgets/search_properties.php:198
+#: elementor/widgets/search_properties.php:693
+msgid "Keywords"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Khmer (Cambodia)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Kiribati"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Korea (Democratic People's Republic of)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Korea (Republic of)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Korean (South Korea)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Koyra Chiini (Mali)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Koyraboro Senni (Mali)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Kuwait"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: page-templates/my-leads.php:62 page-templates/my-leads.php:97
+#: page-templates/my-leads.php:150
+msgid "Last 12 months"
+msgstr ""
+
+#: page-templates/my-leads.php:59 page-templates/my-leads.php:94
+#: page-templates/my-leads.php:147
+msgid "Last 30 days"
+msgstr ""
+
+#: page-templates/my-leads.php:60 page-templates/my-leads.php:95
+#: page-templates/my-leads.php:148
+msgid "Last 60 days"
+msgstr ""
+
+#: page-templates/my-leads.php:58 page-templates/my-leads.php:93
+#: page-templates/my-leads.php:146
+msgid "Last 7 days"
+msgstr ""
+
+#: page-templates/my-leads.php:61 page-templates/my-leads.php:96
+#: page-templates/my-leads.php:149
+msgid "Last 90 days"
+msgstr ""
+
+#: page-templates/account-settings.php:312 views/user-modal.php:93
+#: views/contact-agent-hero.php:24 views/contact-agent-modal.php:35
+#: views/work-with-agent-modal.php:33
+msgid "Last Name"
+msgstr ""
+
+#: services/users.php:634
+msgid "Last Name field is mandatory."
+msgstr ""
+
+#: shortcodes/shortcodes.php:422 page-templates/submit-property.php:898
+#: post-types/property.php:154 post-types/page-meta.php:1125
+#: post-types/page-meta.php:1279
+msgid "Latitude"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Latvia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Latvian (Latvia)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:456 elementor/widgets/membership_plans.php:175
+#: elementor/widgets/awards.php:114 elementor/widgets/subscribe.php:96
+#: elementor/widgets/services.php:276 elementor/widgets/services.php:284
+#: elementor/widgets/featured_agents.php:155 elementor/widgets/numbers.php:171
+#: elementor/widgets/contact.php:139 elementor/widgets/areas.php:267
+#: elementor/widgets/areas.php:275 elementor/widgets/promo.php:211
+#: elementor/widgets/promo.php:219 elementor/widgets/video.php:118
+#: elementor/widgets/testimonials.php:148
+#: elementor/widgets/testimonials.php:156
+#: elementor/widgets/featured_posts.php:100
+#: elementor/widgets/single_property.php:99
+#: elementor/widgets/recent_posts.php:100
+#: elementor/widgets/promo_slider.php:149
+#: elementor/widgets/recent_properties.php:188
+#: elementor/widgets/recent_properties.php:196
+#: elementor/widgets/featured_properties.php:188
+#: elementor/widgets/featured_properties.php:196
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/services.php:288 elementor/widgets/areas.php:279
+#: elementor/widgets/promo.php:223 elementor/widgets/testimonials.php:160
+#: elementor/widgets/recent_properties.php:200
+#: elementor/widgets/featured_properties.php:200
+msgid "Layout 1"
+msgstr ""
+
+#: elementor/widgets/services.php:292 elementor/widgets/areas.php:283
+#: elementor/widgets/promo.php:227 elementor/widgets/testimonials.php:164
+#: elementor/widgets/recent_properties.php:204
+#: elementor/widgets/featured_properties.php:204
+msgid "Layout 2"
+msgstr ""
+
+#: elementor/widgets/services.php:296 elementor/widgets/promo.php:231
+#: elementor/widgets/recent_properties.php:208
+#: elementor/widgets/featured_properties.php:208
+msgid "Layout 3"
+msgstr ""
+
+#: elementor/widgets/services.php:300 elementor/widgets/promo.php:235
+msgid "Layout 4"
+msgstr ""
+
+#: elementor/widgets/services.php:304
+msgid "Layout 5"
+msgstr ""
+
+#: elementor/widgets/services.php:308
+msgid "Layout 6"
+msgstr ""
+
+#: elementor/widgets/services.php:312
+msgid "Layout 7"
+msgstr ""
+
+#: admin/sections/property_layout.php:10
+msgid "Layout Design"
+msgstr ""
+
+#: post-types/lead.php:15
+msgid "Lead"
+msgstr ""
+
+#: page-templates/my-leads.php:302
+msgid "Lead Details"
+msgstr ""
+
+#: post-types/lead.php:48
+msgid "Lead Owner"
+msgstr ""
+
+#: post-types/lead.php:49
+msgid "Lead User"
+msgstr ""
+
+#: page-templates/my-leads.php:47 page-templates/my-leads.php:161
+#: post-types/lead.php:14
+msgid "Leads"
+msgstr ""
+
+#: admin/sections/appearance.php:19
+msgid "Leads per Page"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Lebanon"
+msgstr ""
+
+#: shortcodes/shortcodes.php:440 shortcodes/shortcodes.php:442
+#: shortcodes/shortcodes.php:451 post-types/page-meta.php:113
+#: post-types/page-meta.php:557 post-types/page-meta.php:686
+#: admin/sections/property_layout.php:85 admin/sections/appearance.php:88
+#: elementor/widgets/search_properties.php:62 elementor/widgets/contact.php:152
+#: elementor/widgets/promo.php:272 elementor/widgets/single_property.php:111
+msgid "Left"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Lesotho"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Liberia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Libya"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Liechtenstein"
+msgstr ""
+
+#: admin/sections/appearance.php:36
+msgid "Light"
+msgstr ""
+
+#: admin/sections/custom_fields.php:81 admin/sections/custom_fields.php:243
+msgid "Like"
+msgstr ""
+
+#: admin/sections/general.php:10
+msgid "Limit Google Autocomplete to One Country"
+msgstr ""
+
+#: shortcodes/shortcodes.php:354 elementor/widgets/search_properties.php:262
+msgid "Limit Main Fields"
+msgstr ""
+
+#: widgets/contact.php:41
+msgid "Line 1"
+msgstr ""
+
+#: widgets/contact.php:45
+msgid "Line 2"
+msgstr ""
+
+#: widgets/contact.php:49
+msgid "Line 3"
+msgstr ""
+
+#: page-templates/account-settings.php:534 post-types/agent.php:119
+msgid "LinkedIn"
+msgstr ""
+
+#: widgets/social.php:46
+msgid "LinkedIn Link"
+msgstr ""
+
+#: post-types/page-meta.php:1055 admin/sections/custom_fields.php:40
+#: admin/sections/custom_fields.php:149 admin/sections/property_fields.php:525
+#: admin/sections/property_fields.php:652
+msgid "List"
+msgstr ""
+
+#: services/print-property.php:282
+msgid "Listed By"
+msgstr ""
+
+#: services/paypal.php:166
+msgid "Listing Payment"
+msgstr ""
+
+#: services/paypal.php:107
+msgid "Listing payment on "
+msgstr ""
+
+#: services/paypal.php:174
+msgid "Listing Payment with Featured option"
+msgstr ""
+
+#: post-types/page-meta.php:1049
+msgid "Listing Type"
+msgstr ""
+
+#: shortcodes/membership_plans.php:147
+#: page-templates/contact-page-office.php:155
+#: page-templates/contact-page-office.php:155
+#: page-templates/account-settings.php:234
+#: page-templates/account-settings.php:237 page-templates/contact-page.php:171
+#: page-templates/contact-page.php:171
+#: elementor/widgets/membership_plans.php:319
+msgid "Listings"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Lithuania"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Lithuanian (Lithuania)"
+msgstr ""
+
+#: admin/sections/membership.php:174
+msgid "live"
+msgstr ""
+
+#: shortcodes/shortcodes.php:385 post-types/init.php:97
+msgid "Load 20 more properties"
+msgstr ""
+
+#: page-templates/my-leads.php:370
+msgid "Loading messages..."
+msgstr ""
+
+#: page-templates/property-search.php:111
+msgid "Loading properties"
+msgstr ""
+
+#: page-templates/my-leads.php:381
+msgid "Loading searches..."
+msgstr ""
+
+#: page-templates/my-leads.php:377
+msgid "Loading wish list..."
+msgstr ""
+
+#: page-templates/submit-property.php:863 post-types/testimonial.php:73
+#: post-types/property.php:120
+msgid "Location"
+msgstr ""
+
+#: admin/settings.php:45
+msgid "Logo Image"
+msgstr ""
+
+#: admin/sections/colors.php:45
+msgid "Logo Text"
+msgstr ""
+
+#: admin/sections/general.php:84
+msgid "Long"
+msgstr ""
+
+#: shortcodes/shortcodes.php:424 page-templates/submit-property.php:909
+#: post-types/property.php:160 post-types/page-meta.php:1131
+#: post-types/page-meta.php:1285
+msgid "Longitude"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Luxembourg"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Macao"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Macedonia (the former Yugoslav Republic of)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Macedonian (Macedonia)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Madagascar"
+msgstr ""
+
+#: page-templates/submit-property.php:769
+msgid "Main Details"
+msgstr ""
+
+#: admin/sections/appearance.php:16
+msgid "Make Contact Agent CTA Sticky on Property Page - Mobile View"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Malawi"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Malay (Brunei)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Malay (Malaysia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Malayalam (India)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Malaysia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Maldives"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mali"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Malta"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Maltese (Malta)"
+msgstr ""
+
+#: admin/sections/contact_fields.php:47 admin/sections/contact_fields.php:72
+#: admin/sections/custom_fields.php:48 admin/sections/custom_fields.php:102
+msgid "Mandatory"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Manx (United Kingdom)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:436 post-types/init.php:102
+msgid "Map Marker"
+msgstr ""
+
+#: admin/sections/colors.php:234
+msgid "Map Marker Background"
+msgstr ""
+
+#: admin/sections/colors.php:253
+msgid "Map Marker Border"
+msgstr ""
+
+#: admin/sections/general.php:12
+msgid "Map Marker Price Format"
+msgstr ""
+
+#: admin/sections/colors.php:272
+msgid "Map Marker Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:438 admin/sections/property_layout.php:12
+msgid "Map Position"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Marathi (India)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:393 elementor/widgets/membership_plans.php:183
+#: elementor/widgets/awards.php:122 elementor/widgets/subscribe.php:104
+#: elementor/widgets/services.php:340 elementor/widgets/featured_agents.php:163
+#: elementor/widgets/numbers.php:179 elementor/widgets/contact.php:160
+#: elementor/widgets/areas.php:295 elementor/widgets/promo.php:284
+#: elementor/widgets/video.php:126 elementor/widgets/testimonials.php:176
+#: elementor/widgets/featured_posts.php:108
+#: elementor/widgets/single_property.php:120
+#: elementor/widgets/recent_posts.php:108
+#: elementor/widgets/promo_slider.php:175
+#: elementor/widgets/recent_properties.php:220
+#: elementor/widgets/featured_properties.php:220
+msgid "Margin"
+msgstr ""
+
+#: post-types/page-meta.php:1334 post-types/page-meta.php:1414
+msgid "Margin Bottom"
+msgstr ""
+
+#: shortcodes/shortcodes.php:435
+msgid "Marker"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Marshall Islands"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Martinique"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mauritania"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mauritius"
+msgstr ""
+
+#: shortcodes/search_properties.php:515 views/search-properties-form.php:424
+#: views/filter-properties-form-sidebar.php:393
+#: views/filter-properties-form.php:420
+#: elementor/widgets/search_properties.php:783
+msgid "Max"
+msgstr ""
+
+#: admin/sections/general.php:20
+msgid "Max Number of Uploaded Photos per Property"
+msgstr ""
+
+#: shortcodes/search_properties.php:351 views/search-properties-form.php:338
+#: views/filter-properties-form-sidebar.php:282
+#: views/filter-properties-form.php:294 widgets/search_properties.php:558
+#: elementor/widgets/search_properties.php:619
+msgid "Max Price"
+msgstr ""
+
+#: shortcodes/search_properties.php:398
+#: views/filter-properties-form-sidebar.php:315
+#: views/filter-properties-form.php:329 widgets/search_properties.php:626
+#: elementor/widgets/search_properties.php:666
+msgid "Max Size"
+msgstr ""
+
+#: page-templates/submit-property.php:557
+msgid "Maximum number of files:"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mayotte"
+msgstr ""
+
+#: admin/sections/membership.php:52
+msgid "membership"
+msgstr ""
+
+#: admin/settings.php:260 post-types/agent.php:44
+#: admin/sections/membership.php:9
+msgid "Membership and Payment"
+msgstr ""
+
+#: services/paypal.php:266
+msgid "Membership Payment"
+msgstr ""
+
+#: post-types/agent.php:368 post-types/membership.php:15
+msgid "Membership Plan"
+msgstr ""
+
+#: post-types/membership.php:46
+msgid "Membership Plan Features"
+msgstr ""
+
+#: services/paypal.php:263
+msgid "Membership Plan Payment"
+msgstr ""
+
+#: services/paypal.php:258
+msgid "membership plan payment on"
+msgstr ""
+
+#: post-types/membership.php:64
+msgid "Membership Plan Period"
+msgstr ""
+
+#: shortcodes/shortcodes.php:412 post-types/membership.php:14
+#: elementor/widgets/membership_plans.php:13
+msgid "Membership Plans"
+msgstr ""
+
+#: services/paypal.php:396
+#, php-format
+msgid "Membership Type: %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:871
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:864
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: page-templates/contact-page-office.php:168
+#: page-templates/contact-page.php:184 views/contact-agent-hero.php:36
+#: views/contact-agent-modal.php:49 views/work-with-agent-modal.php:56
+#: widgets/contact_form.php:156
+msgid "Message"
+msgstr ""
+
+#: services/contact.php:65 services/contact.php:167 services/contact.php:263
+#: services/contact.php:359
+msgid "Message field is mandatory."
+msgstr ""
+
+#: page-templates/my-leads.php:355 post-types/lead.php:44
+msgid "Messages"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mexico"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Micronesia (Federated States of)"
+msgstr ""
+
+#: post-types/page-meta.php:112 post-types/page-meta.php:556
+#: post-types/page-meta.php:685
+msgid "Middle"
+msgstr ""
+
+#: shortcodes/search_properties.php:509 views/search-properties-form.php:419
+#: views/filter-properties-form-sidebar.php:387
+#: views/filter-properties-form.php:414
+#: elementor/widgets/search_properties.php:777
+msgid "Min"
+msgstr ""
+
+#: shortcodes/search_properties.php:333 views/search-properties-form.php:323
+#: views/filter-properties-form-sidebar.php:267
+#: views/filter-properties-form.php:279 widgets/search_properties.php:549
+#: elementor/widgets/search_properties.php:601
+msgid "Min Price"
+msgstr ""
+
+#: shortcodes/search_properties.php:389
+#: views/filter-properties-form-sidebar.php:306
+#: views/filter-properties-form.php:320 widgets/search_properties.php:617
+#: elementor/widgets/search_properties.php:657
+msgid "Min Size"
+msgstr ""
+
+#: services/warnings.php:34
+msgid "Missing Pages"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Moldova (Republic of)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Monaco"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mongolia"
+msgstr ""
+
+#: admin/sections/gmaps.php:76
+msgid "Monochrome Dark"
+msgstr ""
+
+#: admin/sections/gmaps.php:75
+msgid "Monochrome Light"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Montenegro"
+msgstr ""
+
+#: shortcodes/membership_plans.php:94
+#: elementor/widgets/membership_plans.php:267
+msgid "month"
+msgstr ""
+
+#: post-types/membership.php:80
+msgid "Months"
+msgstr ""
+
+#: shortcodes/membership_plans.php:96 page-templates/account-settings.php:181
+#: elementor/widgets/membership_plans.php:269
+msgid "months"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Montserrat"
+msgstr ""
+
+#: page-templates/agents-list.php:128 widgets/featured_agents.php:124
+#: widgets/recent_properties.php:258 widgets/featured_properties.php:258
+msgid "More Details"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Morisyen (Mauritius)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Morocco"
+msgstr ""
+
+#: views/modal-calculator.php:73
+msgid "Mortgage Amount"
+msgstr ""
+
+#: page-templates/submit-property.php:1083 post-types/property.php:128
+#: views/modal-calculator.php:14 admin/sections/property_fields.php:28
+msgid "Mortgage Calculator"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Mozambique"
+msgstr ""
+
+#: page-templates/my-leads.php:35 views/dashboard-nav.php:26
+msgid "My Leads"
+msgstr ""
+
+#: page-templates/my-properties.php:38 views/dashboard-nav.php:25
+msgid "My Properties"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Myanmar"
+msgstr ""
+
+#: page-templates/my-leads.php:206 page-templates/my-leads.php:311
+#: page-templates/contact-page-office.php:140
+#: page-templates/contact-page.php:156 widgets/contact_form.php:144
+msgid "Name"
+msgstr ""
+
+#: services/contact.php:60 services/contact.php:157 services/contact.php:258
+#: services/contact.php:354 services/leads.php:341
+msgid "Name field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Namibia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Nauru"
+msgstr ""
+
+#: admin/sections/colors.php:65
+msgid "Navigation"
+msgstr ""
+
+#: admin/sections/gmaps.php:86
+msgid "Navy Blue"
+msgstr ""
+
+#: shortcodes/shortcodes.php:343 shortcodes/shortcodes.php:362
+#: shortcodes/search_properties.php:163 page-templates/submit-property.php:976
+#: post-types/property.php:193 views/search-properties-form.php:247
+#: views/search-properties-form.php:259
+#: views/filter-properties-form-sidebar.php:144
+#: views/filter-properties-form.php:151 widgets/search_properties.php:108
+#: admin/sections/address.php:27 admin/sections/property_fields.php:16
+#: elementor/widgets/search_properties.php:121
+#: elementor/widgets/search_properties.php:431 elementor/widgets/areas.php:196
+#: elementor/widgets/areas.php:206
+msgid "Neighborhood"
+msgstr ""
+
+#: services/save-property.php:150
+msgid "Neighborhood field is mandatory."
+msgstr ""
+
+#: admin/sections/neighborhoods.php:23 admin/sections/neighborhoods.php:49
+msgid "Neighborhood ID"
+msgstr ""
+
+#: admin/sections/neighborhoods.php:82
+msgid "Neighborhood ID is mandatory."
+msgstr ""
+
+#: admin/sections/neighborhoods.php:30 admin/sections/neighborhoods.php:50
+msgid "Neighborhood Name"
+msgstr ""
+
+#: admin/sections/neighborhoods.php:86
+msgid "Neighborhood name is mandatory."
+msgstr ""
+
+#: admin/settings.php:225 admin/sections/neighborhoods.php:9
+msgid "Neighborhoods"
+msgstr ""
+
+#: admin/sections/neighborhoods.php:45
+msgid "Neighborhoods List"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Nepal"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Nepali (India)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Netherlands"
+msgstr ""
+
+#: page-templates/submit-property.php:713
+msgid "New"
+msgstr ""
+
+#: post-types/agent.php:20
+msgid "New Agent/Owner"
+msgstr ""
+
+#: shortcodes/shortcodes.php:360
+msgid "New Area"
+msgstr ""
+
+#: shortcodes/shortcodes.php:516
+msgid "New Award"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "New Caledonia"
+msgstr ""
+
+#: page-templates/submit-property.php:641 post-types/property.php:638
+msgid "New Floor Plan"
+msgstr ""
+
+#: post-types/invoice.php:20
+msgid "New Invoice"
+msgstr ""
+
+#: post-types/lead.php:20
+msgid "New Lead"
+msgstr ""
+
+#: post-types/membership.php:20
+msgid "New Membership Plan"
+msgstr ""
+
+#: shortcodes/shortcodes.php:493
+msgid "New Number"
+msgstr ""
+
+#: page-templates/account-settings.php:330 views/user-modal.php:178
+msgid "New Password"
+msgstr ""
+
+#: shortcodes/shortcodes.php:482
+msgid "New Photo"
+msgstr ""
+
+#: post-types/property.php:20
+msgid "New Property"
+msgstr ""
+
+#: post-types/property.php:74
+msgid "New Property Status Name"
+msgstr ""
+
+#: post-types/property.php:50
+msgid "New Property Type Name"
+msgstr ""
+
+#: shortcodes/shortcodes.php:292
+msgid "New Service"
+msgstr ""
+
+#: shortcodes/shortcodes.php:538
+msgid "New Slide"
+msgstr ""
+
+#: post-types/subscriber.php:20
+msgid "New Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:20
+msgid "New Testimonial"
+msgstr ""
+
+#: views/user-modal.php:47
+msgid "New to"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "New Zealand"
+msgstr ""
+
+#: page-templates/agents-list.php:146
+msgid "Next Page"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Nicaragua"
+msgstr ""
+
+#: page-templates/account-settings.php:318
+msgid "Nickname"
+msgstr ""
+
+#: services/users.php:642
+msgid "Nickname field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Niger"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Nigeria"
+msgstr ""
+
+#: admin/sections/gmaps.php:80
+msgid "Night"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Niue"
+msgstr ""
+
+#: shortcodes/shortcodes.php:388 shortcodes/shortcodes.php:394
+#: shortcodes/shortcodes.php:429 page-templates/my-leads.php:181
+#: page-templates/my-leads.php:333 post-types/agent.php:435
+#: post-types/property.php:982 post-types/lead.php:79 post-types/lead.php:516
+#: admin/sections/contact_fields.php:50 admin/sections/contact_fields.php:138
+#: admin/sections/custom_fields.php:51 admin/sections/custom_fields.php:60
+#: admin/sections/custom_fields.php:69 admin/sections/custom_fields.php:171
+#: admin/sections/custom_fields.php:189 admin/sections/custom_fields.php:207
+#: admin/sections/property_fields.php:74 admin/sections/property_fields.php:237
+#: admin/sections/property_fields.php:260
+#: admin/sections/property_fields.php:547
+#: admin/sections/property_fields.php:570
+#: admin/sections/property_fields.php:674
+#: admin/sections/property_fields.php:697
+#: admin/sections/property_fields.php:779
+#: admin/sections/property_fields.php:802
+#: admin/sections/property_fields.php:942
+#: admin/sections/property_fields.php:965
+#: admin/sections/property_fields.php:1048
+#: admin/sections/property_fields.php:1130
+#: admin/sections/property_fields.php:1153
+#: admin/sections/property_fields.php:1235
+#: admin/sections/property_fields.php:1258
+#: admin/sections/property_fields.php:1340
+#: admin/sections/property_fields.php:1363
+#: admin/sections/property_fields.php:1445
+#: admin/sections/property_fields.php:1468
+#: admin/sections/property_fields.php:1501
+#: admin/sections/property_fields.php:1515
+#: admin/sections/property_fields.php:1548
+#: admin/sections/property_fields.php:1562
+#: elementor/widgets/membership_plans.php:186 elementor/widgets/awards.php:125
+#: elementor/widgets/subscribe.php:107
+#: elementor/widgets/search_properties.php:91
+#: elementor/widgets/search_properties.php:102
+#: elementor/widgets/search_properties.php:113
+#: elementor/widgets/search_properties.php:124
+#: elementor/widgets/search_properties.php:135
+#: elementor/widgets/search_properties.php:146
+#: elementor/widgets/search_properties.php:157
+#: elementor/widgets/search_properties.php:168
+#: elementor/widgets/search_properties.php:179
+#: elementor/widgets/search_properties.php:190
+#: elementor/widgets/search_properties.php:201
+#: elementor/widgets/search_properties.php:212
+#: elementor/widgets/search_properties.php:223
+#: elementor/widgets/search_properties.php:250
+#: elementor/widgets/services.php:343 elementor/widgets/featured_agents.php:166
+#: elementor/widgets/numbers.php:182 elementor/widgets/contact.php:163
+#: elementor/widgets/areas.php:298 elementor/widgets/promo.php:287
+#: elementor/widgets/video.php:129 elementor/widgets/testimonials.php:179
+#: elementor/widgets/featured_posts.php:111
+#: elementor/widgets/single_property.php:123
+#: elementor/widgets/recent_posts.php:111
+#: elementor/widgets/promo_slider.php:178
+#: elementor/widgets/recent_properties.php:223
+#: elementor/widgets/featured_properties.php:223
+msgid "No"
+msgstr ""
+
+#: page-templates/agents-list.php:140
+msgid "No agents found"
+msgstr ""
+
+#: post-types/agent.php:24
+msgid "No Agents/Owners found"
+msgstr ""
+
+#: post-types/agent.php:25
+msgid "No Agents/Owners found in Trash"
+msgstr ""
+
+#: post-types/property.php:437
+msgid "No amenities defined. You can define them here: Resideo > Amenities"
+msgstr ""
+
+#: post-types/invoice.php:24
+msgid "No Invoices found"
+msgstr ""
+
+#: post-types/invoice.php:25
+msgid "No Invoices found in Trash"
+msgstr ""
+
+#: post-types/property.php:395
+msgid ""
+"No Key Details fields defined. You can define them here: Resideo > Property "
+"Custom Fields"
+msgstr ""
+
+#: post-types/lead.php:24
+msgid "No Leads found"
+msgstr ""
+
+#: post-types/lead.php:25
+msgid "No Leads found in Trash"
+msgstr ""
+
+#: post-types/page-meta.php:1019
+msgid "No map"
+msgstr ""
+
+#: shortcodes/search_properties.php:353
+#: views/filter-properties-form-sidebar.php:284
+#: views/filter-properties-form.php:296 widgets/search_properties.php:560
+#: elementor/widgets/search_properties.php:621
+msgid "No Max"
+msgstr ""
+
+#: post-types/membership.php:24
+msgid "No Membership Plans found"
+msgstr ""
+
+#: post-types/membership.php:25
+msgid "No Membership Plans found in Trash"
+msgstr ""
+
+#: post-types/lead.php:122
+msgid "No messages found."
+msgstr ""
+
+#: shortcodes/search_properties.php:335
+#: views/filter-properties-form-sidebar.php:269
+#: views/filter-properties-form.php:281 widgets/search_properties.php:551
+#: elementor/widgets/search_properties.php:603
+msgid "No Min"
+msgstr ""
+
+#: post-types/property.php:24
+msgid "No Properties found"
+msgstr ""
+
+#: post-types/property.php:25
+msgid "No Properties found in Trash"
+msgstr ""
+
+#: shortcodes/shortcodes.php:386 post-types/init.php:98
+msgid "No properties found."
+msgstr ""
+
+#: post-types/property.php:78
+msgid "No property status found."
+msgstr ""
+
+#: post-types/property.php:54
+msgid "No property type found."
+msgstr ""
+
+#: post-types/subscriber.php:24
+msgid "No Subscribers found"
+msgstr ""
+
+#: post-types/subscriber.php:25
+msgid "No Subscribers found in Trash"
+msgstr ""
+
+#: post-types/testimonial.php:24
+msgid "No Testimonials found"
+msgstr ""
+
+#: post-types/testimonial.php:25
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: shortcodes/contact.php:101 page-templates/my-leads.php:136
+#: page-templates/my-leads.php:190 page-templates/my-leads.php:263
+#: page-templates/my-leads.php:275 page-templates/my-leads.php:342
+#: page-templates/contact-page-office.php:108
+#: page-templates/contact-page.php:124 post-types/agent.php:189
+#: post-types/property.php:511 post-types/lead.php:88 post-types/lead.php:375
+#: post-types/lead.php:418 post-types/lead.php:529 post-types/page-meta.php:42
+#: views/page-header.php:719 elementor/widgets/contact.php:249
+msgid "None"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Norfolk Island"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Norway"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Norwegian Bokmål (Norway)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Norwegian Nynorsk (Norway)"
+msgstr ""
+
+#: page-templates/my-leads.php:83 page-templates/my-leads.php:248
+#: page-templates/my-leads.php:254
+msgid "Not contacted"
+msgstr ""
+
+#: admin/sections/property_fields.php:130
+#: admin/sections/property_fields.php:191
+#: admin/sections/property_fields.php:318
+#: admin/sections/property_fields.php:379
+#: admin/sections/property_fields.php:440
+#: admin/sections/property_fields.php:501
+#: admin/sections/property_fields.php:628
+#: admin/sections/property_fields.php:755
+#: admin/sections/property_fields.php:860
+#: admin/sections/property_fields.php:921
+#: admin/sections/property_fields.php:1023
+#: admin/sections/property_fields.php:1106
+#: admin/sections/property_fields.php:1211
+#: admin/sections/property_fields.php:1316
+#: admin/sections/property_fields.php:1421
+msgid "Not required"
+msgstr ""
+
+#: post-types/page-meta.php:952
+msgid ""
+"NOTE: This header type requires Slider Revolution plugin. The plugin is not "
+"included in the theme."
+msgstr ""
+
+#: page-templates/my-leads.php:358 post-types/subscriber.php:43
+#: post-types/lead.php:47
+msgid "Notes"
+msgstr ""
+
+#: admin/settings.php:265 admin/sections/notifications.php:9
+msgid "Notifications"
+msgstr ""
+
+#: admin/sections/notifications.php:11
+msgid "Notify Admin when Properties are Published"
+msgstr ""
+
+#: admin/sections/notifications.php:10
+msgid "Notify Agent when Properties are Published"
+msgstr ""
+
+#: shortcodes/shortcodes.php:494 elementor/widgets/numbers.php:91
+msgid "Number"
+msgstr ""
+
+#: shortcodes/shortcodes.php:498
+msgid "Number animation delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:500
+msgid "Number increment"
+msgstr ""
+
+#: shortcodes/shortcodes.php:407 elementor/widgets/featured_agents.php:114
+msgid "Number of Agents"
+msgstr ""
+
+#: widgets/featured_agents.php:29
+msgid "Number of agents to show"
+msgstr ""
+
+#: post-types/membership.php:112
+msgid "Number of Featured Submissions"
+msgstr ""
+
+#: admin/sections/membership.php:16
+msgid "Number of Free Featured Submissions"
+msgstr ""
+
+#: admin/sections/membership.php:14
+msgid "Number of Free Submissions"
+msgstr ""
+
+#: shortcodes/shortcodes.php:403
+msgid "Number of Posts"
+msgstr ""
+
+#: widgets/recent_posts.php:39
+msgid "Number of posts to show"
+msgstr ""
+
+#: shortcodes/shortcodes.php:313 elementor/widgets/recent_properties.php:173
+#: elementor/widgets/featured_properties.php:173
+msgid "Number of Properties"
+msgstr ""
+
+#: widgets/recent_properties.php:31 widgets/featured_properties.php:31
+msgid "Number of properties to show"
+msgstr ""
+
+#: post-types/membership.php:92
+msgid "Number of Submissions"
+msgstr ""
+
+#: shortcodes/shortcodes.php:496
+msgid "Number sign"
+msgstr ""
+
+#: shortcodes/shortcodes.php:504
+msgid "Number Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:502
+msgid "Number Title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:490 elementor/widgets/numbers.php:13
+#: elementor/widgets/numbers.php:81
+msgid "Numbers"
+msgstr ""
+
+#: shortcodes/shortcodes.php:508
+msgid "Numbers Background Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:491 elementor/widgets/numbers.php:159
+msgid "Numbers List"
+msgstr ""
+
+#: admin/sections/custom_fields.php:38 admin/sections/custom_fields.php:137
+msgid "Numeric"
+msgstr ""
+
+#: page-templates/property-search.php:163
+msgid "of"
+msgstr ""
+
+#: post-types/page-meta.php:785
+msgid "Off"
+msgstr ""
+
+#: post-types/page-meta.php:1265
+msgid "Office Info"
+msgstr ""
+
+#: post-types/page-meta.php:1117 post-types/page-meta.php:1271
+msgid "Office Title"
+msgstr ""
+
+#: post-types/page-meta.php:1108
+msgid "Offices"
+msgstr ""
+
+#: post-types/page-meta.php:1193
+msgid "Offices List"
+msgstr ""
+
+#: post-types/init.php:111 post-types/page-meta.php:1224
+msgid "Offices list is empty."
+msgstr ""
+
+#: shortcodes/shortcodes.php:304 shortcodes/shortcodes.php:369
+#: shortcodes/shortcodes.php:487 shortcodes/shortcodes.php:511
+#: shortcodes/shortcodes.php:523 shortcodes/shortcodes.php:547
+#: post-types/init.php:92 post-types/page-meta.php:318
+msgid "OK"
+msgstr ""
+
+#: post-types/init.php:127 services/upload-scripts.php:103
+msgid "Ok"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Oman"
+msgstr ""
+
+#: post-types/page-meta.php:786
+msgid "On"
+msgstr ""
+
+#: admin/sections/appearance.php:63
+msgid "Opaque"
+msgstr ""
+
+#: admin/sections/authentication.php:36
+msgid "Optional"
+msgstr ""
+
+#: shortcodes/contact.php:76 page-templates/contact-page-office.php:86
+#: page-templates/contact-page.php:102 views/page-header.php:697
+#: widgets/contact_form.php:81 elementor/widgets/contact.php:227
+msgid "optional"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:316
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:303
+msgid "or create new user with login name:"
+msgstr ""
+
+#: admin/sections/gmaps.php:87
+msgid "Orange"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Oriya (India)"
+msgstr ""
+
+#: views/work-with-agent-modal.php:52
+msgid "Other"
+msgstr ""
+
+#: page-templates/contact-page.php:199
+msgid "Our Locations"
+msgstr ""
+
+#: page-templates/contact-page.php:55
+msgid "Our Offices"
+msgstr ""
+
+#: page-templates/submit-property.php:223 services/print-property.php:204
+#: admin/sections/property_layout.php:300 admin/sections/property_fields.php:11
+msgid "Overview"
+msgstr ""
+
+#: services/save-property.php:130
+msgid "Overview field is mandatory."
+msgstr ""
+
+#: page-templates/account-settings.php:577 post-types/agent.php:238
+#: post-types/agent.php:241 post-types/agent.php:401
+msgid "Owner"
+msgstr ""
+
+#: page-templates/account-settings.php:370
+msgid "Owner Details"
+msgstr ""
+
+#: post-types/page-meta.php:14 post-types/page-meta.php:15
+#: post-types/page-meta.php:16 post-types/page-meta.php:17
+msgid "Page Settings"
+msgstr ""
+
+#: post-types/page-meta.php:1095 post-types/page-meta.php:1252
+#: post-types/page-meta.php:1376
+msgid "Page subtitle"
+msgstr ""
+
+#: page-templates/my-properties.php:157
+msgid "Paid"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Pakistan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Palau"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Palestine, State of"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Panama"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Papua New Guinea"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Paraguay"
+msgstr ""
+
+#: post-types/agent.php:26
+msgid "Parent Agent/Owner"
+msgstr ""
+
+#: post-types/invoice.php:26
+msgid "Parent Invoice"
+msgstr ""
+
+#: post-types/lead.php:26
+msgid "Parent Leads"
+msgstr ""
+
+#: post-types/membership.php:26
+msgid "Parent Membership Plan"
+msgstr ""
+
+#: post-types/property.php:26
+msgid "Parent Property"
+msgstr ""
+
+#: post-types/subscriber.php:26
+msgid "Parent Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:26
+msgid "Parent Testimonial"
+msgstr ""
+
+#: page-templates/contact-page-office.php:156
+#: page-templates/contact-page.php:172 page-templates/contact-page.php:172
+msgid "Partnerships"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Pashto (Afghanistan)"
+msgstr ""
+
+#: views/user-modal.php:31 views/user-modal.php:103
+msgid "Password"
+msgstr ""
+
+#: services/users.php:403
+msgid "Password field empty!"
+msgstr ""
+
+#: services/users.php:377
+msgid "Password Reset Request"
+msgstr ""
+
+#: services/users.php:75
+msgid "Password too short. Please enter at least 6 characters!"
+msgstr ""
+
+#: services/users.php:33
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: page-templates/submit-property.php:524 post-types/property.php:472
+msgid "Paste your virtual tour embed code here..."
+msgstr ""
+
+#: page-templates/my-properties.php:219 page-templates/my-properties.php:248
+#: page-templates/account-settings.php:260
+msgid "Pay with PayPal"
+msgstr ""
+
+#: page-templates/my-properties.php:157 page-templates/my-properties.php:159
+msgid "Payment"
+msgstr ""
+
+#: admin/sections/property_layout.php:324
+msgid "Payment Calculator"
+msgstr ""
+
+#: admin/sections/membership.php:11
+msgid "Payment Currency"
+msgstr ""
+
+#: post-types/agent.php:153
+msgid "Payment type is disabled."
+msgstr ""
+
+#: admin/sections/membership.php:21
+msgid "PayPal API Password"
+msgstr ""
+
+#: admin/sections/membership.php:22
+msgid "PayPal API Signature"
+msgstr ""
+
+#: admin/sections/membership.php:20
+msgid "PayPal API Username"
+msgstr ""
+
+#: admin/sections/membership.php:17
+msgid "PayPal API Version"
+msgstr ""
+
+#: admin/sections/membership.php:18
+msgid "PayPal Client ID"
+msgstr ""
+
+#: admin/sections/membership.php:19
+msgid "PayPal Client Secret Key"
+msgstr ""
+
+#: admin/sections/membership.php:10
+msgid "PayPal Paid Submission"
+msgstr ""
+
+#: admin/sections/membership.php:23
+msgid "PayPal Receiving E-mail"
+msgstr ""
+
+#: page-templates/submit-property.php:710 page-templates/my-properties.php:152
+msgid "Pending for Approval"
+msgstr ""
+
+#: admin/sections/membership.php:47
+msgid "per listing"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Persian (Afghanistan)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Persian (Iran)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Peru"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Philippines"
+msgstr ""
+
+#: page-templates/my-leads.php:325 page-templates/account-settings.php:504
+#: post-types/agent.php:83 post-types/agent.php:367 post-types/lead.php:71
+#: post-types/lead.php:486 post-types/page-meta.php:1165
+#: post-types/page-meta.php:1319 widgets/contact_form.php:148
+msgid "Phone"
+msgstr ""
+
+#: page-templates/contact-page-office.php:163
+#: page-templates/contact-page.php:179 views/contact-agent-hero.php:32
+#: views/contact-agent-modal.php:45 views/work-with-agent-modal.php:43
+msgid "Phone (optional)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:417
+msgid "Phone Number"
+msgstr ""
+
+#: services/contact.php:70 services/contact.php:172 services/contact.php:268
+#: services/contact.php:364 services/contact-agent.php:31
+#: services/contact-agent.php:37 services/contact-agent.php:165
+msgid "Phone number"
+msgstr ""
+
+#: shortcodes/shortcodes.php:488 post-types/agent.php:364
+#: elementor/widgets/gallery_carousel.php:38
+msgid "Photo"
+msgstr ""
+
+#: page-templates/submit-property.php:532 post-types/property.php:126
+msgid "Photo Gallery"
+msgstr ""
+
+#: admin/sections/property_layout.php:60
+msgid "Photo gallery"
+msgstr ""
+
+#: elementor/widgets/gallery_carousel.php:28
+msgid "Photos"
+msgstr ""
+
+#: elementor/widgets/gallery_carousel.php:49
+msgid "Photos List"
+msgstr ""
+
+#: page-templates/account-settings.php:528 post-types/agent.php:113
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/social.php:50
+msgid "Pinterest Link"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Pitcairn"
+msgstr ""
+
+#. Author of the plugin
+msgid "Pixel Prime"
+msgstr ""
+
+#: post-types/membership.php:122
+msgid "Plan Price"
+msgstr ""
+
+#: elementor/widgets/membership_plans.php:60
+msgid "Plans"
+msgstr ""
+
+#: shortcodes/shortcodes.php:473 elementor/widgets/membership_plans.php:98
+msgid "Plans CTA Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:472 elementor/widgets/membership_plans.php:83
+msgid "Plans Price Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:471 elementor/widgets/membership_plans.php:68
+msgid "Plans Title Color"
+msgstr ""
+
+#: post-types/init.php:86
+msgid "Please choose a photo for the slide"
+msgstr ""
+
+#: post-types/init.php:112
+msgid "Please choose a title for the office"
+msgstr ""
+
+#: services/report-property.php:16
+msgid "Please describe a reason."
+msgstr ""
+
+#: views/report-property-modal.php:25
+msgid "Please describe a reason..."
+msgstr ""
+
+#: services/users.php:703
+msgid "Please enter a name for your search and try again."
+msgstr ""
+
+#: services/subscription.php:17
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: page-templates/submit-property.php:1123
+msgid "Please renew your membership plan if you want to submit new listings."
+msgstr ""
+
+#: services/contact.php:162
+msgid "Please select a category."
+msgstr ""
+
+#: page-templates/submit-property.php:1131
+msgid "Please upgrade your membership plan if you want to submit new listings."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Poland"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Polish (Poland)"
+msgstr ""
+
+#: post-types/property.php:69
+msgid "Popular Property Statuses"
+msgstr ""
+
+#: post-types/property.php:45
+msgid "Popular Property Types"
+msgstr ""
+
+#: post-types/membership.php:148
+msgid "Popular/Recommended Plan"
+msgstr ""
+
+#: post-types/membership.php:153
+msgid "Popular/Recommended Plan Label"
+msgstr ""
+
+#: admin/sections/gmaps.php:81
+msgid "Portal"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Portugal"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: admin/sections/address.php:49 admin/sections/cities.php:36
+#: admin/sections/cities.php:51 admin/sections/property_layout.php:334
+#: admin/sections/contact_fields.php:56 admin/sections/contact_fields.php:73
+#: admin/sections/custom_fields.php:86 admin/sections/custom_fields.php:106
+#: admin/sections/neighborhoods.php:36 admin/sections/neighborhoods.php:51
+#: admin/sections/amenities.php:42 admin/sections/amenities.php:58
+msgid "Position"
+msgstr ""
+
+#: admin/sections/cities.php:91 admin/sections/contact_fields.php:189
+#: admin/sections/custom_fields.php:291 admin/sections/neighborhoods.php:90
+#: admin/sections/amenities.php:107
+msgid "Position is mandatory."
+msgstr ""
+
+#: shortcodes/shortcodes.php:421 post-types/property.php:149
+#: post-types/page-meta.php:1158 post-types/page-meta.php:1312
+msgid "Position pin by address"
+msgstr ""
+
+#: shortcodes/shortcodes.php:478 elementor/widgets/featured_posts.php:83
+#: elementor/widgets/recent_posts.php:83
+msgid "Post Card CTA Color"
+msgstr ""
+
+#: page-templates/contact-page-office.php:154
+#: page-templates/contact-page.php:170 page-templates/contact-page.php:170
+msgid "Press"
+msgstr ""
+
+#: page-templates/agents-list.php:147
+msgid "Previous Page"
+msgstr ""
+
+#: shortcodes/shortcodes.php:345 page-templates/submit-property.php:782
+#: post-types/invoice.php:196 post-types/property.php:285
+#: views/modal-calculator.php:29 widgets/search_properties.php:171
+#: admin/sections/property_fields.php:20
+#: elementor/widgets/search_properties.php:154
+msgid "Price"
+msgstr ""
+
+#: page-templates/property-search.php:179
+msgid "Price (Hi-Lo)"
+msgstr ""
+
+#: page-templates/property-search.php:178
+msgid "Price (Lo-Hi)"
+msgstr ""
+
+#: services/save-property.php:166
+msgid "Price field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:11
+msgid "Price Format"
+msgstr ""
+
+#: page-templates/submit-property.php:792
+msgid "Price Label"
+msgstr ""
+
+#: post-types/property.php:291
+msgid "Price Label (e.g. \"per month\")"
+msgstr ""
+
+#: admin/sections/general.php:16
+msgid "Price Range Max Value"
+msgstr ""
+
+#: page-templates/my-properties.php:223 page-templates/my-properties.php:252
+#: page-templates/account-settings.php:262
+msgid "Processing Payment..."
+msgstr ""
+
+#: page-templates/account-settings.php:338 services/users.php:886
+msgid "Profile Picture"
+msgstr ""
+
+#: shortcodes/shortcodes.php:445 elementor/widgets/promo.php:13
+msgid "Promo"
+msgstr ""
+
+#: shortcodes/shortcodes.php:534 elementor/widgets/promo_slider.php:13
+msgid "Promo Slider"
+msgstr ""
+
+#: shortcodes/shortcodes.php:382 shortcodes/shortcodes.php:384
+#: shortcodes/areas.php:75 shortcodes/areas.php:137 shortcodes/areas.php:199
+#: page-templates/wish-list.php:33 page-templates/my-properties.php:43
+#: post-types/init.php:96 post-types/init.php:100 post-types/property.php:14
+#: elementor/widgets/areas.php:376 elementor/widgets/areas.php:437
+#: elementor/widgets/areas.php:497
+msgid "Properties"
+msgstr ""
+
+#: shortcodes/shortcodes.php:380 post-types/page-meta.php:403
+msgid "Properties List"
+msgstr ""
+
+#: post-types/init.php:101 post-types/page-meta.php:432
+msgid "Properties list is empty."
+msgstr ""
+
+#: admin/sections/appearance.php:13
+msgid "Properties per Page"
+msgstr ""
+
+#: admin/sections/appearance.php:14
+msgid "Properties per Page on Agent Profile"
+msgstr ""
+
+#: widgets/search_properties.php:9
+msgid "Properties quick search form"
+msgstr ""
+
+#: post-types/page-meta.php:1029
+msgid "Properties Search Results Template"
+msgstr ""
+
+#: shortcodes/shortcodes.php:379 post-types/page-meta.php:45
+msgid "Properties Slider"
+msgstr ""
+
+#: post-types/page-meta.php:401
+msgid "Properties Slider Settings"
+msgstr ""
+
+#: post-types/property.php:15 elementor/widgets/single_property.php:54
+#: elementor/widgets/single_property.php:62
+msgid "Property"
+msgstr ""
+
+#: admin/settings.php:230 admin/sections/address.php:9
+msgid "Property Address Format"
+msgstr ""
+
+#: admin/sections/general.php:18
+msgid "Property Bathrooms Label"
+msgstr ""
+
+#: admin/sections/general.php:17
+msgid "Property Bedrooms Label"
+msgstr ""
+
+#: admin/settings.php:240 admin/sections/custom_fields.php:9
+msgid "Property Custom Fields"
+msgstr ""
+
+#: admin/settings.php:235 admin/sections/property_fields.php:9
+msgid "Property Fields"
+msgstr ""
+
+#: post-types/init.php:74
+msgid "Property Gallery"
+msgstr ""
+
+#: shortcodes/shortcodes.php:340 shortcodes/search_properties.php:446
+#: views/filter-properties-form-sidebar.php:341
+#: views/filter-properties-form.php:359 widgets/search_properties.php:654
+#: elementor/widgets/search_properties.php:209
+#: elementor/widgets/search_properties.php:714
+msgid "Property ID"
+msgstr ""
+
+#: shortcodes/shortcodes.php:528
+msgid "Property Name"
+msgstr ""
+
+#: admin/settings.php:215 admin/sections/property_layout.php:9
+msgid "Property Page Layout"
+msgstr ""
+
+#: admin/sections/general.php:19
+msgid "Property Size Unit"
+msgstr ""
+
+#: post-types/property.php:67
+msgid "Property Status"
+msgstr ""
+
+#: post-types/property.php:66 post-types/property.php:79
+msgid "Property Statuses"
+msgstr ""
+
+#: admin/sections/membership.php:12
+msgid "Property Submission Price"
+msgstr ""
+
+#: page-templates/submit-property.php:1098 post-types/property.php:300
+#: admin/sections/property_fields.php:29
+msgid "Property Taxes"
+msgstr ""
+
+#: services/save-property.php:349 services/save-property.php:359
+#, php-format
+msgid "Property title: %s"
+msgstr ""
+
+#: post-types/property.php:43
+msgid "Property Type"
+msgstr ""
+
+#: post-types/property.php:42 post-types/property.php:55
+msgid "Property Types"
+msgstr ""
+
+#: services/paypal.php:362
+#, php-format
+msgid "Property: %s"
+msgstr ""
+
+#: page-templates/submit-property.php:700
+#: page-templates/submit-property.php:736
+msgid "Publish"
+msgstr ""
+
+#: page-templates/submit-property.php:708 page-templates/my-properties.php:150
+msgid "Published"
+msgstr ""
+
+#: page-templates/submit-property.php:744
+msgid "Publishing..."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Puerto Rico"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Punjabi (Arabic)"
+msgstr ""
+
+#: post-types/invoice.php:197
+msgid "Purchased By"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Qatar"
+msgstr ""
+
+#: views/modal-calculator.php:63
+msgid "Rate"
+msgstr ""
+
+#: shortcodes/featured_posts.php:86 shortcodes/recent_posts.php:84
+#: elementor/widgets/featured_posts.php:183
+#: elementor/widgets/recent_posts.php:181
+msgid "Read Article"
+msgstr ""
+
+#: shortcodes/featured_posts.php:94 shortcodes/recent_posts.php:92
+#: elementor/widgets/featured_posts.php:189
+#: elementor/widgets/recent_posts.php:187
+msgid "Read More"
+msgstr ""
+
+#: admin/sections/welcome.php:25
+msgid "Read the documentation"
+msgstr ""
+
+#: page-templates/my-leads.php:118 page-templates/my-leads.php:192
+#: page-templates/my-leads.php:269 page-templates/my-leads.php:344
+#: post-types/lead.php:90 post-types/lead.php:525
+msgid "Ready"
+msgstr ""
+
+#: views/report-property-modal.php:24
+msgid "Reason"
+msgstr ""
+
+#: services/report-property.php:23
+msgid "Reason: "
+msgstr ""
+
+#: shortcodes/shortcodes.php:402 elementor/widgets/recent_posts.php:13
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: widgets/recent_posts.php:67
+msgid "Recent Posts"
+msgstr ""
+
+#: shortcodes/shortcodes.php:306 elementor/widgets/recent_properties.php:13
+msgid "Recent Properties"
+msgstr ""
+
+#: widgets/recent_properties.php:9
+msgid "Recently listed properties"
+msgstr ""
+
+#: admin/sections/gmaps.php:84
+msgid "Red Hues"
+msgstr ""
+
+#: services/contact.php:70 services/contact.php:172 services/contact.php:268
+msgid "regarding"
+msgstr ""
+
+#: services/contact-agent.php:32
+msgid "regarding a property you listed: "
+msgstr ""
+
+#: post-types/lead.php:114
+msgid "Related Property"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:172
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1004
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1015
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:991
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:997
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: shortcodes/shortcodes.php:308 page-templates/wish-list.php:164
+msgid "Remove"
+msgstr ""
+
+#: page-templates/wish-list.php:160
+msgid "Remove from Wish List"
+msgstr ""
+
+#: page-templates/wish-list.php:167
+msgid "Removing..."
+msgstr ""
+
+#: views/work-with-agent-modal.php:51
+msgid "Rent"
+msgstr ""
+
+#: page-templates/account-settings.php:499
+msgid "Repeat specialities"
+msgstr ""
+
+#: views/report-property-modal.php:18
+msgid "Report Property"
+msgstr ""
+
+#: views/contact-agent-modal.php:18
+msgid "Request Info"
+msgstr ""
+
+#: page-templates/my-properties.php:159 admin/sections/property_fields.php:131
+#: admin/sections/property_fields.php:192
+#: admin/sections/property_fields.php:319
+#: admin/sections/property_fields.php:380
+#: admin/sections/property_fields.php:441
+#: admin/sections/property_fields.php:502
+#: admin/sections/property_fields.php:629
+#: admin/sections/property_fields.php:756
+#: admin/sections/property_fields.php:861
+#: admin/sections/property_fields.php:922
+#: admin/sections/property_fields.php:1024
+#: admin/sections/property_fields.php:1107
+#: admin/sections/property_fields.php:1212
+#: admin/sections/property_fields.php:1317
+#: admin/sections/property_fields.php:1422
+msgid "Required"
+msgstr ""
+
+#: services/users.php:63
+msgid "Required form fields are empty!"
+msgstr ""
+
+#: views/user-modal.php:174 views/user-modal.php:186
+msgid "Reset Password"
+msgstr ""
+
+#: elementor/init.php:88
+msgid "Resideo"
+msgstr ""
+
+#: widgets/contact_form.php:12
+msgid "Resideo Contact Form"
+msgstr ""
+
+#: widgets/contact.php:12
+msgid "Resideo Contact Info"
+msgstr ""
+
+#: widgets/featured_agents.php:12
+msgid "Resideo Featured Agents"
+msgstr ""
+
+#: widgets/featured_properties.php:12
+msgid "Resideo Featured Properties"
+msgstr ""
+
+#. Name of the plugin
+msgid "Resideo Plugin"
+msgstr ""
+
+#: widgets/recent_posts.php:12
+msgid "Resideo Recent Posts"
+msgstr ""
+
+#: widgets/recent_posts.php:9
+msgid "Resideo recent posts"
+msgstr ""
+
+#: widgets/recent_properties.php:12
+msgid "Resideo Recently Listed Properties"
+msgstr ""
+
+#: widgets/search_properties.php:12
+msgid "Resideo Search Properties"
+msgstr ""
+
+#: widgets/social.php:12
+msgid "Resideo Social Networks"
+msgstr ""
+
+#: page-templates/property-search.php:163
+msgid "Results"
+msgstr ""
+
+#: admin/sections/gmaps.php:82
+msgid "Retro"
+msgstr ""
+
+#: shortcodes/shortcodes.php:439 shortcodes/shortcodes.php:444
+#: shortcodes/shortcodes.php:450 admin/sections/property_layout.php:86
+#: admin/sections/appearance.php:89 elementor/widgets/contact.php:151
+#: elementor/widgets/promo.php:273 elementor/widgets/single_property.php:112
+msgid "Right"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Romania"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Romanian (Moldova)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Romanian (Romania)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Romansh (Switzerland)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Russian (Moldova)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Russian (Russia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Russian (Ukraine)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Russian Federation"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Rwanda"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Réunion"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Lucia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Samoa"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "San Marino"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Sango (Central African Republic)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Saudi Arabia"
+msgstr ""
+
+#: views/save-search-modal.php:28
+msgid "Save"
+msgstr ""
+
+#: page-templates/property-search.php:170 views/save-search-modal.php:18
+msgid "Save Search"
+msgstr ""
+
+#: page-templates/saved-searches.php:27 page-templates/my-leads.php:364
+#: post-types/lead.php:46 views/dashboard-nav.php:22
+msgid "Saved Searches"
+msgstr ""
+
+#: post-types/lead.php:315 post-types/lead.php:318
+msgid "Saved searches list empty."
+msgstr ""
+
+#: views/save-search-modal.php:29
+msgid "Saving..."
+msgstr ""
+
+#: page-templates/my-leads.php:104 page-templates/my-leads.php:189
+#: page-templates/my-leads.php:207 page-templates/my-leads.php:340
+#: post-types/lead.php:86 post-types/lead.php:488
+msgid "Score"
+msgstr ""
+
+#: widgets/search_properties.php:663 widgets/custom_search.php:14
+msgid "Search"
+msgstr ""
+
+#: post-types/agent.php:23
+msgid "Search Agents/Owners"
+msgstr ""
+
+#: shortcodes/search_properties.php:84 views/filter-properties-form.php:86
+#: elementor/widgets/search_properties.php:352
+msgid "Search by City, Neighborhood, or Address"
+msgstr ""
+
+#: page-templates/my-leads.php:174
+msgid "Search by name"
+msgstr ""
+
+#: admin/sections/custom_fields.php:75 admin/sections/custom_fields.php:105
+msgid "Search Comparison"
+msgstr ""
+
+#: shortcodes/shortcodes.php:529
+msgid "Search for a property..."
+msgstr ""
+
+#: widgets/custom_search.php:12
+msgid "Search for:"
+msgstr ""
+
+#: post-types/invoice.php:23
+msgid "Search Invoices"
+msgstr ""
+
+#: post-types/lead.php:23
+msgid "Search Leads"
+msgstr ""
+
+#: post-types/membership.php:23
+msgid "Search Membership Plans"
+msgstr ""
+
+#: views/save-search-modal.php:22
+msgid "Search Name"
+msgstr ""
+
+#: shortcodes/shortcodes.php:338 shortcodes/shortcodes.php:532
+#: shortcodes/search_properties.php:625 post-types/property.php:23
+#: elementor/widgets/search_properties.php:893
+msgid "Search Properties"
+msgstr ""
+
+#: shortcodes/shortcodes.php:383 post-types/init.php:99
+msgid "Search properties"
+msgstr ""
+
+#: elementor/widgets/search_properties.php:13
+msgid "Search Properties Form"
+msgstr ""
+
+#: post-types/property.php:68
+msgid "Search Property Statuses"
+msgstr ""
+
+#: post-types/property.php:44
+msgid "Search Property Types"
+msgstr ""
+
+#: post-types/subscriber.php:23
+msgid "Search Subscribers"
+msgstr ""
+
+#: post-types/testimonial.php:23
+msgid "Search Testimonials"
+msgstr ""
+
+#: shortcodes/shortcodes.php:391 post-types/page-meta.php:208
+#: post-types/page-meta.php:335 post-types/page-meta.php:444
+msgid "seconds"
+msgstr ""
+
+#: admin/sections/property_layout.php:333
+msgid "Section"
+msgstr ""
+
+#: admin/sections/property_layout.php:14
+msgid "Sections Order"
+msgstr ""
+
+#: page-templates/submit-property.php:439 post-types/property.php:365
+#: admin/sections/contact_fields.php:38 admin/sections/contact_fields.php:110
+msgid "Select"
+msgstr ""
+
+#: shortcodes/shortcodes.php:378 post-types/property.php:236
+#: elementor/widgets/areas.php:27
+msgid "Select a city"
+msgstr ""
+
+#: shortcodes/shortcodes.php:377 post-types/property.php:202
+#: elementor/widgets/areas.php:43
+msgid "Select a neighborhood"
+msgstr ""
+
+#: elementor/widgets/single_property.php:33
+msgid "Select a property"
+msgstr ""
+
+#: admin/sections/amenities.php:74
+msgid "Select an icon"
+msgstr ""
+
+#: page-templates/submit-property.php:1020
+msgid "Select city"
+msgstr ""
+
+#: page-templates/submit-property.php:986
+msgid "Select neighborhood"
+msgstr ""
+
+#: page-templates/submit-property.php:410
+msgid "Select status"
+msgstr ""
+
+#: page-templates/submit-property.php:375
+msgid "Select type"
+msgstr ""
+
+#: views/work-with-agent-modal.php:49
+msgid "Sell"
+msgstr ""
+
+#: shortcodes/contact.php:165 page-templates/contact-page-office.php:173
+#: page-templates/contact-page.php:189 views/contact-agent-hero.php:41
+#: views/contact-agent-modal.php:56 views/work-with-agent-modal.php:62
+#: views/page-header.php:777 widgets/contact_form.php:130
+#: widgets/contact_form.php:160 elementor/widgets/contact.php:305
+msgid "Send Message"
+msgstr ""
+
+#: page-templates/contact-page-office.php:64 page-templates/contact-page.php:80
+msgid "Send Us A Message"
+msgstr ""
+
+#: views/contact-agent-hero.php:42 views/contact-agent-modal.php:57
+#: views/work-with-agent-modal.php:63
+msgid "Sending message..."
+msgstr ""
+
+#: views/report-property-modal.php:32
+msgid "Sending report..."
+msgstr ""
+
+#: shortcodes/contact.php:166 page-templates/contact-page-office.php:174
+#: page-templates/contact-page.php:190 views/user-modal.php:156
+#: views/page-header.php:778 widgets/contact_form.php:131
+#: widgets/contact_form.php:161 elementor/widgets/contact.php:306
+msgid "Sending..."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Senegal"
+msgstr ""
+
+#: post-types/property.php:75
+msgid "Separate property statuses with commas"
+msgstr ""
+
+#: post-types/property.php:51
+msgid "Separate property types with commas"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Serbia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Serbian (Latin)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:467
+msgid "Service CTA Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:295
+msgid "Service CTA Label"
+msgstr ""
+
+#: shortcodes/shortcodes.php:301
+msgid "Service Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:293 elementor/widgets/services.php:228
+msgid "Service Link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:290
+msgid "Service Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:288
+msgid "Service Title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:278 elementor/widgets/services.php:13
+#: elementor/widgets/services.php:148
+msgid "Services"
+msgstr ""
+
+#: shortcodes/shortcodes.php:329
+msgid "Services Background Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:285 elementor/widgets/services.php:264
+msgid "Services List"
+msgstr ""
+
+#: page-templates/submit-property.php:725 page-templates/my-properties.php:193
+#: page-templates/my-properties.php:212 page-templates/my-properties.php:234
+#: page-templates/my-properties.php:241 page-templates/my-properties.php:267
+#: post-types/agent.php:274 post-types/post-meta.php:38
+#: post-types/property.php:738
+msgid "Set as Featured"
+msgstr ""
+
+#: views/user-modal.php:187
+msgid "Setting new password..."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Seychelles"
+msgstr ""
+
+#: views/single-share.php:16 views/single-share.php:46
+msgid "Share"
+msgstr ""
+
+#: views/single-share.php:51
+msgid "Share on Facebook"
+msgstr ""
+
+#: views/single-share.php:70
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: views/single-share.php:58
+msgid "Share on Twitter"
+msgstr ""
+
+#: admin/sections/general.php:83
+msgid "Short"
+msgstr ""
+
+#: shortcodes/search_properties.php:590
+#: elementor/widgets/search_properties.php:858
+msgid "Show Advanced Search"
+msgstr ""
+
+#: admin/sections/custom_fields.php:66 admin/sections/custom_fields.php:104
+#: admin/sections/property_fields.php:79 admin/sections/property_fields.php:265
+#: admin/sections/property_fields.php:575
+#: admin/sections/property_fields.php:702
+#: admin/sections/property_fields.php:807
+#: admin/sections/property_fields.php:970
+#: admin/sections/property_fields.php:1053
+#: admin/sections/property_fields.php:1158
+#: admin/sections/property_fields.php:1263
+#: admin/sections/property_fields.php:1368
+#: admin/sections/property_fields.php:1473
+#: admin/sections/property_fields.php:1520
+#: admin/sections/property_fields.php:1567
+msgid "Show in Filter"
+msgstr ""
+
+#: admin/sections/custom_fields.php:57 admin/sections/custom_fields.php:103
+#: admin/sections/property_fields.php:242
+#: admin/sections/property_fields.php:552
+#: admin/sections/property_fields.php:679
+#: admin/sections/property_fields.php:784
+#: admin/sections/property_fields.php:947
+#: admin/sections/property_fields.php:1135
+#: admin/sections/property_fields.php:1240
+#: admin/sections/property_fields.php:1345
+#: admin/sections/property_fields.php:1450
+msgid "Show in Search"
+msgstr ""
+
+#: page-templates/property-search.php:113
+msgid "Show list"
+msgstr ""
+
+#: post-types/property.php:717
+msgid "Show Mortgage Calculator"
+msgstr ""
+
+#: admin/sections/gmaps.php:15
+msgid "Show Places on Search Results Map"
+msgstr ""
+
+#: admin/sections/general.php:24
+msgid "Show Print Property Option"
+msgstr ""
+
+#: admin/sections/appearance.php:20
+msgid "Show Related Articles on Blog Post"
+msgstr ""
+
+#: admin/sections/general.php:25
+msgid "Show Report Property Option"
+msgstr ""
+
+#: post-types/page-meta.php:158 post-types/page-meta.php:608
+#: post-types/page-meta.php:745
+msgid "Show Search Form"
+msgstr ""
+
+#: admin/sections/appearance.php:15
+msgid "Show Similar Properties on Property Page"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Sichuan Yi (China)"
+msgstr ""
+
+#: post-types/page-meta.php:1020
+msgid "Sidebar left"
+msgstr ""
+
+#: admin/sections/appearance.php:12
+msgid "Sidebar Position"
+msgstr ""
+
+#: post-types/page-meta.php:1021
+msgid "Sidebar right"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Sierra Leone"
+msgstr ""
+
+#: elementor/widgets/numbers.php:103
+msgid "Sign"
+msgstr ""
+
+#: views/user-modal.php:39
+msgid "Sign In"
+msgstr ""
+
+#: views/user-modal.php:127
+msgid "Sign in"
+msgstr ""
+
+#: services/users.php:312 services/users.php:494 services/users.php:553
+msgid "Sign in successful, redirecting..."
+msgstr ""
+
+#: views/dashboard-nav.php:30
+msgid "Sign Out"
+msgstr ""
+
+#: views/user-modal.php:122
+msgid "Sign Up"
+msgstr ""
+
+#: views/user-modal.php:40
+msgid "Signing in..."
+msgstr ""
+
+#: views/user-modal.php:123
+msgid "Signing up..."
+msgstr ""
+
+#: views/similar-properties.php:75
+msgid "Similar Properties"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Singapore"
+msgstr ""
+
+#: shortcodes/shortcodes.php:527 elementor/widgets/single_property.php:13
+msgid "Single Property"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Sinhala (Sri Lanka)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:346 page-templates/submit-property.php:662
+#: page-templates/submit-property.php:849
+#: page-templates/property-search.php:188 post-types/init.php:122
+#: post-types/property.php:327 post-types/property.php:666
+#: services/upload-scripts.php:98 widgets/search_properties.php:234
+#: admin/sections/property_fields.php:21
+#: elementor/widgets/search_properties.php:187
+msgid "Size"
+msgstr ""
+
+#: services/save-property.php:170
+msgid "Size field is mandatory."
+msgstr ""
+
+#: page-templates/account-settings.php:510 post-types/agent.php:89
+msgid "Skype"
+msgstr ""
+
+#: shortcodes/shortcodes.php:396
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/shortcodes.php:549
+msgid "Slide Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:542
+msgid "Slide Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:540
+msgid "Slide Title"
+msgstr ""
+
+#: post-types/page-meta.php:44
+msgid "Slider"
+msgstr ""
+
+#: post-types/init.php:84
+msgid "Slider Gallery"
+msgstr ""
+
+#: post-types/page-meta.php:49
+msgid "Slider Revolution"
+msgstr ""
+
+#: post-types/page-meta.php:957
+msgid "Slider Revolution alias"
+msgstr ""
+
+#: post-types/page-meta.php:951
+msgid "Slider Revolution Settings"
+msgstr ""
+
+#: post-types/page-meta.php:224
+msgid "Slider Settings"
+msgstr ""
+
+#: post-types/page-meta.php:272
+msgid "Sliders List"
+msgstr ""
+
+#: post-types/init.php:93 post-types/page-meta.php:324
+msgid "Sliders list is empty."
+msgstr ""
+
+#: shortcodes/shortcodes.php:536 elementor/widgets/promo_slider.php:74
+msgid "Slides"
+msgstr ""
+
+#: post-types/page-meta.php:207
+msgid "Slides Change Interval"
+msgstr ""
+
+#: elementor/widgets/promo_slider.php:137
+msgid "Slides List"
+msgstr ""
+
+#: post-types/page-meta.php:189
+msgid "Slides Photos"
+msgstr ""
+
+#: post-types/page-meta.php:43
+msgid "Slideshow"
+msgstr ""
+
+#: post-types/init.php:82
+msgid "Slideshow Gallery"
+msgstr ""
+
+#: post-types/page-meta.php:86
+msgid "Slideshow Settings"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Slovak (Slovakia)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Slovakia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Slovenia"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Slovenian (Slovenia)"
+msgstr ""
+
+#: admin/sections/custom_fields.php:80 admin/sections/custom_fields.php:237
+msgid "Smaller"
+msgstr ""
+
+#: widgets/social.php:9
+msgid "Social networks links"
+msgstr ""
+
+#: post-types/page-meta.php:248
+msgid "Solid Color"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Solomon Islands"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Somali (Ethiopia)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Somalia"
+msgstr ""
+
+#: services/users.php:371
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: services/users.php:97 services/users.php:487 services/users.php:546
+msgid "Something went wrong!"
+msgstr ""
+
+#: services/subscription.php:48
+msgid "Something went wrong, please try again."
+msgstr ""
+
+#: services/users.php:733 services/users.php:740 services/save-property.php:386
+#: services/save-property.php:420
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: services/leads.php:525
+msgid "Something went wrong. The lead was not deleted."
+msgstr ""
+
+#: services/leads.php:358
+msgid "Something went wrong. The lead was not saved."
+msgstr ""
+
+#: services/save-property.php:332
+msgid "Something went wrong. The property was not saved."
+msgstr ""
+
+#: services/save-property.php:454
+msgid "Something went wrong. The property was not set as featured."
+msgstr ""
+
+#: services/users.php:411 services/users.php:414
+msgid "Sorry, the link does not appear to be valid or is expired!"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:127
+#: admin/libs/import/wordpress-importer.php:136
+#: admin/libs/import/wordpress-importer.php:187
+#: admin/libs/import/wordpress-importer.php:191
+#: admin/libs/import/wordpress-importer.php:200
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: post-types/page-meta.php:782
+msgid "Sound"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "South Africa"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "South Sudan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Spain"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Bolivia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Colombia)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Costa Rica)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Dominican Republic)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Ecuador)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (El Salvador)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Equatorial Guinea)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Guatemala)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Honduras)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Nicaragua)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Panama)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Paraguay)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Peru)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Puerto Rico)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (United States)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: page-templates/account-settings.php:498
+msgid "Specialities"
+msgstr ""
+
+#: post-types/agent.php:67
+msgid "Specialities (separate by comma)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Sri Lanka"
+msgstr ""
+
+#: page-templates/submit-property.php:92 page-templates/submit-property.php:94
+msgid "Standard Property"
+msgstr ""
+
+#: admin/sections/address.php:35
+msgid "State"
+msgstr ""
+
+#: services/save-property.php:158
+msgid "State field is mandatory."
+msgstr ""
+
+#: post-types/page-meta.php:1151 post-types/page-meta.php:1305
+msgid "State/Zip"
+msgstr ""
+
+#: shortcodes/shortcodes.php:312 shortcodes/shortcodes.php:350
+#: shortcodes/search_properties.php:53 page-templates/submit-property.php:404
+#: page-templates/my-properties.php:150 page-templates/my-properties.php:152
+#: post-types/property.php:934 views/filter-properties-form-sidebar.php:70
+#: services/print-property.php:161 widgets/search_properties.php:45
+#: widgets/search_properties.php:367 widgets/recent_properties.php:72
+#: widgets/featured_properties.php:71 admin/sections/property_fields.php:25
+#: elementor/widgets/search_properties.php:88
+#: elementor/widgets/search_properties.php:321
+#: elementor/widgets/recent_properties.php:163
+#: elementor/widgets/featured_properties.php:163
+msgid "Status"
+msgstr ""
+
+#: post-types/page-meta.php:163 post-types/page-meta.php:613
+#: post-types/page-meta.php:750
+msgid "Status Type"
+msgstr ""
+
+#: post-types/page-meta.php:1150 post-types/page-meta.php:1304
+msgid "Street address"
+msgstr ""
+
+#: page-templates/submit-property.php:958 post-types/property.php:187
+#: admin/sections/address.php:23 admin/sections/property_fields.php:15
+msgid "Street Name"
+msgstr ""
+
+#: services/save-property.php:146
+msgid "Street Name field is mandatory."
+msgstr ""
+
+#: page-templates/submit-property.php:939 post-types/property.php:181
+#: admin/sections/address.php:19 admin/sections/property_fields.php:14
+msgid "Street No"
+msgstr ""
+
+#: services/save-property.php:142
+msgid "Street No field is mandatory."
+msgstr ""
+
+#: page-templates/my-properties.php:228
+msgid "Submission Price"
+msgstr ""
+
+#: page-templates/submit-property.php:704
+msgid "Submission Status"
+msgstr ""
+
+#: views/report-property-modal.php:31
+#: admin/libs/import/wordpress-importer.php:279
+msgid "Submit"
+msgstr ""
+
+#: views/dashboard-nav.php:18
+msgid "Submit New Property"
+msgstr ""
+
+#: shortcodes/shortcodes.php:464 shortcodes/subscribe.php:46
+#: elementor/widgets/subscribe.php:13 elementor/widgets/subscribe.php:142
+msgid "Subscribe"
+msgstr ""
+
+#: shortcodes/shortcodes.php:465
+msgid "Subscribe Background Image"
+msgstr ""
+
+#: post-types/subscriber.php:15
+msgid "Subscriber"
+msgstr ""
+
+#: post-types/subscriber.php:14
+msgid "Subscribers"
+msgstr ""
+
+#: shortcodes/shortcodes.php:283 elementor/widgets/membership_plans.php:47
+#: elementor/widgets/awards.php:47 elementor/widgets/subscribe.php:47
+#: elementor/widgets/search_properties.php:47 elementor/widgets/services.php:47
+#: elementor/widgets/featured_agents.php:47 elementor/widgets/numbers.php:47
+#: elementor/widgets/contact.php:47 elementor/widgets/areas.php:111
+#: elementor/widgets/video.php:47 elementor/widgets/testimonials.php:47
+#: elementor/widgets/featured_posts.php:47
+#: elementor/widgets/recent_posts.php:47
+#: elementor/widgets/recent_properties.php:84
+#: elementor/widgets/featured_properties.php:84
+msgid "Subtitle"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Sudan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Suriname"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Swahili (Kenya)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Swahili (Tanzania)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Swaziland"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Sweden"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Swedish (Finland)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Swedish (Sweden)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Swiss German (Switzerland)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Switzerland"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: post-types/page-meta.php:167 post-types/page-meta.php:617
+#: post-types/page-meta.php:754
+msgid "Tabs"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Tachelhit (Latin)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Tajikistan"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Tamil (India)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Tamil (Sri Lanka)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Telugu (India)"
+msgstr ""
+
+#: post-types/page-meta.php:13
+msgid "Template Design"
+msgstr ""
+
+#: views/modal-calculator.php:54
+msgid "Term"
+msgstr ""
+
+#: admin/sections/authentication.php:12
+msgid "Terms and Conditions Page URL"
+msgstr ""
+
+#: admin/sections/membership.php:167
+msgid "test"
+msgstr ""
+
+#: post-types/testimonial.php:15
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/init.php:106
+msgid "Testimonial Avatar"
+msgstr ""
+
+#: shortcodes/shortcodes.php:409 post-types/testimonial.php:14
+#: elementor/widgets/testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/shortcodes.php:410
+msgid "Testimonials Background Image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:446 admin/sections/colors.php:363
+#: admin/sections/custom_fields.php:37 admin/sections/custom_fields.php:131
+#: elementor/widgets/awards.php:58 elementor/widgets/services.php:218
+#: elementor/widgets/numbers.php:149 elementor/widgets/promo.php:127
+#: elementor/widgets/promo.php:199 elementor/widgets/promo_slider.php:106
+msgid "Text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:455
+msgid "Text Align"
+msgstr ""
+
+#: shortcodes/shortcodes.php:551 elementor/widgets/subscribe.php:58
+#: elementor/widgets/services.php:58 elementor/widgets/contact.php:58
+#: elementor/widgets/video.php:58 elementor/widgets/testimonials.php:58
+msgid "Text Color"
+msgstr ""
+
+#: admin/sections/contact_fields.php:36 admin/sections/contact_fields.php:98
+msgid "Text Input"
+msgstr ""
+
+#: admin/sections/contact_fields.php:37 admin/sections/contact_fields.php:104
+msgid "Textarea"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Thai (Thailand)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Thailand"
+msgstr ""
+
+#: services/users.php:31
+msgid ""
+"Thank you for signing up with us. Your new account has been setup and you "
+"can now sign in using the details below."
+msgstr ""
+
+#: services/users.php:34
+msgid "Thank you,"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:192
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:128
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: services/contact.php:32 services/contact.php:128 services/contact.php:230
+#: services/contact.php:326
+msgid "The following details were sent via contact form:"
+msgstr ""
+
+#: services/leads.php:522
+msgid "The lead was successfully deleted. Redirecting..."
+msgstr ""
+
+#: services/leads.php:355
+msgid "The lead was successfully saved. Redirecting..."
+msgstr ""
+
+#: shortcodes/shortcodes.php:287
+msgid "The list is empty."
+msgstr ""
+
+#: admin/sections/contact_fields.php:185 admin/sections/custom_fields.php:287
+msgid "The list requires at least one element."
+msgstr ""
+
+#: services/save-property.php:383
+msgid "The property was successfully deleted. Redirecting..."
+msgstr ""
+
+#: services/save-property.php:325 services/save-property.php:328
+msgid "The property was successfully saved. Redirecting..."
+msgstr ""
+
+#: services/save-property.php:451
+msgid "The property was successfully set as featured. Redirecting..."
+msgstr ""
+
+#: services/save-property.php:417
+msgid "The property was successfully upgraded to featured. Redirecting..."
+msgstr ""
+
+#: admin/sections/appearance.php:10
+msgid "Theme Mode"
+msgstr ""
+
+#: admin/settings.php:190
+msgid "Theme Setup"
+msgstr ""
+
+#: admin/sections/welcome.php:17
+msgid "Theme version"
+msgstr ""
+
+#: admin/sections/custom_fields.php:17
+msgid ""
+"These fields will be displayed under Key Details section on the property page"
+msgstr ""
+
+#: admin/sections/amenities.php:31
+msgid "This value will be displayed in the interface"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:208
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: post-types/property.php:932
+msgid "Thumb"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Tibetan (China)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Tibetan (India)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Timor-Leste"
+msgstr ""
+
+#: shortcodes/shortcodes.php:281 page-templates/submit-property.php:206
+#: page-templates/submit-property.php:644
+#: page-templates/account-settings.php:492 post-types/init.php:116
+#: post-types/agent.php:61 post-types/property.php:643
+#: services/upload-scripts.php:92 widgets/contact_form.php:25
+#: widgets/search_properties.php:36 widgets/featured_agents.php:25
+#: widgets/contact.php:33 widgets/recent_posts.php:31
+#: widgets/recent_properties.php:27 widgets/featured_properties.php:27
+#: widgets/social.php:30 admin/sections/property_layout.php:59
+#: elementor/widgets/membership_plans.php:28
+#: elementor/widgets/membership_plans.php:36 elementor/widgets/awards.php:28
+#: elementor/widgets/awards.php:36 elementor/widgets/awards.php:91
+#: elementor/widgets/subscribe.php:28 elementor/widgets/subscribe.php:36
+#: elementor/widgets/search_properties.php:28
+#: elementor/widgets/search_properties.php:36 elementor/widgets/services.php:28
+#: elementor/widgets/services.php:36 elementor/widgets/services.php:207
+#: elementor/widgets/featured_agents.php:28
+#: elementor/widgets/featured_agents.php:36 elementor/widgets/numbers.php:28
+#: elementor/widgets/numbers.php:36 elementor/widgets/numbers.php:138
+#: elementor/widgets/contact.php:28 elementor/widgets/contact.php:36
+#: elementor/widgets/areas.php:92 elementor/widgets/areas.php:100
+#: elementor/widgets/promo.php:28 elementor/widgets/promo.php:36
+#: elementor/widgets/promo.php:188 elementor/widgets/video.php:28
+#: elementor/widgets/video.php:36 elementor/widgets/testimonials.php:28
+#: elementor/widgets/testimonials.php:36
+#: elementor/widgets/featured_posts.php:28
+#: elementor/widgets/featured_posts.php:36
+#: elementor/widgets/recent_posts.php:28 elementor/widgets/recent_posts.php:36
+#: elementor/widgets/promo_slider.php:95
+#: elementor/widgets/recent_properties.php:65
+#: elementor/widgets/recent_properties.php:73
+#: elementor/widgets/featured_properties.php:65
+#: elementor/widgets/featured_properties.php:73
+msgid "Title"
+msgstr ""
+
+#: services/save-property.php:126
+msgid "Title field is mandatory."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:260
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: services/users.php:374
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Togo"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Tokelau"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Tonga"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Tonga (Tonga)"
+msgstr ""
+
+#: admin/sections/property_layout.php:11
+msgid "Top Element"
+msgstr ""
+
+#: shortcodes/shortcodes.php:457 elementor/widgets/promo.php:251
+#: elementor/widgets/promo_slider.php:161
+msgid "Top Left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:458 elementor/widgets/promo.php:252
+#: elementor/widgets/promo_slider.php:162
+msgid "Top Right"
+msgstr ""
+
+#: views/modal-calculator.php:90
+msgid "Total Monthly Payment"
+msgstr ""
+
+#: shortcodes/shortcodes.php:392 elementor/widgets/promo_slider.php:53
+msgid "Transition"
+msgstr ""
+
+#: admin/sections/appearance.php:62
+msgid "Transparent"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: shortcodes/search_properties.php:426
+#: views/filter-properties-form-sidebar.php:332
+#: views/filter-properties-form.php:348
+#: elementor/widgets/search_properties.php:694
+msgid "Try waterfront, gym, or renovate"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Tunisia"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Turkey"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Turkish (Turkey)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Turkmenistan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Tuvalu"
+msgstr ""
+
+#: page-templates/account-settings.php:522 post-types/agent.php:105
+msgid "Twitter"
+msgstr ""
+
+#: widgets/social.php:42
+msgid "Twitter Link"
+msgstr ""
+
+#: shortcodes/shortcodes.php:311 shortcodes/shortcodes.php:349
+#: shortcodes/search_properties.php:236 page-templates/submit-property.php:369
+#: post-types/agent.php:47 post-types/agent.php:365 post-types/property.php:933
+#: views/search-properties-form.php:291
+#: views/filter-properties-form-sidebar.php:193
+#: views/filter-properties-form.php:204 services/print-property.php:168
+#: widgets/search_properties.php:150 widgets/search_properties.php:503
+#: widgets/recent_properties.php:48 widgets/featured_properties.php:48
+#: admin/sections/property_fields.php:24
+#: elementor/widgets/search_properties.php:143
+#: elementor/widgets/search_properties.php:504
+#: elementor/widgets/recent_properties.php:153
+#: elementor/widgets/featured_properties.php:153
+msgid "Type"
+msgstr ""
+
+#: services/save-property.php:182
+msgid "Type field is mandatory."
+msgstr ""
+
+#: shortcodes/contact.php:159 views/page-header.php:771
+#: elementor/widgets/contact.php:300
+msgid "Type your message..."
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Uganda"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Ukraine"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Ukrainian (Ukraine)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "United Arab Emirates"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "United Kingdom of Great Britain and Northern Ireland"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "United States of America"
+msgstr ""
+
+#: page-templates/account-settings.php:224
+#: page-templates/account-settings.php:234
+msgid "Unlimited"
+msgstr ""
+
+#: page-templates/submit-property.php:96
+msgid "unlimited"
+msgstr ""
+
+#: admin/sections/membership.php:15
+msgid "Unlimited Free Submissions"
+msgstr ""
+
+#: shortcodes/membership_plans.php:144
+#: elementor/widgets/membership_plans.php:317
+msgid "Unlimited Listings"
+msgstr ""
+
+#: post-types/membership.php:104
+msgid "Unlimited Submissions"
+msgstr ""
+
+#: page-templates/submit-property.php:734
+msgid "Update"
+msgstr ""
+
+#: page-templates/account-settings.php:558
+msgid "Update Account"
+msgstr ""
+
+#: page-templates/my-leads.php:400
+msgid "Update Lead"
+msgstr ""
+
+#: post-types/property.php:72
+msgid "Update Property Status"
+msgstr ""
+
+#: post-types/property.php:48
+msgid "Update Property Type"
+msgstr ""
+
+#: page-templates/submit-property.php:742 page-templates/my-leads.php:404
+#: page-templates/account-settings.php:560
+#: page-templates/account-settings.php:571
+msgid "Updating..."
+msgstr ""
+
+#: page-templates/my-properties.php:200
+msgid "Upgrade to Featured"
+msgstr ""
+
+#: services/paypal.php:157
+msgid "Upgrade to Featured Listing"
+msgstr ""
+
+#: services/paypal.php:118
+msgid "Upgrade to Featured Listing on "
+msgstr ""
+
+#: page-templates/my-properties.php:204 page-templates/my-properties.php:271
+msgid "Upgrading..."
+msgstr ""
+
+#: page-templates/submit-property.php:684 services/upload-scripts.php:105
+msgid "Upload"
+msgstr ""
+
+#: page-templates/submit-property.php:553
+#: page-templates/account-settings.php:354
+msgid "Upload Photo"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Urdu (India)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Urdu (Pakistan)"
+msgstr ""
+
+#: post-types/agent.php:31
+msgctxt "URL SLUG"
+msgid "agents"
+msgstr ""
+
+#: post-types/invoice.php:31
+msgctxt "URL SLUG"
+msgid "invoices"
+msgstr ""
+
+#: post-types/lead.php:31
+msgctxt "URL SLUG"
+msgid "leads"
+msgstr ""
+
+#: post-types/membership.php:31
+msgctxt "URL SLUG"
+msgid "membership_plans"
+msgstr ""
+
+#: post-types/property.php:31
+msgctxt "URL SLUG"
+msgid "properties"
+msgstr ""
+
+#: post-types/subscriber.php:31
+msgctxt "URL SLUG"
+msgid "subscribers"
+msgstr ""
+
+#: post-types/testimonial.php:31
+msgctxt "URL SLUG"
+msgid "testimonials"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Uruguay"
+msgstr ""
+
+#: admin/sections/general.php:13
+msgid "Use Decimals for Price"
+msgstr ""
+
+#: post-types/agent.php:46 post-types/lead.php:416
+msgid "User"
+msgstr ""
+
+#: page-templates/account-settings.php:301
+msgid "User Details"
+msgstr ""
+
+#: admin/sections/colors.php:84
+msgid "User Icon"
+msgstr ""
+
+#: admin/settings.php:49
+msgid "User Profile Picture"
+msgstr ""
+
+#: services/users.php:19 services/users.php:32 services/users.php:373
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Uzbek (Arabic)"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Uzbek (Latin)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Uzbekistan"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Vanuatu"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:564 page-templates/submit-property.php:485
+#: post-types/property.php:124 post-types/page-meta.php:47
+#: admin/sections/property_layout.php:308 elementor/widgets/video.php:13
+#: elementor/widgets/video.php:96
+msgid "Video"
+msgstr ""
+
+#: shortcodes/shortcodes.php:565
+msgid "Video Background Image"
+msgstr ""
+
+#: post-types/page-meta.php:804
+msgid "Video Cover"
+msgstr ""
+
+#: post-types/page-meta.php:671
+msgid "Video Settings"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Viet Nam"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Vietnamese (Vietnam)"
+msgstr ""
+
+#: post-types/agent.php:21 post-types/testimonial.php:21
+#: post-types/invoice.php:21 post-types/property.php:21
+#: post-types/membership.php:21 post-types/subscriber.php:21
+#: post-types/lead.php:21
+msgid "View"
+msgstr ""
+
+#: post-types/agent.php:22
+msgid "View Agent/Owner"
+msgstr ""
+
+#: shortcodes/properties.php:164 shortcodes/single_property.php:92
+#: shortcodes/single_property.php:135 shortcodes/recent_properties.php:257
+#: shortcodes/featured_properties.php:259 views/similar-properties.php:138
+#: views/page-header.php:354 views/page-header.php:498
+#: elementor/widgets/single_property.php:202
+#: elementor/widgets/single_property.php:238
+#: elementor/widgets/recent_properties.php:465
+#: elementor/widgets/featured_properties.php:467
+msgid "View Details"
+msgstr ""
+
+#: post-types/invoice.php:22
+msgid "View Invoice"
+msgstr ""
+
+#: post-types/lead.php:22
+msgid "View lead"
+msgstr ""
+
+#: post-types/membership.php:22
+msgid "View Membership Plan"
+msgstr ""
+
+#: post-types/property.php:22
+msgid "View Property"
+msgstr ""
+
+#: post-types/subscriber.php:22
+msgid "View Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:22
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: page-templates/submit-property.php:519 post-types/property.php:125
+#: admin/sections/property_layout.php:312
+msgid "Virtual Tour"
+msgstr ""
+
+#: page-templates/submit-property.php:523 post-types/property.php:471
+msgid "Virtual Tour Embed Code"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: shortcodes/membership_plans.php:88
+#: elementor/widgets/membership_plans.php:261
+msgid "week"
+msgstr ""
+
+#: post-types/membership.php:77
+msgid "Weeks"
+msgstr ""
+
+#: shortcodes/membership_plans.php:90 page-templates/account-settings.php:178
+#: elementor/widgets/membership_plans.php:263
+msgid "weeks"
+msgstr ""
+
+#: admin/settings.php:185 admin/sections/welcome.php:9
+msgid "Welcome"
+msgstr ""
+
+#: views/user-modal.php:23
+msgid "Welcome back!"
+msgstr ""
+
+#: services/users.php:30
+#, php-format
+msgid "Welcome, %s!"
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Welsh (United Kingdom)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Western Sahara"
+msgstr ""
+
+#: page-templates/contact-page-office.php:151
+#: page-templates/contact-page.php:167
+msgid "What is this regarding?"
+msgstr ""
+
+#: post-types/testimonial.php:43
+msgid "What the customer says"
+msgstr ""
+
+#: shortcodes/shortcodes.php:334 shortcodes/shortcodes.php:400
+msgid "Wide"
+msgstr ""
+
+#: shortcodes/shortcodes.php:333 shortcodes/shortcodes.php:399
+msgid "Width"
+msgstr ""
+
+#: page-templates/wish-list.php:28 page-templates/my-leads.php:361
+#: post-types/lead.php:45 views/dashboard-nav.php:21
+msgid "Wish List"
+msgstr ""
+
+#: post-types/lead.php:284 post-types/lead.php:287
+msgid "Wish list empty."
+msgstr ""
+
+#: views/work-with-agent-modal.php:18
+msgid "Work with"
+msgstr ""
+
+#: page-templates/my-leads.php:373
+msgid "Write your notes here..."
+msgstr ""
+
+#: shortcodes/membership_plans.php:100
+#: elementor/widgets/membership_plans.php:273
+msgid "year"
+msgstr ""
+
+#: post-types/membership.php:83 views/modal-calculator.php:57
+msgid "Years"
+msgstr ""
+
+#: shortcodes/membership_plans.php:102 page-templates/account-settings.php:184
+#: elementor/widgets/membership_plans.php:275
+msgid "years"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Yemen"
+msgstr ""
+
+#: shortcodes/shortcodes.php:389 shortcodes/shortcodes.php:395
+#: shortcodes/shortcodes.php:430 page-templates/my-leads.php:182
+#: page-templates/my-leads.php:334 post-types/agent.php:433
+#: post-types/property.php:980 post-types/lead.php:80 post-types/lead.php:514
+#: admin/sections/contact_fields.php:51 admin/sections/contact_fields.php:144
+#: admin/sections/custom_fields.php:52 admin/sections/custom_fields.php:61
+#: admin/sections/custom_fields.php:70 admin/sections/custom_fields.php:177
+#: admin/sections/custom_fields.php:195 admin/sections/custom_fields.php:213
+#: admin/sections/property_fields.php:75 admin/sections/property_fields.php:238
+#: admin/sections/property_fields.php:261
+#: admin/sections/property_fields.php:548
+#: admin/sections/property_fields.php:571
+#: admin/sections/property_fields.php:675
+#: admin/sections/property_fields.php:698
+#: admin/sections/property_fields.php:780
+#: admin/sections/property_fields.php:803
+#: admin/sections/property_fields.php:943
+#: admin/sections/property_fields.php:966
+#: admin/sections/property_fields.php:1049
+#: admin/sections/property_fields.php:1131
+#: admin/sections/property_fields.php:1154
+#: admin/sections/property_fields.php:1236
+#: admin/sections/property_fields.php:1259
+#: admin/sections/property_fields.php:1341
+#: admin/sections/property_fields.php:1364
+#: admin/sections/property_fields.php:1446
+#: admin/sections/property_fields.php:1469
+#: admin/sections/property_fields.php:1502
+#: admin/sections/property_fields.php:1516
+#: admin/sections/property_fields.php:1549
+#: admin/sections/property_fields.php:1563
+#: elementor/widgets/membership_plans.php:185 elementor/widgets/awards.php:124
+#: elementor/widgets/subscribe.php:106
+#: elementor/widgets/search_properties.php:90
+#: elementor/widgets/search_properties.php:101
+#: elementor/widgets/search_properties.php:112
+#: elementor/widgets/search_properties.php:123
+#: elementor/widgets/search_properties.php:134
+#: elementor/widgets/search_properties.php:145
+#: elementor/widgets/search_properties.php:156
+#: elementor/widgets/search_properties.php:167
+#: elementor/widgets/search_properties.php:178
+#: elementor/widgets/search_properties.php:189
+#: elementor/widgets/search_properties.php:200
+#: elementor/widgets/search_properties.php:211
+#: elementor/widgets/search_properties.php:222
+#: elementor/widgets/search_properties.php:249
+#: elementor/widgets/services.php:342 elementor/widgets/featured_agents.php:165
+#: elementor/widgets/numbers.php:181 elementor/widgets/contact.php:162
+#: elementor/widgets/areas.php:297 elementor/widgets/promo.php:286
+#: elementor/widgets/video.php:128 elementor/widgets/testimonials.php:178
+#: elementor/widgets/featured_posts.php:110
+#: elementor/widgets/single_property.php:122
+#: elementor/widgets/recent_posts.php:110
+#: elementor/widgets/promo_slider.php:177
+#: elementor/widgets/recent_properties.php:222
+#: elementor/widgets/featured_properties.php:222
+msgid "Yes"
+msgstr ""
+
+#: services/users.php:288 services/users.php:449 services/users.php:509
+msgid "You are already signed in, redirecting..."
+msgstr ""
+
+#: page-templates/account-settings.php:108
+msgid "You don't have an active membership plan."
+msgstr ""
+
+#: services/paypal.php:356
+#, php-format
+msgid "You have a new featured listing on %s."
+msgstr ""
+
+#: services/paypal.php:395
+#, php-format
+msgid "You have a new membership plan on %s is activated."
+msgstr ""
+
+#: services/paypal.php:359
+#, php-format
+msgid "You have a new paid submission on %s."
+msgstr ""
+
+#: services/subscription.php:32
+msgid "You have already subscribed."
+msgstr ""
+
+#: page-templates/wish-list.php:144
+msgid "You have no properties saved to your wish list."
+msgstr ""
+
+#: page-templates/my-properties.php:297
+msgid "You have no properties submitted."
+msgstr ""
+
+#: page-templates/saved-searches.php:64
+msgid "You have no saved searches."
+msgstr ""
+
+#: services/subscription.php:45
+msgid "You have successfully subscribed."
+msgstr ""
+
+#: page-templates/account-settings.php:109
+msgid "You have to choose one in order to submit listings."
+msgstr ""
+
+#: services/users.php:81
+msgid "You need to agree with Terms and Conditions"
+msgstr ""
+
+#: page-templates/submit-property.php:1130
+msgid "You ran out of available submissions."
+msgstr ""
+
+#: services/report-property.php:21
+msgid "You received a report regarding this property listing:"
+msgstr ""
+
+#: services/contact.php:69 services/contact.php:171 services/contact.php:267
+#: services/contact.php:363 services/contact-agent.php:30
+#: services/contact-agent.php:36 services/contact-agent.php:164
+msgid "You received the following message from "
+msgstr ""
+
+#: services/users.php:683
+msgid "Your account settings were successfully updated. Redirecting..."
+msgstr ""
+
+#: widgets/contact.php:9
+msgid "Your contact information"
+msgstr ""
+
+#: shortcodes/contact.php:156 views/page-header.php:690
+#: views/page-header.php:768 elementor/widgets/contact.php:297
+msgid "Your email"
+msgstr ""
+
+#: shortcodes/contact.php:71 elementor/widgets/contact.php:222
+msgid "Your email..."
+msgstr ""
+
+#: page-templates/submit-property.php:1122
+msgid "Your membership plan expired."
+msgstr ""
+
+#: services/contact.php:93 services/contact.php:195 services/contact.php:291
+#: services/contact.php:387 services/contact-agent.php:134
+#: services/contact-agent.php:256
+msgid "Your message failed to be sent."
+msgstr ""
+
+#: services/contact-agent.php:23 services/contact-agent.php:159
+msgid "Your message failed to be sent. Please check your fields."
+msgstr ""
+
+#: services/contact.php:90 services/contact.php:192 services/contact.php:288
+#: services/contact.php:384 services/contact-agent.php:131
+#: services/contact-agent.php:253
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: shortcodes/contact.php:146 views/page-header.php:758
+#: elementor/widgets/contact.php:287
+msgid "Your name"
+msgstr ""
+
+#: shortcodes/contact.php:151 views/page-header.php:763
+#: elementor/widgets/contact.php:292
+msgid "Your number"
+msgstr ""
+
+#: services/users.php:420
+msgid "Your password has been reset."
+msgstr ""
+
+#: services/users.php:209
+msgid "Your profile was successfully updated. Redirecting..."
+msgstr ""
+
+#: services/report-property.php:45
+msgid "Your report failed to be submited."
+msgstr ""
+
+#: services/report-property.php:42
+msgid "Your report was successfully submited."
+msgstr ""
+
+#: services/users.php:736
+msgid "Your search was successfully saved."
+msgstr ""
+
+#: widgets/social.php:54
+msgid "YouTube Link"
+msgstr ""
+
+#: post-types/property.php:451
+msgid "YouTube Video ID"
+msgstr ""
+
+#: page-templates/submit-property.php:490
+msgid "YouTube video ID"
+msgstr ""
+
+#: shortcodes/shortcodes.php:567 post-types/page-meta.php:775
+#: elementor/widgets/video.php:104
+msgid "Youtube video ID"
+msgstr ""
+
+#: shortcodes/search_properties.php:486
+#: views/filter-properties-form-sidebar.php:367
+#: views/filter-properties-form.php:394
+#: elementor/widgets/search_properties.php:754
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Zambia"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1009
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Zimbabwe"
+msgstr ""
+
+#: page-templates/submit-property.php:1065 post-types/property.php:264
+#: admin/sections/address.php:39 admin/sections/property_fields.php:19
+msgid "Zip Code"
+msgstr ""
+
+#: services/save-property.php:162
+msgid "Zip field is mandatory."
+msgstr ""
+
+#: admin/sections/general.php:61
+msgid "Zulu (South Africa)"
+msgstr ""
+
+#: admin/sections/general.php:39
+msgid "Åland Islands"
+msgstr ""

@@ -1,0 +1,851 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Resideo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-30 14:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: resideo"
+
+#: functions.php:621 functions.php:674
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: single-agent.php:101
+msgid "About"
+msgstr ""
+
+#: header.php:141
+msgid "Account Settings"
+msgstr ""
+
+#: comments-property-d4.php:166 comments.php:166
+msgid "Agent Reviews"
+msgstr ""
+
+#: functions.php:61
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: templates/single_property_d3.php:160 templates/single_property_d3.php:468
+#: templates/single_property_d2.php:160 templates/single_property_d2.php:503
+#: templates/single_property_d1.php:160 templates/single_property_d1.php:508
+#: templates/single_property_d5.php:160 templates/single_property_d5.php:417
+#: templates/single_property_d4.php:202 templates/single_property_d4.php:541
+#: templates/single_property_d6.php:160 templates/single_property_d6.php:523
+#: templates/single_property_d7.php:160 templates/single_property_d7.php:515
+msgid "Amenities"
+msgstr ""
+
+#: author.php:27
+msgid "Articles By"
+msgstr ""
+
+#: functions.php:410 templates/single_property_d3.php:587
+#: templates/single_property_d2.php:622 templates/single_property_d1.php:627
+#: templates/single_property_d5.php:536 templates/single_property_d6.php:642
+#: templates/single_property_d7.php:634
+msgid "Arts & Entertainment"
+msgstr ""
+
+#: functions.php:617
+msgid "Author"
+msgstr ""
+
+#: functions.php:55
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:53
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:54
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single.php:49
+msgid "By"
+msgstr ""
+
+#: functions.php:409 templates/single_property_d3.php:586
+#: templates/single_property_d2.php:621 templates/single_property_d1.php:626
+#: templates/single_property_d5.php:535 templates/single_property_d6.php:641
+#: templates/single_property_d7.php:633
+msgid "Cafes & Bars"
+msgstr ""
+
+#: comments-property-d4.php:103 comments.php:103
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments-property-d4.php:91 comments.php:91
+msgid "Cancel Review"
+msgstr ""
+
+#: functions.php:538
+msgid "Column #1 Footer Widget Area"
+msgstr ""
+
+#: functions.php:548
+msgid "Column #2 Footer Widget Area"
+msgstr ""
+
+#: functions.php:558
+msgid "Column #3 Footer Widget Area"
+msgstr ""
+
+#: functions.php:568
+msgid "Column #4 Footer Widget Area"
+msgstr ""
+
+#: comments-property-d4.php:30 comments-property-d4.php:125 comments.php:30
+#: comments.php:125
+msgid "Comment"
+msgstr ""
+
+#: comments-property-d4.php:32 comments.php:32
+msgid "Comments"
+msgstr ""
+
+#: comments-property-d4.php:77 comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/single_property_d3.php:780 templates/single_property_d2.php:471
+#: templates/single_property_d1.php:820 templates/single_property_d5.php:301
+#: templates/single_property_d4.php:464 templates/single_property_d6.php:835
+#: templates/single_property_d7.php:827
+msgid "Contact Agent"
+msgstr ""
+
+#: functions.php:337
+msgid "Contacted"
+msgstr ""
+
+#: functions.php:62
+msgid "Dismiss this notice"
+msgstr ""
+
+#: templates/single_property_d3.php:688 templates/single_property_d2.php:723
+#: templates/single_property_d1.php:728 templates/single_property_d5.php:702
+#: templates/single_property_d4.php:739 templates/single_property_d6.php:743
+#: templates/single_property_d7.php:735
+msgid "Down Payment"
+msgstr ""
+
+#: functions.php:636
+msgid "Edit"
+msgstr ""
+
+#: comments-property-d4.php:142 comments.php:142
+msgid "Email"
+msgstr ""
+
+#: functions.php:342
+msgid "Engaged"
+msgstr ""
+
+#: templates/single_property_d3.php:176 templates/single_property_d3.php:581
+#: templates/single_property_d2.php:176 templates/single_property_d2.php:616
+#: templates/single_property_d1.php:176 templates/single_property_d1.php:621
+#: templates/single_property_d5.php:176 templates/single_property_d5.php:530
+#: templates/single_property_d4.php:218 templates/single_property_d6.php:176
+#: templates/single_property_d6.php:636 templates/single_property_d7.php:176
+#: templates/single_property_d7.php:628
+msgid "Explore the Area"
+msgstr ""
+
+#: index.php:87 archive.php:94 search.php:75 author.php:77
+#: templates/featured_posts_carousel.php:144
+msgid "Featured"
+msgstr ""
+
+#: functions.php:340
+msgid "Fit"
+msgstr ""
+
+#: functions.php:411 templates/single_property_d3.php:588
+#: templates/single_property_d2.php:623 templates/single_property_d1.php:628
+#: templates/single_property_d5.php:537 templates/single_property_d6.php:643
+#: templates/single_property_d7.php:635
+msgid "Fitness"
+msgstr ""
+
+#: templates/single_property_d3.php:172 templates/single_property_d3.php:533
+#: templates/single_property_d2.php:172 templates/single_property_d2.php:568
+#: templates/single_property_d1.php:172 templates/single_property_d1.php:573
+#: templates/single_property_d5.php:172 templates/single_property_d5.php:482
+#: templates/single_property_d4.php:214 templates/single_property_d4.php:603
+#: templates/single_property_d6.php:172 templates/single_property_d6.php:588
+#: templates/single_property_d7.php:172 templates/single_property_d7.php:580
+msgid "Floor Plans"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: functions.php:204
+msgid "Geocode was not successful for the following reason"
+msgstr ""
+
+#: 404.php:22
+msgid "Go Home"
+msgstr ""
+
+#: functions.php:365 templates/single_property_d3.php:635
+#: templates/single_property_d2.php:670 templates/single_property_d1.php:675
+#: templates/single_property_d5.php:649 templates/single_property_d4.php:686
+#: templates/single_property_d6.php:690 templates/single_property_d7.php:682
+msgid "HOA Dues"
+msgstr ""
+
+#: templates/single_property_d3.php:680 templates/single_property_d2.php:715
+#: templates/single_property_d1.php:720 templates/single_property_d5.php:694
+#: templates/single_property_d4.php:731 templates/single_property_d6.php:735
+#: templates/single_property_d7.php:727
+msgid "Home Price"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://pixelprime.co/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://pixelprime.co/themes/resideo-wp/"
+msgstr ""
+
+#: functions.php:529
+msgid "IDX properties page search form widget area"
+msgstr ""
+
+#: functions.php:527
+msgid "IDX Properties Page Search Widget Area"
+msgstr ""
+
+#: functions.php:43
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:42
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:44
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: templates/single_property_d3.php:674 templates/single_property_d2.php:709
+#: templates/single_property_d1.php:714 templates/single_property_d5.php:688
+#: templates/single_property_d4.php:725 templates/single_property_d6.php:729
+#: templates/single_property_d7.php:721
+msgid "Interest"
+msgstr ""
+
+#: templates/single_property_d3.php:152 templates/single_property_d3.php:401
+#: templates/single_property_d2.php:152 templates/single_property_d1.php:152
+#: templates/single_property_d1.php:441 templates/single_property_d5.php:152
+#: templates/single_property_d5.php:558 templates/single_property_d4.php:194
+#: templates/single_property_d4.php:476 templates/single_property_d6.php:152
+#: templates/single_property_d6.php:456 templates/single_property_d7.php:152
+#: templates/single_property_d7.php:448
+msgid "Key Details"
+msgstr ""
+
+#: index.php:30
+msgid "Latest Articles"
+msgstr ""
+
+#: functions.php:327 functions.php:336
+msgid "Leads"
+msgstr ""
+
+#: comments-property-d4.php:101 comments.php:101
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments-property-d4.php:102 comments.php:102
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/single_property_d3.php:732 templates/single_property_d2.php:423
+#: templates/single_property_d1.php:772 templates/single_property_d6.php:787
+#: templates/single_property_d7.php:779
+msgid "Listed By"
+msgstr ""
+
+#: templates/agent_properties.php:40
+msgid "Listings by"
+msgstr ""
+
+#: functions.php:347
+msgid "Loading messages"
+msgstr ""
+
+#: templates/single_property_d4.php:243
+msgid "Loading property"
+msgstr ""
+
+#: functions.php:349
+msgid "Loading saved searches"
+msgstr ""
+
+#: functions.php:348
+msgid "Loading wish list"
+msgstr ""
+
+#: functions.php:516
+msgid "Main Widget Area"
+msgstr ""
+
+#: header.php:138
+msgid "My Leads"
+msgstr ""
+
+#: header.php:134
+msgid "My Properties"
+msgstr ""
+
+#: comments-property-d4.php:135 comments.php:135
+msgid "Name"
+msgstr ""
+
+#: index.php:116 archive.php:123 search.php:104 author.php:106
+msgid "Newer Articles"
+msgstr ""
+
+#: comments-property-d4.php:66 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments-property-d4.php:64 comments.php:64
+msgid "Newer Reviews"
+msgstr ""
+
+#: functions.php:59
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: index.php:106 archive.php:113 search.php:94 author.php:96
+msgid "No articles found"
+msgstr ""
+
+#: functions.php:343
+msgid "No messages."
+msgstr ""
+
+#: functions.php:344
+msgid "No properties in wish list."
+msgstr ""
+
+#: templates/related_posts.php:73 templates/related_posts.php:76
+msgid "No related articles"
+msgstr ""
+
+#: functions.php:345
+msgid "No saved searches."
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebars"
+msgstr ""
+
+#: functions.php:339
+msgid "None"
+msgstr ""
+
+#: functions.php:338
+msgid "Not contacted"
+msgstr ""
+
+#: index.php:115 archive.php:122 search.php:103 author.php:105
+msgid "Older Articles"
+msgstr ""
+
+#: comments-property-d4.php:59 comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: comments-property-d4.php:57 comments.php:57
+msgid "Older Reviews"
+msgstr ""
+
+#: templates/single_property_d3.php:156 templates/single_property_d3.php:456
+#: templates/single_property_d2.php:156 templates/single_property_d2.php:491
+#: templates/single_property_d1.php:156 templates/single_property_d1.php:496
+#: templates/single_property_d5.php:156 templates/single_property_d5.php:405
+#: templates/single_property_d4.php:198 templates/single_property_d4.php:530
+#: templates/single_property_d6.php:156 templates/single_property_d6.php:511
+#: templates/single_property_d7.php:156 templates/single_property_d7.php:503
+msgid "Overview"
+msgstr ""
+
+#: templates/single_property_d3.php:180 templates/single_property_d3.php:599
+#: templates/single_property_d2.php:180 templates/single_property_d2.php:634
+#: templates/single_property_d1.php:180 templates/single_property_d1.php:639
+#: templates/single_property_d5.php:180 templates/single_property_d5.php:613
+#: templates/single_property_d4.php:222 templates/single_property_d4.php:650
+#: templates/single_property_d6.php:180 templates/single_property_d6.php:654
+#: templates/single_property_d7.php:180 templates/single_property_d7.php:646
+msgid "Payment Calculator"
+msgstr ""
+
+#: templates/single_property_d3.php:607 templates/single_property_d2.php:642
+#: templates/single_property_d1.php:647 templates/single_property_d5.php:621
+#: templates/single_property_d4.php:658 templates/single_property_d6.php:662
+#: templates/single_property_d7.php:654
+msgid "per month"
+msgstr ""
+
+#. Author of the theme
+msgid "Pixel Prime"
+msgstr ""
+
+#: functions.php:64
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions.php:57
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:60
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: comments-property-d4.php:104 comments.php:104
+msgid "Post Comment"
+msgstr ""
+
+#: comments-property-d4.php:92 comments.php:92
+msgid "Post Review"
+msgstr ""
+
+#: functions.php:363 templates/single_property_d3.php:615
+#: templates/single_property_d2.php:650 templates/single_property_d1.php:655
+#: templates/single_property_d5.php:629 templates/single_property_d4.php:666
+#: templates/single_property_d6.php:670 templates/single_property_d7.php:662
+msgid "Principal and Interest"
+msgstr ""
+
+#: templates/single_property_d3.php:245 templates/single_property_d3.php:350
+#: templates/single_property_d2.php:244 templates/single_property_d1.php:245
+#: templates/single_property_d1.php:390 templates/single_property_d5.php:373
+#: templates/single_property_d4.php:381 templates/single_property_d6.php:245
+#: templates/single_property_d6.php:405 templates/single_property_d7.php:245
+#: templates/single_property_d7.php:397
+msgid "Print listing"
+msgstr ""
+
+#: functions.php:364 templates/single_property_d3.php:625
+#: templates/single_property_d2.php:660 templates/single_property_d1.php:665
+#: templates/single_property_d5.php:639 templates/single_property_d4.php:676
+#: templates/single_property_d6.php:680 templates/single_property_d7.php:672
+msgid "Property Taxes"
+msgstr ""
+
+#: comments-property-d4.php:95 comments.php:95
+msgid "Rate the agent"
+msgstr ""
+
+#: index.php:99 archive.php:106 search.php:87 author.php:89
+#: templates/related_posts.php:67 templates/featured_posts_carousel.php:69
+#: templates/featured_posts_carousel.php:136
+msgid "Read Article"
+msgstr ""
+
+#: functions.php:341
+msgid "Ready"
+msgstr ""
+
+#: templates/related_posts.php:9
+msgid "Related Articles"
+msgstr ""
+
+#: functions.php:346
+msgid "Related Property"
+msgstr ""
+
+#: templates/single_property_d3.php:255 templates/single_property_d3.php:360
+#: templates/single_property_d2.php:254 templates/single_property_d1.php:255
+#: templates/single_property_d1.php:400 templates/single_property_d5.php:383
+#: templates/single_property_d4.php:391 templates/single_property_d6.php:255
+#: templates/single_property_d6.php:415 templates/single_property_d7.php:255
+#: templates/single_property_d7.php:407
+msgid "Report problem with listing"
+msgstr ""
+
+#. Name of the theme
+msgid "Resideo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Resideo is a powerful WordPress theme built for real estate professionals."
+msgstr ""
+
+#: functions.php:407 templates/single_property_d3.php:584
+#: templates/single_property_d2.php:619 templates/single_property_d1.php:624
+#: templates/single_property_d5.php:533 templates/single_property_d6.php:639
+#: templates/single_property_d7.php:631
+msgid "Restaurants"
+msgstr ""
+
+#: functions.php:56
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: comments-property-d4.php:24 comments.php:24
+msgid "Review"
+msgstr ""
+
+#: comments-property-d4.php:26 comments.php:26
+msgid "Reviews"
+msgstr ""
+
+#: comments-property-d4.php:75 comments.php:75
+msgid "Reviews are closed."
+msgstr ""
+
+#: functions.php:324 templates/single_property_d3.php:214
+#: templates/single_property_d3.php:219 templates/single_property_d3.php:224
+#: templates/single_property_d3.php:226 templates/single_property_d3.php:319
+#: templates/single_property_d3.php:324 templates/single_property_d3.php:329
+#: templates/single_property_d3.php:331 templates/single_property_d2.php:213
+#: templates/single_property_d2.php:218 templates/single_property_d2.php:223
+#: templates/single_property_d2.php:225 templates/single_property_d1.php:214
+#: templates/single_property_d1.php:219 templates/single_property_d1.php:224
+#: templates/single_property_d1.php:226 templates/single_property_d1.php:359
+#: templates/single_property_d1.php:364 templates/single_property_d1.php:369
+#: templates/single_property_d1.php:371 templates/single_property_d5.php:342
+#: templates/single_property_d5.php:347 templates/single_property_d5.php:352
+#: templates/single_property_d5.php:354 templates/single_property_d4.php:350
+#: templates/single_property_d4.php:355 templates/single_property_d4.php:360
+#: templates/single_property_d4.php:362 templates/single_property_d6.php:214
+#: templates/single_property_d6.php:219 templates/single_property_d6.php:224
+#: templates/single_property_d6.php:226 templates/single_property_d6.php:374
+#: templates/single_property_d6.php:379 templates/single_property_d6.php:384
+#: templates/single_property_d6.php:386 templates/single_property_d7.php:214
+#: templates/single_property_d7.php:219 templates/single_property_d7.php:224
+#: templates/single_property_d7.php:226 templates/single_property_d7.php:366
+#: templates/single_property_d7.php:371 templates/single_property_d7.php:376
+#: templates/single_property_d7.php:378
+msgid "Save"
+msgstr ""
+
+#: functions.php:325 templates/single_property_d3.php:216
+#: templates/single_property_d3.php:321 templates/single_property_d2.php:215
+#: templates/single_property_d1.php:216 templates/single_property_d1.php:361
+#: templates/single_property_d5.php:344 templates/single_property_d4.php:352
+#: templates/single_property_d6.php:216 templates/single_property_d6.php:376
+#: templates/single_property_d7.php:216 templates/single_property_d7.php:368
+msgid "Saved"
+msgstr ""
+
+#: header.php:131
+msgid "Saved Searches"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:408 templates/single_property_d3.php:585
+#: templates/single_property_d2.php:620 templates/single_property_d1.php:625
+#: templates/single_property_d5.php:534 templates/single_property_d6.php:640
+#: templates/single_property_d7.php:632
+msgid "Shopping"
+msgstr ""
+
+#: templates/single_property_d4.php:245
+msgid "Show details"
+msgstr ""
+
+#: single-agent.php:54 templates/single_property_d3.php:747
+#: templates/single_property_d2.php:438 templates/single_property_d1.php:787
+#: templates/single_property_d5.php:262 templates/single_property_d4.php:431
+#: templates/single_property_d6.php:802 templates/single_property_d7.php:794
+msgid "Show phone number"
+msgstr ""
+
+#: comments-property-d4.php:169 comments.php:169
+msgid "Sign In and Write a Review"
+msgstr ""
+
+#: header.php:142
+msgid "Sign Out"
+msgstr ""
+
+#: single-agent.php:124
+msgid "Social Media"
+msgstr ""
+
+#: functions.php:46
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: single-agent.php:113
+msgid "Specialities"
+msgstr ""
+
+#: templates/single_property_d3.php:406 templates/single_property_d2.php:362
+#: templates/single_property_d1.php:446 templates/single_property_d5.php:563
+#: templates/single_property_d4.php:481 templates/single_property_d6.php:461
+#: templates/single_property_d7.php:453
+msgid "Status"
+msgstr ""
+
+#: header.php:127
+msgid "Submit New Property"
+msgstr ""
+
+#: templates/single_property_d3.php:662 templates/single_property_d2.php:697
+#: templates/single_property_d1.php:702 templates/single_property_d5.php:676
+#: templates/single_property_d4.php:713 templates/single_property_d6.php:717
+#: templates/single_property_d7.php:709
+msgid "Term"
+msgstr ""
+
+#: functions.php:540
+msgid "The first column footer widget area"
+msgstr ""
+
+#: functions.php:49
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:58
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions.php:52
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:51
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:570
+msgid "The fourth column footer widget area"
+msgstr ""
+
+#: functions.php:518
+msgid "The main widget area"
+msgstr ""
+
+#: functions.php:550
+msgid "The second column footer widget area"
+msgstr ""
+
+#: functions.php:560
+msgid "The third column footer widget area"
+msgstr ""
+
+#: functions.php:63
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions.php:50
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:16
+msgid "This page is off the map"
+msgstr ""
+
+#: functions.php:48
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:47
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:101
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:406 templates/single_property_d3.php:583
+#: templates/single_property_d2.php:618 templates/single_property_d1.php:623
+#: templates/single_property_d5.php:532 templates/single_property_d6.php:638
+#: templates/single_property_d7.php:630
+msgid "Transportation"
+msgstr ""
+
+#: templates/single_property_d3.php:415 templates/single_property_d2.php:371
+#: templates/single_property_d1.php:455 templates/single_property_d5.php:572
+#: templates/single_property_d4.php:490 templates/single_property_d6.php:470
+#: templates/single_property_d7.php:462
+msgid "Type"
+msgstr ""
+
+#: functions.php:45
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: templates/single_property_d3.php:164 templates/single_property_d3.php:496
+#: templates/single_property_d2.php:164 templates/single_property_d2.php:531
+#: templates/single_property_d1.php:164 templates/single_property_d1.php:536
+#: templates/single_property_d5.php:164 templates/single_property_d5.php:445
+#: templates/single_property_d4.php:206 templates/single_property_d4.php:568
+#: templates/single_property_d6.php:164 templates/single_property_d6.php:551
+#: templates/single_property_d7.php:164 templates/single_property_d7.php:543
+msgid "Video"
+msgstr ""
+
+#: templates/agent_properties.php:98
+msgid "View Details"
+msgstr ""
+
+#: templates/single_property_d1.php:338 templates/single_property_d5.php:333
+msgid "View Photos"
+msgstr ""
+
+#: templates/single_property_d3.php:168 templates/single_property_d3.php:510
+#: templates/single_property_d2.php:168 templates/single_property_d2.php:545
+#: templates/single_property_d1.php:168 templates/single_property_d1.php:550
+#: templates/single_property_d5.php:168 templates/single_property_d5.php:459
+#: templates/single_property_d4.php:210 templates/single_property_d4.php:581
+#: templates/single_property_d6.php:168 templates/single_property_d6.php:565
+#: templates/single_property_d7.php:168 templates/single_property_d7.php:557
+msgid "Virtual Tour"
+msgstr ""
+
+#: functions.php:335
+msgid "vs last 12 months"
+msgstr ""
+
+#: functions.php:332
+msgid "vs last 30 days"
+msgstr ""
+
+#: functions.php:333
+msgid "vs last 60 days"
+msgstr ""
+
+#: functions.php:331
+msgid "vs last 7 days"
+msgstr ""
+
+#: functions.php:334
+msgid "vs last 90 days"
+msgstr ""
+
+#: 404.php:19
+msgid "We can't seem to find the page you're looking for."
+msgstr ""
+
+#: comments-property-d4.php:149 comments.php:149
+msgid "Website"
+msgstr ""
+
+#: header.php:130
+msgid "Wish List"
+msgstr ""
+
+#: single-agent.php:61
+msgid "Work with"
+msgstr ""
+
+#: comments-property-d4.php:89 comments.php:89
+msgid "Write a Review"
+msgstr ""
+
+#: comments-property-d4.php:90 comments.php:90
+#, php-format
+msgid "Write a Review to %s"
+msgstr ""
+
+#: comments-property-d4.php:105 comments.php:105
+msgid "Write your comment..."
+msgstr ""
+
+#: templates/single_property_d3.php:664 templates/single_property_d3.php:665
+#: templates/single_property_d3.php:666 templates/single_property_d3.php:667
+#: templates/single_property_d3.php:668 templates/single_property_d2.php:699
+#: templates/single_property_d2.php:700 templates/single_property_d2.php:701
+#: templates/single_property_d2.php:702 templates/single_property_d2.php:703
+#: templates/single_property_d1.php:704 templates/single_property_d1.php:705
+#: templates/single_property_d1.php:706 templates/single_property_d1.php:707
+#: templates/single_property_d1.php:708 templates/single_property_d5.php:678
+#: templates/single_property_d5.php:679 templates/single_property_d5.php:680
+#: templates/single_property_d5.php:681 templates/single_property_d5.php:682
+#: templates/single_property_d4.php:715 templates/single_property_d4.php:716
+#: templates/single_property_d4.php:717 templates/single_property_d4.php:718
+#: templates/single_property_d4.php:719 templates/single_property_d6.php:719
+#: templates/single_property_d6.php:720 templates/single_property_d6.php:721
+#: templates/single_property_d6.php:722 templates/single_property_d6.php:723
+#: templates/single_property_d7.php:711 templates/single_property_d7.php:712
+#: templates/single_property_d7.php:713 templates/single_property_d7.php:714
+#: templates/single_property_d7.php:715
+msgid "Years Fixed"
+msgstr ""
+
+#: functions.php:626
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments-property-d4.php:121 comments.php:121
+msgid "Your email address will not be published. "
+msgstr ""
+
+#: comments-property-d4.php:93 comments.php:93
+msgid ""
+"Your review helps others decide on the right agent for them. Please tell "
+"others why you recommend this agent."
+msgstr ""
+
+#: functions.php:679
+msgid "Your review is awaiting moderation."
+msgstr ""

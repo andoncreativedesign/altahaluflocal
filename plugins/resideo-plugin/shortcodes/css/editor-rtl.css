@@ -1,0 +1,102 @@
+/**
+ * TinyMCE editor custom elements
+ */
+
+img.sc-module {
+    cursor: pointer;
+    border: 1px dashed #888;
+    width: 100%;
+    height: 200px;
+}
+img.sc-module.res-services-module {
+    background: #f5f7fa url("../images/services-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-recent-properties-module {
+    background: #f5f7fa url("../images/recent-properties-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-featured-properties-module {
+    background: #f5f7fa url("../images/featured-properties-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-properties-module {
+    background: #f5f7fa url("../images/properties-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-single-property-module {
+    background: #f5f7fa url("../images/single-property-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-search-properties-module {
+    background: #f5f7fa url("../images/search-properties-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-areas-module {
+    background: #f5f7fa url("../images/areas-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-info-module {
+    background: #f5f7fa url("../images/info-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-search-properties-module {
+    background: #f5f7fa url("../images/search-properties-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-recent-posts-module {
+    background: #f5f7fa url("../images/recent-posts-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-featured-posts-module {
+    background: #f5f7fa url("../images/featured-posts-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-featured-agents-module {
+    background: #f5f7fa url("../images/featured-agents-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-testimonials-module {
+    background: #f5f7fa url("../images/testimonials-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-membership-plans-module {
+    background: #f5f7fa url("../images/membership-plans-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-promo-module {
+    background: #f5f7fa url("../images/text-image-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-contact-module {
+    background: #f5f7fa url("../images/contact-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-slider-promo-module {
+    background: #f5f7fa url("../images/promo-slider-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-subscribe-module {
+    background: #f5f7fa url("../images/subscribe-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-gallery-carousel-module {
+    background: #f5f7fa url("../images/gallery-carousel-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-numbers-module {
+    background: #f5f7fa url("../images/numbers-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-awards-module {
+    background: #f5f7fa url("../images/awards-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+img.sc-module.res-video-module {
+    background: #f5f7fa url("../images/video-module.png") no-repeat scroll center center;
+    background-size: 196px 156px;
+}
+.mce-content-body img[data-mce-placeholder][data-mce-selected] {
+    outline: 0;
+    border: 1px dotted #888;
+}

@@ -1,0 +1,4 @@
+/themes/twentytwentytwo
+/themes/twentytwentyone
+/themes/twentytwenty
+/uploads
